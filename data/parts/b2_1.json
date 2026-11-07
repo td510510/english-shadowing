@@ -1,0 +1,271 @@
+[
+  {
+    "id": "l01",
+    "title": "The Impact of Technology on Daily Life",
+    "title_vi": "Tác động của công nghệ đến cuộc sống hằng ngày",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Technology has changed the way we live to such an extent that it is hard to imagine life without it.", "vi": "Công nghệ đã thay đổi cách chúng ta sống đến mức khó có thể hình dung cuộc sống thiếu nó."},
+      {"en": "Smartphones, which were once a luxury, are now regarded as essential tools.", "vi": "Điện thoại thông minh, từng là thứ xa xỉ, giờ được xem là công cụ thiết yếu."},
+      {"en": "We can pay bills, book tickets and keep in touch with friends within a few minutes.", "vi": "Chúng ta có thể thanh toán hóa đơn, đặt vé và giữ liên lạc với bạn bè chỉ trong vài phút."},
+      {"en": "However, this convenience comes at a price.", "vi": "Tuy nhiên, sự tiện lợi này phải trả giá."},
+      {"en": "Many people find it difficult to switch off, and as a result, they feel constantly under pressure.", "vi": "Nhiều người khó ngắt kết nối, và kết quả là họ luôn cảm thấy bị áp lực."},
+      {"en": "If I had to choose, I would say the benefits outweigh the drawbacks.", "vi": "Nếu phải chọn, tôi sẽ nói lợi ích nhiều hơn bất lợi."},
+      {"en": "Whereas older generations had to rely on printed maps, we simply follow a voice on our phones.", "vi": "Trong khi các thế hệ trước phải dựa vào bản đồ giấy, chúng ta chỉ cần nghe theo giọng nói trên điện thoại."},
+      {"en": "Even so, I think we should set limits so that technology serves us, rather than controls us.", "vi": "Dù vậy, tôi nghĩ ta nên đặt giới hạn để công nghệ phục vụ ta chứ không điều khiển ta."}
+    ],
+    "vocab": [
+      {"w": "to such an extent that", "vi": "đến mức mà"},
+      {"w": "keep in touch", "vi": "giữ liên lạc"},
+      {"w": "come at a price", "vi": "phải trả giá"},
+      {"w": "switch off", "vi": "ngắt kết nối, nghỉ ngơi"},
+      {"w": "under pressure", "vi": "chịu áp lực"},
+      {"w": "outweigh the drawbacks", "vi": "vượt trội hơn mặt bất lợi"},
+      {"w": "rely on", "vi": "dựa vào"}
+    ],
+    "notes": "Ngắt hơi sau các cụm 'However,' và 'as a result,' với ngữ điệu hơi lên. Nối âm trong 'switch off' và 'find it difficult'."
+  },
+  {
+    "id": "l02",
+    "title": "Working from Home: Pros and Cons",
+    "title_vi": "Làm việc tại nhà: ưu và nhược điểm",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "Working from home has become increasingly popular, especially among people who work in offices.", "vi": "Làm việc tại nhà ngày càng phổ biến, đặc biệt với những người làm văn phòng."},
+      {"en": "One obvious advantage is that you save a great deal of time on commuting.", "vi": "Một lợi thế rõ ràng là bạn tiết kiệm được rất nhiều thời gian đi lại."},
+      {"en": "You can also organise your day around your own needs, which makes you more productive.", "vi": "Bạn cũng có thể sắp xếp ngày làm việc theo nhu cầu riêng, điều này giúp bạn làm việc hiệu quả hơn."},
+      {"en": "On the other hand, it can be quite lonely, as you miss the chance to chat with colleagues.", "vi": "Mặt khác, nó có thể khá cô đơn vì bạn mất cơ hội trò chuyện với đồng nghiệp."},
+      {"en": "Another problem is that the boundary between work and personal life becomes blurred.", "vi": "Một vấn đề khác là ranh giới giữa công việc và đời sống cá nhân trở nên mờ nhạt."},
+      {"en": "If I were a manager, I would offer a mixture of both options.", "vi": "Nếu là quản lý, tôi sẽ đưa ra sự kết hợp cả hai hình thức."},
+      {"en": "That way, employees would enjoy flexibility without losing contact with their team.", "vi": "Như vậy, nhân viên sẽ có sự linh hoạt mà không mất liên lạc với nhóm."},
+      {"en": "In my opinion, a balanced approach is far more sensible than an all-or-nothing one.", "vi": "Theo tôi, cách tiếp cận cân bằng hợp lý hơn nhiều so với cách tất cả hoặc không gì."}
+    ],
+    "vocab": [
+      {"w": "a great deal of", "vi": "rất nhiều"},
+      {"w": "commute", "vi": "đi lại hằng ngày đến chỗ làm"},
+      {"w": "on the other hand", "vi": "mặt khác"},
+      {"w": "blurred boundary", "vi": "ranh giới mờ nhạt"},
+      {"w": "a mixture of", "vi": "sự kết hợp của"},
+      {"w": "flexibility", "vi": "sự linh hoạt"}
+    ],
+    "notes": "Nhấn mạnh các từ nội dung như 'lonely', 'blurred', 'balanced'. Chia câu thành nhóm ý ngắn tại dấu phẩy, giọng xuống ở cuối câu."
+  },
+  {
+    "id": "l03",
+    "title": "Online Learning versus Classroom Learning",
+    "title_vi": "Học trực tuyến và học trên lớp",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Online courses have transformed education, particularly for people who cannot attend lessons in person.", "vi": "Các khóa học trực tuyến đã thay đổi giáo dục, nhất là với những người không thể đến lớp."},
+      {"en": "Students can study at their own pace, which is something a traditional classroom rarely allows.", "vi": "Học viên có thể học theo tốc độ riêng, điều mà lớp học truyền thống hiếm khi cho phép."},
+      {"en": "Moreover, online lessons are often cheaper, since there is no need to pay for travel or accommodation.", "vi": "Hơn nữa, các bài học trực tuyến thường rẻ hơn vì không cần trả tiền đi lại hay chỗ ở."},
+      {"en": "Nevertheless, face-to-face teaching has strengths that screens cannot replace.", "vi": "Tuy nhiên, việc dạy trực tiếp có những thế mạnh mà màn hình không thể thay thế."},
+      {"en": "A teacher who is standing in front of you can sense confusion and respond immediately.", "vi": "Giáo viên đứng trước mặt bạn có thể nhận ra sự bối rối và phản hồi ngay."},
+      {"en": "Had I studied entirely online, I might have lost my motivation halfway through.", "vi": "Nếu tôi học hoàn toàn trực tuyến, có lẽ tôi đã mất động lực giữa chừng."},
+      {"en": "Whereas online learning demands self-discipline, a classroom provides structure and support.", "vi": "Trong khi học trực tuyến đòi hỏi tính tự giác, lớp học mang lại cấu trúc và sự hỗ trợ."},
+      {"en": "For that reason, I believe the best option is a blend of the two.", "vi": "Vì lý do đó, tôi tin lựa chọn tốt nhất là kết hợp cả hai."}
+    ],
+    "vocab": [
+      {"w": "at your own pace", "vi": "theo tốc độ của riêng bạn"},
+      {"w": "face-to-face", "vi": "trực tiếp"},
+      {"w": "sense confusion", "vi": "nhận ra sự bối rối"},
+      {"w": "lose motivation", "vi": "mất động lực"},
+      {"w": "self-discipline", "vi": "tính tự giác"},
+      {"w": "a blend of", "vi": "sự pha trộn của"},
+      {"w": "halfway through", "vi": "giữa chừng"}
+    ],
+    "notes": "Chú ý trọng âm 'Moreover' /mɔːˈrəʊvə/ và 'Nevertheless'. Câu điều kiện 'Had I studied...' đọc với ngữ điệu hơi lên ở mệnh đề đầu."
+  },
+  {
+    "id": "l04",
+    "title": "Protecting the Environment as Individuals",
+    "title_vi": "Bảo vệ môi trường ở cấp độ cá nhân",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "Many people believe that environmental problems should be solved by governments alone.", "vi": "Nhiều người tin rằng các vấn đề môi trường chỉ nên do chính phủ giải quyết."},
+      {"en": "However, individuals can make a real difference through the choices they make every day.", "vi": "Tuy nhiên, mỗi cá nhân có thể tạo ra khác biệt thực sự qua những lựa chọn hằng ngày."},
+      {"en": "For instance, if more people cycled to work, air pollution would fall dramatically.", "vi": "Chẳng hạn, nếu nhiều người đạp xe đi làm hơn, ô nhiễm không khí sẽ giảm mạnh."},
+      {"en": "Plastic, which takes hundreds of years to break down, should be reused or recycled whenever possible.", "vi": "Nhựa, thứ mất hàng trăm năm để phân hủy, nên được tái sử dụng hoặc tái chế bất cứ khi nào có thể."},
+      {"en": "I try to cut down on waste by taking my own bag to the shop.", "vi": "Tôi cố gắng giảm rác thải bằng cách mang túi riêng đi mua sắm."},
+      {"en": "Admittedly, small actions will not solve the crisis overnight.", "vi": "Phải thừa nhận rằng những hành động nhỏ sẽ không giải quyết khủng hoảng trong một sớm một chiều."},
+      {"en": "Nevertheless, if everyone took responsibility, the combined effect would be enormous.", "vi": "Dù vậy, nếu ai cũng có trách nhiệm, tác động tổng hợp sẽ rất lớn."},
+      {"en": "After all, a healthy planet is something we all depend on.", "vi": "Suy cho cùng, một hành tinh khỏe mạnh là thứ mà tất cả chúng ta đều phụ thuộc vào."}
+    ],
+    "vocab": [
+      {"w": "make a difference", "vi": "tạo ra sự khác biệt"},
+      {"w": "air pollution", "vi": "ô nhiễm không khí"},
+      {"w": "break down", "vi": "phân hủy"},
+      {"w": "cut down on", "vi": "cắt giảm"},
+      {"w": "overnight", "vi": "trong một đêm, ngay lập tức"},
+      {"w": "take responsibility", "vi": "nhận trách nhiệm"},
+      {"w": "depend on", "vi": "phụ thuộc vào"}
+    ],
+    "notes": "Nối âm trong 'cut down on' và 'take it'. Câu điều kiện loại 2 chia hai nhóm ý, ngữ điệu lên ở mệnh đề if rồi xuống ở mệnh đề chính."
+  },
+  {
+    "id": "l05",
+    "title": "Social Media and Young People",
+    "title_vi": "Mạng xã hội và giới trẻ",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Social media plays such a large role in the lives of young people that it is hard to ignore its influence.", "vi": "Mạng xã hội đóng vai trò lớn trong cuộc sống giới trẻ đến mức khó bỏ qua ảnh hưởng của nó."},
+      {"en": "On the positive side, it allows teenagers to share ideas and stay connected with friends abroad.", "vi": "Về mặt tích cực, nó cho phép thanh thiếu niên chia sẻ ý tưởng và giữ liên lạc với bạn ở nước ngoài."},
+      {"en": "However, many of them compare themselves with the perfect images that are posted online.", "vi": "Tuy nhiên, nhiều bạn so sánh bản thân với những hình ảnh hoàn hảo được đăng tải trên mạng."},
+      {"en": "As a result, they may suffer from low self-esteem and anxiety.", "vi": "Kết quả là họ có thể bị tự ti và lo âu."},
+      {"en": "If parents were more involved, they could guide their children towards healthier habits.", "vi": "Nếu cha mẹ quan tâm hơn, họ có thể hướng con đến thói quen lành mạnh hơn."},
+      {"en": "Spending hours scrolling through a feed is not only a waste of time but also harmful to sleep.", "vi": "Dành hàng giờ lướt bảng tin không chỉ lãng phí thời gian mà còn có hại cho giấc ngủ."},
+      {"en": "Whereas adults can usually separate reality from fantasy, young people are far more easily influenced.", "vi": "Trong khi người lớn thường phân biệt được thực tế và ảo tưởng, giới trẻ dễ bị ảnh hưởng hơn nhiều."},
+      {"en": "In short, social media is a powerful tool, but it needs to be used wisely.", "vi": "Tóm lại, mạng xã hội là công cụ mạnh mẽ nhưng cần được sử dụng một cách khôn ngoan."}
+    ],
+    "vocab": [
+      {"w": "play a role in", "vi": "đóng vai trò trong"},
+      {"w": "stay connected", "vi": "giữ kết nối"},
+      {"w": "low self-esteem", "vi": "lòng tự trọng thấp"},
+      {"w": "suffer from", "vi": "chịu đựng, mắc phải"},
+      {"w": "be easily influenced", "vi": "dễ bị ảnh hưởng"},
+      {"w": "a waste of time", "vi": "lãng phí thời gian"},
+      {"w": "scroll through", "vi": "lướt qua"}
+    ],
+    "notes": "Cấu trúc 'not only... but also' nhấn vào 'not only' và 'also'. Ngữ điệu xuống rõ ở câu kết 'used wisely'."
+  },
+  {
+    "id": "l06",
+    "title": "Cultural Differences When Travelling",
+    "title_vi": "Khác biệt văn hóa khi đi du lịch",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "Travelling to a foreign country can be exciting, but it often involves some culture shock.", "vi": "Đi du lịch nước ngoài có thể thú vị, nhưng thường kèm theo cú sốc văn hóa."},
+      {"en": "Customs that seem perfectly normal at home may be considered rude elsewhere.", "vi": "Những phong tục có vẻ hoàn toàn bình thường ở nhà có thể bị coi là bất lịch sự ở nơi khác."},
+      {"en": "For example, in some places, people are expected to remove their shoes before entering a house.", "vi": "Ví dụ, ở một số nơi, người ta được mong đợi cởi giày trước khi vào nhà."},
+      {"en": "When I first visited Japan, I wish I had known how important it was to bow politely.", "vi": "Lần đầu đến Nhật, ước gì tôi biết việc cúi chào lịch sự quan trọng đến thế nào."},
+      {"en": "Fortunately, the locals were patient and willing to explain their traditions.", "vi": "May mắn là người dân địa phương rất kiên nhẫn và sẵn lòng giải thích truyền thống của họ."},
+      {"en": "If travellers did a little research beforehand, they would avoid many awkward situations.", "vi": "Nếu du khách tìm hiểu một chút trước, họ sẽ tránh được nhiều tình huống khó xử."},
+      {"en": "Whereas some tourists stay in their comfort zone, others try local food and learn a few phrases.", "vi": "Trong khi một số du khách ở trong vùng an toàn, những người khác thử món địa phương và học vài câu."},
+      {"en": "Personally, I think this openness is what makes travel truly rewarding.", "vi": "Cá nhân tôi nghĩ sự cởi mở này là điều khiến chuyến đi thật sự đáng giá."}
+    ],
+    "vocab": [
+      {"w": "culture shock", "vi": "cú sốc văn hóa"},
+      {"w": "customs", "vi": "phong tục"},
+      {"w": "the locals", "vi": "người dân địa phương"},
+      {"w": "do research", "vi": "tìm hiểu, nghiên cứu"},
+      {"w": "awkward situation", "vi": "tình huống khó xử"},
+      {"w": "comfort zone", "vi": "vùng an toàn"},
+      {"w": "rewarding", "vi": "đáng giá, bổ ích"}
+    ],
+    "notes": "'I wish I had known' đọc nối 'wish I' và rút gọn 'had' thành /həd/. Nhấn mạnh 'exciting' và 'rude' để tạo tương phản."
+  },
+  {
+    "id": "l07",
+    "title": "Urban Living versus Country Living",
+    "title_vi": "Sống ở thành phố và sống ở nông thôn",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "People who live in cities enjoy easy access to jobs, entertainment and public transport.", "vi": "Những người sống ở thành phố dễ dàng tiếp cận việc làm, giải trí và giao thông công cộng."},
+      {"en": "However, city life can be noisy, crowded and expensive.", "vi": "Tuy nhiên, cuộc sống thành phố có thể ồn ào, đông đúc và đắt đỏ."},
+      {"en": "In contrast, the countryside offers fresh air and a slower pace of life.", "vi": "Ngược lại, nông thôn có không khí trong lành và nhịp sống chậm hơn."},
+      {"en": "I grew up in a small village, where everybody knew each other.", "vi": "Tôi lớn lên ở một ngôi làng nhỏ, nơi mọi người đều biết nhau."},
+      {"en": "Although I loved the peace, I would have had far fewer opportunities if I had stayed there.", "vi": "Dù yêu sự yên bình, tôi sẽ có ít cơ hội hơn nhiều nếu ở lại đó."},
+      {"en": "That is why many young people move to urban areas, even though housing is costly.", "vi": "Đó là lý do nhiều bạn trẻ chuyển đến khu đô thị, dù nhà ở đắt đỏ."},
+      {"en": "If I could choose, I would live in a quiet town within reach of a big city.", "vi": "Nếu được chọn, tôi sẽ sống ở một thị trấn yên tĩnh gần một thành phố lớn."},
+      {"en": "That seems to be the best of both worlds.", "vi": "Đó dường như là điều tốt nhất của cả hai thế giới."}
+    ],
+    "vocab": [
+      {"w": "easy access to", "vi": "dễ tiếp cận"},
+      {"w": "public transport", "vi": "giao thông công cộng"},
+      {"w": "in contrast", "vi": "ngược lại"},
+      {"w": "pace of life", "vi": "nhịp sống"},
+      {"w": "grow up", "vi": "lớn lên"},
+      {"w": "within reach of", "vi": "trong tầm với, gần"},
+      {"w": "the best of both worlds", "vi": "tốt nhất của cả hai"}
+    ],
+    "notes": "Liệt kê 'noisy, crowded and expensive' với ngữ điệu lên ở hai từ đầu và xuống ở từ cuối. Nối âm trong 'grew up' và 'moved to'."
+  },
+  {
+    "id": "l08",
+    "title": "The Importance of Lifelong Learning",
+    "title_vi": "Tầm quan trọng của việc học suốt đời",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "In today's rapidly changing world, learning does not end when we leave school.", "vi": "Trong thế giới thay đổi nhanh chóng ngày nay, việc học không kết thúc khi ta rời trường."},
+      {"en": "Skills that were highly valued ten years ago may now be completely out of date.", "vi": "Những kỹ năng từng rất được coi trọng mười năm trước giờ có thể đã hoàn toàn lạc hậu."},
+      {"en": "As a result, workers who keep learning are more likely to stay competitive.", "vi": "Kết quả là những người lao động tiếp tục học hỏi có nhiều khả năng giữ được lợi thế cạnh tranh."},
+      {"en": "Learning is not only useful for careers, but it also keeps the mind sharp as we get older.", "vi": "Học tập không chỉ hữu ích cho sự nghiệp mà còn giữ cho trí óc minh mẫn khi ta già đi."},
+      {"en": "My grandfather, who is seventy, recently took up painting and now exhibits his work.", "vi": "Ông tôi, năm nay bảy mươi tuổi, gần đây bắt đầu vẽ tranh và giờ trưng bày tác phẩm của mình."},
+      {"en": "If he had waited any longer, he might never have discovered his talent.", "vi": "Nếu ông chờ lâu hơn, có lẽ ông đã không bao giờ khám phá ra tài năng của mình."},
+      {"en": "Whereas some people see education as a duty, I see it as a lifelong pleasure.", "vi": "Trong khi một số người xem giáo dục là nghĩa vụ, tôi xem nó là niềm vui suốt đời."},
+      {"en": "It is never too late to learn something new.", "vi": "Không bao giờ là quá muộn để học điều gì đó mới."}
+    ],
+    "vocab": [
+      {"w": "out of date", "vi": "lỗi thời"},
+      {"w": "stay competitive", "vi": "giữ lợi thế cạnh tranh"},
+      {"w": "keep the mind sharp", "vi": "giữ trí óc minh mẫn"},
+      {"w": "take up", "vi": "bắt đầu (sở thích)"},
+      {"w": "exhibit", "vi": "trưng bày"},
+      {"w": "discover a talent", "vi": "khám phá tài năng"},
+      {"w": "lifelong", "vi": "suốt đời"}
+    ],
+    "notes": "Nhấn vào 'never' và 'new' ở câu cuối, giọng xuống dứt khoát. Chú ý 'might never have discovered' đọc yếu 'have' /əv/."
+  },
+  {
+    "id": "l09",
+    "title": "Healthy Eating and Fast Food",
+    "title_vi": "Ăn uống lành mạnh và đồ ăn nhanh",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Fast food is popular because it is cheap, convenient and easy to find.", "vi": "Đồ ăn nhanh phổ biến vì rẻ, tiện lợi và dễ tìm."},
+      {"en": "Nevertheless, a diet that is high in fat and sugar can lead to serious health problems.", "vi": "Tuy nhiên, chế độ ăn nhiều chất béo và đường có thể dẫn đến các vấn đề sức khỏe nghiêm trọng."},
+      {"en": "Obesity, which has increased sharply in recent decades, is closely linked to unhealthy eating habits.", "vi": "Béo phì, vốn tăng mạnh trong những thập kỷ gần đây, có liên hệ chặt chẽ với thói quen ăn uống thiếu lành mạnh."},
+      {"en": "If people cooked at home more often, they would have better control over what they eat.", "vi": "Nếu mọi người nấu ăn ở nhà thường xuyên hơn, họ sẽ kiểm soát tốt hơn những gì mình ăn."},
+      {"en": "I used to eat burgers every week, but I have gradually changed my lifestyle.", "vi": "Tôi từng ăn bánh mì kẹp thịt mỗi tuần, nhưng tôi đã dần thay đổi lối sống."},
+      {"en": "Now I try to eat plenty of vegetables and avoid sugary drinks.", "vi": "Giờ tôi cố ăn nhiều rau và tránh đồ uống có đường."},
+      {"en": "Whereas fast food gives instant satisfaction, a balanced diet brings long-term benefits.", "vi": "Trong khi đồ ăn nhanh mang lại sự thỏa mãn tức thì, chế độ ăn cân bằng mang lại lợi ích lâu dài."},
+      {"en": "In my view, education about nutrition should be taught in every school.", "vi": "Theo tôi, giáo dục về dinh dưỡng nên được dạy ở mọi trường học."}
+    ],
+    "vocab": [
+      {"w": "high in fat", "vi": "nhiều chất béo"},
+      {"w": "lead to", "vi": "dẫn đến"},
+      {"w": "be linked to", "vi": "có liên hệ với"},
+      {"w": "balanced diet", "vi": "chế độ ăn cân bằng"},
+      {"w": "instant satisfaction", "vi": "sự thỏa mãn tức thì"},
+      {"w": "long-term benefits", "vi": "lợi ích lâu dài"},
+      {"w": "nutrition", "vi": "dinh dưỡng"}
+    ],
+    "notes": "'used to' đọc /juːst tə/ nối liền. Trong câu liệt kê 'cheap, convenient and easy' ngữ điệu lên rồi xuống ở từ cuối."
+  },
+  {
+    "id": "l10",
+    "title": "Volunteering in the Community",
+    "title_vi": "Tình nguyện trong cộng đồng",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "Volunteering is a rewarding way to give something back to the community.", "vi": "Tình nguyện là cách đáng giá để đền đáp lại cho cộng đồng."},
+      {"en": "People who take part in charity work often say that they gain as much as they give.", "vi": "Những người tham gia hoạt động từ thiện thường nói rằng họ nhận được nhiều như họ cho đi."},
+      {"en": "Last year, I helped at a local food bank, which supports families in need.", "vi": "Năm ngoái, tôi giúp ở một ngân hàng thực phẩm địa phương, nơi hỗ trợ các gia đình khó khăn."},
+      {"en": "Not only did I meet inspiring people, but I also developed valuable teamwork skills.", "vi": "Tôi không chỉ gặp những người truyền cảm hứng mà còn phát triển kỹ năng làm việc nhóm giá trị."},
+      {"en": "However, some people argue that they are too busy to volunteer.", "vi": "Tuy nhiên, một số người cho rằng họ quá bận để làm tình nguyện."},
+      {"en": "If they set aside just two hours a week, they could make a genuine contribution.", "vi": "Nếu họ dành ra chỉ hai giờ mỗi tuần, họ có thể đóng góp thật sự."},
+      {"en": "As a result, communities become stronger and more caring.", "vi": "Kết quả là cộng đồng trở nên vững mạnh và biết quan tâm hơn."},
+      {"en": "I would strongly encourage everyone to give it a try.", "vi": "Tôi thật sự khuyến khích mọi người hãy thử một lần."}
+    ],
+    "vocab": [
+      {"w": "give something back", "vi": "đền đáp, đóng góp lại"},
+      {"w": "take part in", "vi": "tham gia"},
+      {"w": "charity work", "vi": "hoạt động từ thiện"},
+      {"w": "in need", "vi": "gặp khó khăn, cần giúp đỡ"},
+      {"w": "set aside", "vi": "dành ra"},
+      {"w": "make a contribution", "vi": "đóng góp"},
+      {"w": "give it a try", "vi": "thử một lần"}
+    ],
+    "notes": "Câu đảo 'Not only did I meet...' nhấn mạnh 'Not only' và 'also'. Nối âm trong 'take part in' và 'set aside'."
+  }
+]

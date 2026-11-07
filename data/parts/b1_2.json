@@ -1,0 +1,202 @@
+[
+  {
+    "id": "l13",
+    "title": "Weather and Seasons",
+    "title_vi": "Thời tiết và các mùa",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "The weather in my country changes a lot during the year.", "vi": "Thời tiết ở nước tôi thay đổi nhiều trong năm."},
+      {"en": "Spring is my favourite season because the flowers come out.", "vi": "Mùa xuân là mùa tôi thích nhất vì hoa nở rộ."},
+      {"en": "In summer it's often hot, so we go to the beach at weekends.", "vi": "Mùa hè thường nóng nên cuối tuần chúng tôi hay ra biển."},
+      {"en": "Autumn is cooler, and the leaves turn red and yellow.", "vi": "Mùa thu mát hơn, và lá chuyển sang màu đỏ và vàng."},
+      {"en": "Winter can be very cold, and it has been raining for days now.", "vi": "Mùa đông có thể rất lạnh, và trời đã mưa suốt mấy ngày nay."},
+      {"en": "If it snows tomorrow, I'll stay at home and drink hot chocolate.", "vi": "Nếu ngày mai có tuyết, tôi sẽ ở nhà uống sô-cô-la nóng."},
+      {"en": "Whatever the weather is like, I always take an umbrella.", "vi": "Dù thời tiết thế nào, tôi cũng luôn mang theo ô."}
+    ],
+    "vocab": [
+      {"w": "season", "vi": "mùa"},
+      {"w": "come out", "vi": "nở, xuất hiện"},
+      {"w": "at weekends", "vi": "vào cuối tuần"},
+      {"w": "turn red", "vi": "chuyển sang màu đỏ"},
+      {"w": "it snows", "vi": "tuyết rơi"},
+      {"w": "umbrella", "vi": "cái ô"}
+    ],
+    "notes": "Trong \"it has been raining\", \"has been\" thường rút gọn thành /əz bɪn/ nhẹ. Nối âm ở \"turn red\" và \"stay at home\"; nhấn vào các từ nội dung như SPRING, FAVOURITE, FLOWERS."
+  },
+  {
+    "id": "l14",
+    "title": "Making a Phone Call",
+    "title_vi": "Gọi điện thoại",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Yesterday I had to call the dentist to make an appointment.", "vi": "Hôm qua tôi phải gọi cho nha sĩ để đặt lịch hẹn."},
+      {"en": "First, I said, \"Hello, this is Tom Brown speaking.\"", "vi": "Đầu tiên tôi nói: \"Xin chào, tôi là Tom Brown đây.\""},
+      {"en": "The receptionist asked me to hold on for a moment.", "vi": "Lễ tân bảo tôi chờ máy một lát."},
+      {"en": "When she came back, I asked for an appointment on Friday.", "vi": "Khi cô ấy quay lại, tôi xin một lịch hẹn vào thứ Sáu."},
+      {"en": "Unfortunately, the line was bad, so I couldn't hear her clearly.", "vi": "Thật tiếc là đường truyền kém nên tôi nghe không rõ."},
+      {"en": "I asked her to repeat the time, and she spoke more slowly.", "vi": "Tôi nhờ cô ấy nhắc lại giờ, và cô ấy nói chậm hơn."},
+      {"en": "In the end, I wrote it down and thanked her before I hung up.", "vi": "Cuối cùng tôi ghi lại và cảm ơn cô ấy trước khi cúp máy."}
+    ],
+    "vocab": [
+      {"w": "make an appointment", "vi": "đặt lịch hẹn"},
+      {"w": "hold on", "vi": "chờ máy"},
+      {"w": "receptionist", "vi": "lễ tân"},
+      {"w": "the line was bad", "vi": "đường truyền kém"},
+      {"w": "repeat", "vi": "nhắc lại"},
+      {"w": "hang up", "vi": "cúp máy"}
+    ],
+    "notes": "\"Hold on\" và \"wrote it down\" nối âm thành một cụm: /həʊldˈɒn/, /rəʊt ɪt daʊn/. \"Could not\" rút gọn thành \"couldn't\" /ˈkʊdnt/."
+  },
+  {
+    "id": "l15",
+    "title": "My First Job",
+    "title_vi": "Công việc đầu tiên của tôi",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "My first job was in a small café near my university.", "vi": "Công việc đầu tiên của tôi là ở một quán cà phê nhỏ gần trường đại học."},
+      {"en": "I worked there for two years as a waitress.", "vi": "Tôi làm ở đó hai năm với vai trò phục vụ bàn."},
+      {"en": "At first, I was nervous because I had never worked before.", "vi": "Lúc đầu tôi rất lo vì trước đó chưa từng đi làm."},
+      {"en": "My manager was kind, and she taught me everything I needed to know.", "vi": "Quản lý của tôi rất tốt bụng và dạy tôi mọi điều cần biết."},
+      {"en": "The work was tiring, but I met a lot of interesting people.", "vi": "Công việc mệt mỏi nhưng tôi đã gặp nhiều người thú vị."},
+      {"en": "I've learnt that being polite and on time is really important.", "vi": "Tôi đã học được rằng lịch sự và đúng giờ là rất quan trọng."},
+      {"en": "If I hadn't taken that job, I wouldn't be so confident today.", "vi": "Nếu tôi không nhận công việc đó, hôm nay tôi sẽ không tự tin như vậy."}
+    ],
+    "vocab": [
+      {"w": "waitress", "vi": "nữ phục vụ bàn"},
+      {"w": "nervous", "vi": "lo lắng"},
+      {"w": "manager", "vi": "quản lý"},
+      {"w": "tiring", "vi": "mệt mỏi"},
+      {"w": "on time", "vi": "đúng giờ"},
+      {"w": "confident", "vi": "tự tin"}
+    ],
+    "notes": "\"I've learnt\" đọc nối /aɪv lɜːnt/; \"hadn't\" và \"wouldn't\" có âm /t/ yếu. Chú ý nối âm trong \"a lot of\" /ə ˈlɒt əv/."
+  },
+  {
+    "id": "l16",
+    "title": "Moving to a New House",
+    "title_vi": "Chuyển đến nhà mới",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Last month we moved to a new house on the edge of town.", "vi": "Tháng trước chúng tôi chuyển đến một ngôi nhà mới ở rìa thị trấn."},
+      {"en": "It has three bedrooms and a lovely garden at the back.", "vi": "Nhà có ba phòng ngủ và một khu vườn xinh xắn ở phía sau."},
+      {"en": "Packing all our things was harder than I expected.", "vi": "Việc đóng gói đồ đạc khó hơn tôi tưởng."},
+      {"en": "My friends helped us carry the boxes and the heavy furniture.", "vi": "Bạn bè đã giúp chúng tôi khiêng các thùng đồ và đồ nội thất nặng."},
+      {"en": "We haven't unpacked everything yet, so the kitchen is a mess.", "vi": "Chúng tôi vẫn chưa dỡ hết đồ, nên nhà bếp khá bừa bộn."},
+      {"en": "The neighbours seem friendly, and the street is very quiet.", "vi": "Hàng xóm có vẻ thân thiện và con phố rất yên tĩnh."},
+      {"en": "If you come next weekend, I'll show you around.", "vi": "Nếu cuối tuần sau bạn ghé qua, tôi sẽ dẫn bạn đi tham quan."}
+    ],
+    "vocab": [
+      {"w": "move to", "vi": "chuyển đến"},
+      {"w": "on the edge of", "vi": "ở rìa của"},
+      {"w": "furniture", "vi": "đồ nội thất"},
+      {"w": "unpack", "vi": "dỡ đồ"},
+      {"w": "a mess", "vi": "bừa bộn"},
+      {"w": "show someone around", "vi": "dẫn ai đi tham quan"}
+    ],
+    "notes": "\"Edge of\" nối âm /edʒ əv/; \"haven't unpacked\" có /t/ rất nhẹ. Nhấn mạnh từ nội dung như BEDrooms, GARden, FURniture."
+  },
+  {
+    "id": "l17",
+    "title": "Watching Films and TV",
+    "title_vi": "Xem phim và truyền hình",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "I love watching films, especially comedies and thrillers.", "vi": "Tôi thích xem phim, đặc biệt là phim hài và phim ly kỳ."},
+      {"en": "On Friday nights, my friends and I usually go to the cinema.", "vi": "Vào tối thứ Sáu, tôi và bạn bè thường đi xem phim ở rạp."},
+      {"en": "I prefer the cinema because the screen is huge and the sound is amazing.", "vi": "Tôi thích rạp hơn vì màn hình rất lớn và âm thanh tuyệt vời."},
+      {"en": "At home, I mostly watch TV series online.", "vi": "Ở nhà, tôi chủ yếu xem phim truyền hình nhiều tập trên mạng."},
+      {"en": "I've just finished a series that was full of surprises.", "vi": "Tôi vừa xem xong một bộ phim đầy bất ngờ."},
+      {"en": "If a film is boring, I switch it off after twenty minutes.", "vi": "Nếu phim chán, tôi tắt đi sau hai mươi phút."},
+      {"en": "Would you recommend anything good to watch this weekend?", "vi": "Bạn có gợi ý phim nào hay để xem cuối tuần này không?"}
+    ],
+    "vocab": [
+      {"w": "comedy", "vi": "phim hài"},
+      {"w": "thriller", "vi": "phim ly kỳ"},
+      {"w": "the cinema", "vi": "rạp chiếu phim"},
+      {"w": "series", "vi": "phim nhiều tập"},
+      {"w": "full of surprises", "vi": "đầy bất ngờ"},
+      {"w": "switch off", "vi": "tắt đi"}
+    ],
+    "notes": "\"Would you\" thường nối thành /ˈwʊdʒə/. \"Full of\" đọc yếu /fʊl əv/; ngữ điệu câu hỏi cuối đi lên ở \"weekend\"."
+  },
+  {
+    "id": "l18",
+    "title": "Cooking My Favourite Dish",
+    "title_vi": "Nấu món ăn yêu thích",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "My favourite dish to cook is vegetable pasta.", "vi": "Món tôi thích nấu nhất là mì ống rau củ."},
+      {"en": "First, I chop an onion, two tomatoes and some peppers.", "vi": "Đầu tiên, tôi thái một củ hành, hai quả cà chua và vài quả ớt chuông."},
+      {"en": "Then I fry them in a little oil for about five minutes.", "vi": "Sau đó tôi xào chúng với một chút dầu khoảng năm phút."},
+      {"en": "While the sauce is cooking, I boil the pasta in a large pot.", "vi": "Trong lúc nước sốt đang sôi, tôi luộc mì trong một cái nồi lớn."},
+      {"en": "I always add a pinch of salt and plenty of fresh herbs.", "vi": "Tôi luôn thêm một nhúm muối và thật nhiều rau thơm tươi."},
+      {"en": "If you don't overcook it, the pasta tastes much better.", "vi": "Nếu bạn không nấu quá lửa, mì sẽ ngon hơn nhiều."},
+      {"en": "I've made this dish so many times that I don't need a recipe.", "vi": "Tôi đã nấu món này nhiều lần đến mức không cần công thức."}
+    ],
+    "vocab": [
+      {"w": "chop", "vi": "thái nhỏ"},
+      {"w": "fry", "vi": "chiên, xào"},
+      {"w": "boil", "vi": "luộc, đun sôi"},
+      {"w": "a pinch of", "vi": "một nhúm"},
+      {"w": "overcook", "vi": "nấu quá lâu"},
+      {"w": "recipe", "vi": "công thức nấu ăn"}
+    ],
+    "notes": "\"Vegetable\" thường đọc 3 âm /ˈvedʒtəbl/. Trong \"a pinch of salt\" các từ nối nhau: /ə ˈpɪntʃ əv sɒlt/."
+  },
+  {
+    "id": "l19",
+    "title": "Asking for Directions in a City",
+    "title_vi": "Hỏi đường trong thành phố",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "Last week I got lost in the centre of London.", "vi": "Tuần trước tôi bị lạc ở trung tâm London."},
+      {"en": "I wanted to find the museum, but my phone had run out of battery.", "vi": "Tôi muốn tìm bảo tàng nhưng điện thoại hết pin."},
+      {"en": "So I stopped a woman and said, \"Excuse me, could you tell me the way to the museum?\"", "vi": "Vậy nên tôi hỏi một người phụ nữ: \"Xin lỗi, chị chỉ giúp tôi đường đến bảo tàng được không?\""},
+      {"en": "She told me to go straight on and turn left at the traffic lights.", "vi": "Chị ấy bảo tôi đi thẳng rồi rẽ trái ở đèn giao thông."},
+      {"en": "After that, I had to walk past a big bank and cross the road.", "vi": "Sau đó tôi phải đi qua một ngân hàng lớn rồi sang đường."},
+      {"en": "The museum was opposite a small park, so it was easy to see.", "vi": "Bảo tàng nằm đối diện một công viên nhỏ nên rất dễ thấy."},
+      {"en": "I thanked her, and now I always carry a paper map.", "vi": "Tôi cảm ơn chị ấy, và giờ tôi luôn mang theo bản đồ giấy."}
+    ],
+    "vocab": [
+      {"w": "get lost", "vi": "bị lạc"},
+      {"w": "run out of", "vi": "hết, cạn"},
+      {"w": "go straight on", "vi": "đi thẳng"},
+      {"w": "traffic lights", "vi": "đèn giao thông"},
+      {"w": "opposite", "vi": "đối diện"},
+      {"w": "cross the road", "vi": "sang đường"}
+    ],
+    "notes": "\"Could you\" nối thành /ˈkʊdʒə/ và ngữ điệu đi lên cuối câu hỏi lịch sự. \"Run out of\" nối âm liền: /rʌn aʊt əv/."
+  },
+  {
+    "id": "l20",
+    "title": "Planning a Holiday Abroad",
+    "title_vi": "Lên kế hoạch kỳ nghỉ ở nước ngoài",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "This summer we are planning a holiday in Spain.", "vi": "Mùa hè này chúng tôi dự định đi nghỉ ở Tây Ban Nha."},
+      {"en": "We have already booked the flights, but we haven't chosen a hotel yet.", "vi": "Chúng tôi đã đặt vé máy bay, nhưng chưa chọn khách sạn."},
+      {"en": "I'd like to stay near the beach so we can swim every morning.", "vi": "Tôi muốn ở gần biển để có thể bơi mỗi sáng."},
+      {"en": "My wife wants to visit museums and try the local food.", "vi": "Vợ tôi muốn tham quan bảo tàng và thử món ăn địa phương."},
+      {"en": "We need to check that our passports are still valid.", "vi": "Chúng tôi cần kiểm tra xem hộ chiếu còn hạn không."},
+      {"en": "If the prices go down, we'll stay for ten days instead of a week.", "vi": "Nếu giá giảm, chúng tôi sẽ ở mười ngày thay vì một tuần."},
+      {"en": "I can't wait to relax and forget about work.", "vi": "Tôi rất mong được thư giãn và quên đi công việc."}
+    ],
+    "vocab": [
+      {"w": "book a flight", "vi": "đặt vé máy bay"},
+      {"w": "abroad", "vi": "ở nước ngoài"},
+      {"w": "local food", "vi": "món ăn địa phương"},
+      {"w": "passport", "vi": "hộ chiếu"},
+      {"w": "valid", "vi": "còn hiệu lực"},
+      {"w": "instead of", "vi": "thay vì"}
+    ],
+    "notes": "\"I'd like to\" đọc /aɪd ˈlaɪk tə/ với \"to\" yếu. \"Can't wait\" nhấn mạnh CAN'T /kɑːnt/ (Anh-Anh), và \"instead of\" nối /ɪnˈsted əv/."
+  }
+]

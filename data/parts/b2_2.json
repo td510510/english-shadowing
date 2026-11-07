@@ -1,0 +1,762 @@
+[
+  {
+    "id": "l11",
+    "title": "The Role of Art and Music in Society",
+    "title_vi": "Vai trò của nghệ thuật và âm nhạc trong xã hội",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {
+        "en": "Some people argue that art and music are luxuries which society could easily live without.",
+        "vi": "Một số người cho rằng nghệ thuật và âm nhạc là thứ xa xỉ mà xã hội hoàn toàn có thể sống thiếu."
+      },
+      {
+        "en": "I strongly disagree, because they play a vital role in shaping who we are.",
+        "vi": "Tôi hoàn toàn không đồng ý, vì chúng đóng vai trò thiết yếu trong việc định hình con người chúng ta."
+      },
+      {
+        "en": "A painting or a song can express emotions that words alone often fail to capture.",
+        "vi": "Một bức tranh hay một bài hát có thể diễn tả những cảm xúc mà chỉ lời nói thường không thể nắm bắt được."
+      },
+      {
+        "en": "Moreover, shared cultural experiences, such as concerts and exhibitions, bring communities closer together.",
+        "vi": "Hơn nữa, những trải nghiệm văn hoá chung, như các buổi hoà nhạc và triển lãm, gắn kết cộng đồng lại gần nhau hơn."
+      },
+      {
+        "en": "If schools cut their arts programmes, children would miss out on a valuable way of developing creativity.",
+        "vi": "Nếu các trường cắt giảm chương trình nghệ thuật, trẻ em sẽ bỏ lỡ một cách quý giá để phát triển óc sáng tạo."
+      },
+      {
+        "en": "Research has shown that students who learn an instrument tend to perform better in other subjects.",
+        "vi": "Nghiên cứu đã chỉ ra rằng học sinh học một nhạc cụ thường học tốt hơn ở các môn khác."
+      },
+      {
+        "en": "However, funding for the arts is often the first thing to be reduced during an economic crisis.",
+        "vi": "Tuy nhiên, kinh phí cho nghệ thuật thường là thứ đầu tiên bị cắt giảm trong khủng hoảng kinh tế."
+      },
+      {
+        "en": "In my view, that is a short-sighted decision, whereas investing in culture pays off in the long run.",
+        "vi": "Theo tôi, đó là quyết định thiển cận, trong khi đầu tư vào văn hoá sẽ mang lại lợi ích về lâu dài."
+      },
+      {
+        "en": "After all, a society without art would be a much poorer place to live.",
+        "vi": "Suy cho cùng, một xã hội không có nghệ thuật sẽ là nơi sống nghèo nàn hơn nhiều."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "play a vital role in",
+        "vi": "đóng vai trò thiết yếu trong"
+      },
+      {
+        "w": "express emotions",
+        "vi": "diễn tả cảm xúc"
+      },
+      {
+        "w": "bring communities together",
+        "vi": "gắn kết các cộng đồng"
+      },
+      {
+        "w": "miss out on",
+        "vi": "bỏ lỡ"
+      },
+      {
+        "w": "short-sighted",
+        "vi": "thiển cận"
+      },
+      {
+        "w": "pay off in the long run",
+        "vi": "mang lại kết quả về lâu dài"
+      },
+      {
+        "w": "funding",
+        "vi": "kinh phí tài trợ"
+      }
+    ],
+    "notes": "Nhấn mạnh các từ nội dung như 'luxuries', 'vital', 'creativity'; ngắt hơi sau 'However,' và 'Moreover,'. Nối âm trong 'miss out on' /mɪs aʊt ɒn/ nghe như một cụm liền."
+  },
+  {
+    "id": "l12",
+    "title": "Public Transport and Traffic Problems in Big Cities",
+    "title_vi": "Giao thông công cộng và vấn đề ùn tắc ở các thành phố lớn",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {
+        "en": "Traffic congestion is one of the biggest problems facing large cities today.",
+        "vi": "Ùn tắc giao thông là một trong những vấn đề lớn nhất mà các thành phố lớn đang đối mặt hiện nay."
+      },
+      {
+        "en": "Commuters who drive to work every day often spend hours stuck in traffic jams.",
+        "vi": "Những người đi làm hằng ngày bằng ô tô thường mất hàng giờ mắc kẹt trong tình trạng tắc đường."
+      },
+      {
+        "en": "If the government improved public transport, far fewer people would feel the need to own a car.",
+        "vi": "Nếu chính phủ cải thiện giao thông công cộng, sẽ có ít người hơn nhiều cảm thấy cần sở hữu ô tô."
+      },
+      {
+        "en": "For example, cities that have built reliable underground networks have seen a dramatic fall in congestion.",
+        "vi": "Ví dụ, những thành phố xây dựng được mạng lưới tàu điện ngầm đáng tin cậy đã chứng kiến mức ùn tắc giảm mạnh."
+      },
+      {
+        "en": "However, building new lines is extremely expensive, and it can take many years to complete.",
+        "vi": "Tuy nhiên, xây dựng tuyến mới cực kỳ tốn kém và có thể mất nhiều năm mới hoàn thành."
+      },
+      {
+        "en": "In the meantime, charging drivers to enter the city centre could be an effective solution.",
+        "vi": "Trong lúc đó, thu phí các tài xế vào trung tâm thành phố có thể là một giải pháp hiệu quả."
+      },
+      {
+        "en": "As a result, air pollution would decrease, and the streets would become safer for cyclists.",
+        "vi": "Kết quả là ô nhiễm không khí sẽ giảm và đường phố sẽ an toàn hơn cho người đi xe đạp."
+      },
+      {
+        "en": "Of course, such measures will only succeed if buses and trains are affordable and frequent.",
+        "vi": "Tất nhiên, những biện pháp như vậy chỉ thành công nếu xe buýt và tàu có giá phải chăng và chạy thường xuyên."
+      },
+      {
+        "en": "Otherwise, people will simply carry on sitting in their cars.",
+        "vi": "Nếu không, mọi người sẽ cứ tiếp tục ngồi trong xe của mình."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "traffic congestion",
+        "vi": "ùn tắc giao thông"
+      },
+      {
+        "w": "commuter",
+        "vi": "người đi làm đường xa hằng ngày"
+      },
+      {
+        "w": "stuck in traffic",
+        "vi": "mắc kẹt trong dòng xe"
+      },
+      {
+        "w": "reliable",
+        "vi": "đáng tin cậy"
+      },
+      {
+        "w": "in the meantime",
+        "vi": "trong lúc đó"
+      },
+      {
+        "w": "air pollution",
+        "vi": "ô nhiễm không khí"
+      },
+      {
+        "w": "carry on doing",
+        "vi": "tiếp tục làm gì"
+      }
+    ],
+    "notes": "Câu điều kiện loại 2 chia hai nhóm ý: 'If the government improved public transport, | far fewer people...' với ngữ điệu lên rồi xuống. 'would' thường đọc yếu /wəd/."
+  },
+  {
+    "id": "l13",
+    "title": "Learning from Failure",
+    "title_vi": "Học hỏi từ thất bại",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {
+        "en": "Nobody enjoys failing, but I believe it is one of the best teachers we can have.",
+        "vi": "Không ai thích thất bại, nhưng tôi tin đó là một trong những người thầy tốt nhất mà ta có thể có."
+      },
+      {
+        "en": "When I failed my first driving test, I felt embarrassed and tempted to give up.",
+        "vi": "Khi tôi trượt bài thi lái xe đầu tiên, tôi cảm thấy xấu hổ và muốn bỏ cuộc."
+      },
+      {
+        "en": "However, I realised that the mistakes I had made were the very things I needed to correct.",
+        "vi": "Tuy nhiên, tôi nhận ra rằng chính những lỗi tôi mắc phải là điều tôi cần sửa."
+      },
+      {
+        "en": "If I had given up then, I would never have passed the following year.",
+        "vi": "Nếu lúc đó tôi bỏ cuộc, tôi đã không bao giờ đỗ vào năm sau."
+      },
+      {
+        "en": "Many successful entrepreneurs say that their greatest achievements were built on earlier setbacks.",
+        "vi": "Nhiều doanh nhân thành đạt nói rằng những thành tựu lớn nhất của họ được xây dựng trên những thất bại trước đó."
+      },
+      {
+        "en": "The key is to analyse what went wrong rather than blaming bad luck.",
+        "vi": "Điều mấu chốt là phân tích điều gì đã sai thay vì đổ lỗi cho vận rủi."
+      },
+      {
+        "en": "Unfortunately, some cultures stigmatise failure, so people are afraid of taking risks.",
+        "vi": "Đáng tiếc là một số nền văn hoá kỳ thị thất bại nên mọi người sợ chấp nhận rủi ro."
+      },
+      {
+        "en": "As a result, they may miss opportunities that could have changed their lives.",
+        "vi": "Kết quả là họ có thể bỏ lỡ những cơ hội lẽ ra đã thay đổi cuộc đời họ."
+      },
+      {
+        "en": "In short, failure is not the opposite of success; it is part of the journey.",
+        "vi": "Tóm lại, thất bại không phải đối lập của thành công mà là một phần của hành trình."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "give up",
+        "vi": "bỏ cuộc"
+      },
+      {
+        "w": "setback",
+        "vi": "trở ngại, thất bại tạm thời"
+      },
+      {
+        "w": "learn from your mistakes",
+        "vi": "học từ sai lầm"
+      },
+      {
+        "w": "take risks",
+        "vi": "chấp nhận rủi ro"
+      },
+      {
+        "w": "entrepreneur",
+        "vi": "doanh nhân khởi nghiệp"
+      },
+      {
+        "w": "stigmatise",
+        "vi": "kỳ thị, gán tiếng xấu"
+      },
+      {
+        "w": "blame bad luck",
+        "vi": "đổ lỗi cho vận rủi"
+      }
+    ],
+    "notes": "Câu điều kiện loại 3 'I would never have passed': 'would never have' đọc nối /wʊd ˈnevə həv/, 'have' yếu thành /əv/. Câu cuối có đối lập 'not... but' nên nhấn 'opposite' và 'part'."
+  },
+  {
+    "id": "l14",
+    "title": "Choosing a University Course or Career",
+    "title_vi": "Chọn ngành đại học hoặc nghề nghiệp",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {
+        "en": "Choosing a university course is one of the most important decisions a young person will make.",
+        "vi": "Chọn ngành đại học là một trong những quyết định quan trọng nhất của người trẻ."
+      },
+      {
+        "en": "Some students pick subjects that lead to well-paid jobs, whereas others follow their passions.",
+        "vi": "Một số sinh viên chọn ngành dẫn đến công việc lương cao, trong khi những người khác theo đuổi đam mê."
+      },
+      {
+        "en": "Personally, I think the best choice lies somewhere between the two.",
+        "vi": "Cá nhân tôi nghĩ lựa chọn tốt nhất nằm ở giữa hai điều đó."
+      },
+      {
+        "en": "If you study something you hate, you will probably struggle to stay motivated.",
+        "vi": "Nếu bạn học thứ mình ghét, có lẽ bạn sẽ khó giữ được động lực."
+      },
+      {
+        "en": "On the other hand, a degree with no job prospects can leave you frustrated after graduation.",
+        "vi": "Mặt khác, một tấm bằng không có triển vọng việc làm có thể khiến bạn thất vọng sau khi tốt nghiệp."
+      },
+      {
+        "en": "That is why it is worth researching the job market before you apply.",
+        "vi": "Đó là lý do đáng để tìm hiểu thị trường việc làm trước khi nộp hồ sơ."
+      },
+      {
+        "en": "Talking to people who are already working in the field can also give you a realistic picture.",
+        "vi": "Trò chuyện với những người đang làm trong lĩnh vực đó cũng giúp bạn có bức tranh thực tế."
+      },
+      {
+        "en": "Besides, many careers today did not exist twenty years ago, so flexibility is essential.",
+        "vi": "Ngoài ra, nhiều nghề ngày nay chưa tồn tại hai mươi năm trước, nên sự linh hoạt là cần thiết."
+      },
+      {
+        "en": "Whatever you decide, remember that it is never too late to change direction.",
+        "vi": "Dù quyết định thế nào, hãy nhớ rằng không bao giờ là quá muộn để đổi hướng."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "follow your passion",
+        "vi": "theo đuổi đam mê"
+      },
+      {
+        "w": "well-paid job",
+        "vi": "công việc lương cao"
+      },
+      {
+        "w": "stay motivated",
+        "vi": "giữ động lực"
+      },
+      {
+        "w": "job prospects",
+        "vi": "triển vọng việc làm"
+      },
+      {
+        "w": "job market",
+        "vi": "thị trường việc làm"
+      },
+      {
+        "w": "apply for",
+        "vi": "nộp đơn xin"
+      },
+      {
+        "w": "change direction",
+        "vi": "đổi hướng"
+      }
+    ],
+    "notes": "Trong 'whereas others follow their passions', nhấn 'others' để thể hiện đối lập. Nối âm ở 'worth researching' và 'it is' /ɪt ɪz/ → nghe như 'ɪtɪz'."
+  },
+  {
+    "id": "l15",
+    "title": "Advantages and Disadvantages of Tourism",
+    "title_vi": "Ưu điểm và nhược điểm của du lịch",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {
+        "en": "Tourism has become a major industry, and it brings both benefits and drawbacks to the places people visit.",
+        "vi": "Du lịch đã trở thành một ngành lớn và mang lại cả lợi ích lẫn bất lợi cho những nơi du khách ghé thăm."
+      },
+      {
+        "en": "On the positive side, it creates jobs and provides income for local businesses.",
+        "vi": "Về mặt tích cực, nó tạo việc làm và mang lại thu nhập cho các doanh nghiệp địa phương."
+      },
+      {
+        "en": "In many small towns, hotels, restaurants and guides depend entirely on visitors who arrive each summer.",
+        "vi": "Ở nhiều thị trấn nhỏ, khách sạn, nhà hàng và hướng dẫn viên phụ thuộc hoàn toàn vào du khách đến mỗi mùa hè."
+      },
+      {
+        "en": "Furthermore, travellers who are curious about other cultures help to promote understanding between nations.",
+        "vi": "Hơn nữa, những du khách tò mò về các nền văn hoá khác giúp thúc đẩy sự thấu hiểu giữa các quốc gia."
+      },
+      {
+        "en": "However, mass tourism can damage fragile environments, such as beaches and mountain trails.",
+        "vi": "Tuy nhiên, du lịch đại trà có thể gây hại cho những môi trường mong manh như bãi biển và đường mòn núi."
+      },
+      {
+        "en": "Residents may also be priced out of their own neighbourhoods when rents rise sharply.",
+        "vi": "Cư dân cũng có thể bị đẩy ra khỏi khu phố của mình khi giá thuê nhà tăng mạnh."
+      },
+      {
+        "en": "If visitors behaved more responsibly, many of these problems could be avoided.",
+        "vi": "Nếu du khách cư xử có trách nhiệm hơn, nhiều vấn đề trong số này có thể tránh được."
+      },
+      {
+        "en": "Limiting visitor numbers and encouraging off-season travel are two sensible ways forward.",
+        "vi": "Hạn chế số lượng du khách và khuyến khích đi du lịch trái mùa là hai hướng đi hợp lý."
+      },
+      {
+        "en": "Ultimately, tourism works best when the local community also benefits.",
+        "vi": "Cuối cùng, du lịch hiệu quả nhất khi cộng đồng địa phương cũng được hưởng lợi."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "drawback",
+        "vi": "mặt hạn chế"
+      },
+      {
+        "w": "depend entirely on",
+        "vi": "phụ thuộc hoàn toàn vào"
+      },
+      {
+        "w": "mass tourism",
+        "vi": "du lịch đại trà"
+      },
+      {
+        "w": "fragile environment",
+        "vi": "môi trường mong manh"
+      },
+      {
+        "w": "priced out of",
+        "vi": "bị đẩy ra vì giá quá cao"
+      },
+      {
+        "w": "off-season",
+        "vi": "trái mùa, ngoài mùa cao điểm"
+      },
+      {
+        "w": "local community",
+        "vi": "cộng đồng địa phương"
+      }
+    ],
+    "notes": "Cấu trúc 'On the positive side... However...' tạo ngữ điệu đối chiếu: giọng lên ở ý tích cực, xuống ở ý tiêu cực. Chú ý trọng âm 'TOUR-ism' /ˈtʊərɪzəm/ và 'enVIRonment'."
+  },
+  {
+    "id": "l16",
+    "title": "Climate Change and Everyday Choices",
+    "title_vi": "Biến đổi khí hậu và những lựa chọn hằng ngày",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {
+        "en": "Climate change is often described as a global problem that only governments can solve.",
+        "vi": "Biến đổi khí hậu thường được mô tả là vấn đề toàn cầu mà chỉ chính phủ mới giải quyết được."
+      },
+      {
+        "en": "While large-scale policies are undoubtedly necessary, our daily choices matter too.",
+        "vi": "Dù các chính sách quy mô lớn chắc chắn cần thiết, những lựa chọn hằng ngày của chúng ta cũng quan trọng."
+      },
+      {
+        "en": "For instance, the food we buy, the way we travel and the energy we use all leave a carbon footprint.",
+        "vi": "Chẳng hạn, thực phẩm ta mua, cách ta di chuyển và năng lượng ta dùng đều để lại dấu chân carbon."
+      },
+      {
+        "en": "If everyone walked or cycled for short journeys, emissions would fall significantly.",
+        "vi": "Nếu mọi người đi bộ hoặc đạp xe cho những quãng đường ngắn, lượng khí thải sẽ giảm đáng kể."
+      },
+      {
+        "en": "Similarly, reducing food waste is a simple step which many households have already taken.",
+        "vi": "Tương tự, giảm lãng phí thực phẩm là một bước đơn giản mà nhiều hộ gia đình đã thực hiện."
+      },
+      {
+        "en": "Some people complain that individual efforts make little difference.",
+        "vi": "Một số người phàn nàn rằng nỗ lực cá nhân chẳng tạo ra khác biệt đáng kể."
+      },
+      {
+        "en": "However, when millions of people change their habits, companies are forced to respond.",
+        "vi": "Tuy nhiên, khi hàng triệu người thay đổi thói quen, các công ty buộc phải phản ứng."
+      },
+      {
+        "en": "As a result, greener products have become far more widely available.",
+        "vi": "Kết quả là các sản phẩm thân thiện môi trường đã trở nên phổ biến hơn nhiều."
+      },
+      {
+        "en": "In the end, small actions, repeated consistently, can add up to real change.",
+        "vi": "Cuối cùng, những hành động nhỏ được lặp lại đều đặn có thể cộng lại thành thay đổi thực sự."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "carbon footprint",
+        "vi": "dấu chân carbon"
+      },
+      {
+        "w": "emissions",
+        "vi": "khí thải"
+      },
+      {
+        "w": "make a difference",
+        "vi": "tạo ra khác biệt"
+      },
+      {
+        "w": "large-scale",
+        "vi": "quy mô lớn"
+      },
+      {
+        "w": "food waste",
+        "vi": "lãng phí thực phẩm"
+      },
+      {
+        "w": "widely available",
+        "vi": "phổ biến, dễ tìm"
+      },
+      {
+        "w": "add up to",
+        "vi": "cộng lại thành"
+      }
+    ],
+    "notes": "Trong câu liệt kê 'the food we buy, the way we travel and the energy we use', giọng lên ở hai mục đầu và xuống ở mục cuối. 'carbon footprint' nhấn vào 'CAR-bon FOOT-print'."
+  },
+  {
+    "id": "l17",
+    "title": "The Value of Friendship in Adult Life",
+    "title_vi": "Giá trị của tình bạn trong cuộc sống người trưởng thành",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {
+        "en": "As we get older, it becomes harder to keep in touch with the friends we made when we were young.",
+        "vi": "Khi lớn tuổi hơn, việc giữ liên lạc với những người bạn thời trẻ trở nên khó hơn."
+      },
+      {
+        "en": "Work, family and long commutes leave us with very little time to socialise.",
+        "vi": "Công việc, gia đình và những chuyến đi làm dài khiến ta còn rất ít thời gian giao lưu."
+      },
+      {
+        "en": "Nevertheless, I believe that close friendships are essential for our wellbeing.",
+        "vi": "Tuy vậy, tôi tin rằng tình bạn thân thiết là thiết yếu cho sức khoẻ tinh thần của chúng ta."
+      },
+      {
+        "en": "A good friend is someone who listens without judging and who is there when things go wrong.",
+        "vi": "Một người bạn tốt là người lắng nghe mà không phán xét và luôn ở đó khi mọi chuyện đổ vỡ."
+      },
+      {
+        "en": "Studies suggest that people with strong social networks tend to live longer and feel happier.",
+        "vi": "Các nghiên cứu cho thấy những người có mạng lưới xã hội vững chắc thường sống thọ hơn và hạnh phúc hơn."
+      },
+      {
+        "en": "If I hadn't stayed in contact with my old classmates, I would have felt much more isolated after moving abroad.",
+        "vi": "Nếu tôi không giữ liên lạc với bạn học cũ, tôi đã cảm thấy cô lập hơn nhiều sau khi ra nước ngoài."
+      },
+      {
+        "en": "Of course, friendships need effort, and they cannot be taken for granted.",
+        "vi": "Tất nhiên, tình bạn cần nỗ lực và không thể xem là điều hiển nhiên."
+      },
+      {
+        "en": "A quick message or a regular phone call is often enough to show that you care.",
+        "vi": "Một tin nhắn nhanh hoặc một cuộc gọi đều đặn thường đủ để cho thấy bạn quan tâm."
+      },
+      {
+        "en": "In the long run, those small gestures are what keep a friendship alive.",
+        "vi": "Về lâu dài, những cử chỉ nhỏ ấy là điều giữ cho tình bạn sống mãi."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "keep in touch with",
+        "vi": "giữ liên lạc với"
+      },
+      {
+        "w": "socialise",
+        "vi": "giao lưu, giao tiếp xã hội"
+      },
+      {
+        "w": "wellbeing",
+        "vi": "sức khoẻ và hạnh phúc"
+      },
+      {
+        "w": "social network",
+        "vi": "mạng lưới quan hệ xã hội"
+      },
+      {
+        "w": "feel isolated",
+        "vi": "cảm thấy bị cô lập"
+      },
+      {
+        "w": "take for granted",
+        "vi": "xem là điều hiển nhiên"
+      },
+      {
+        "w": "show that you care",
+        "vi": "thể hiện sự quan tâm"
+      }
+    ],
+    "notes": "Nối âm ở 'keep in touch' /kiːp ɪn tʌtʃ/ và 'take for granted'. Câu 'If I hadn't stayed...' nên ngắt nhịp thành hai nhóm: 'If I hadn't stayed in contact with my old classmates,' rồi mệnh đề chính 'I would have felt much more isolated after moving abroad'."
+  },
+  {
+    "id": "l18",
+    "title": "How Sport Brings People Together",
+    "title_vi": "Thể thao gắn kết mọi người như thế nào",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {
+        "en": "Sport has a remarkable ability to unite people who would otherwise have little in common.",
+        "vi": "Thể thao có khả năng đáng kinh ngạc trong việc đoàn kết những người vốn chẳng có mấy điểm chung."
+      },
+      {
+        "en": "When a national team plays in an international tournament, the whole country seems to hold its breath.",
+        "vi": "Khi đội tuyển quốc gia thi đấu ở một giải quốc tế, cả đất nước dường như nín thở."
+      },
+      {
+        "en": "Strangers cheer together in pubs and living rooms, regardless of their age or background.",
+        "vi": "Những người xa lạ cùng reo hò trong quán rượu và phòng khách, bất kể tuổi tác hay hoàn cảnh."
+      },
+      {
+        "en": "At a local level, joining a team can help newcomers feel that they belong to a community.",
+        "vi": "Ở cấp địa phương, tham gia một đội có thể giúp người mới đến cảm thấy mình thuộc về cộng đồng."
+      },
+      {
+        "en": "Playing together teaches valuable skills, such as cooperation, discipline and respect for others.",
+        "vi": "Chơi cùng nhau dạy những kỹ năng quý giá như hợp tác, kỷ luật và tôn trọng người khác."
+      },
+      {
+        "en": "Admittedly, rivalry between supporters can sometimes turn into aggression.",
+        "vi": "Phải thừa nhận rằng sự đối đầu giữa các cổ động viên đôi khi có thể biến thành hung hăng."
+      },
+      {
+        "en": "Nevertheless, such incidents are the exception rather than the rule.",
+        "vi": "Tuy vậy, những sự cố như thế là ngoại lệ chứ không phải quy luật."
+      },
+      {
+        "en": "If more councils invested in public sports facilities, even more people would benefit.",
+        "vi": "Nếu nhiều chính quyền địa phương đầu tư vào cơ sở thể thao công cộng, sẽ có nhiều người được hưởng lợi hơn nữa."
+      },
+      {
+        "en": "After all, a shared goal is a powerful thing, on the pitch and beyond.",
+        "vi": "Suy cho cùng, một mục tiêu chung là điều đầy sức mạnh, cả trên sân cỏ lẫn ngoài đời."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "have little in common",
+        "vi": "có ít điểm chung"
+      },
+      {
+        "w": "hold your breath",
+        "vi": "nín thở"
+      },
+      {
+        "w": "regardless of",
+        "vi": "bất kể"
+      },
+      {
+        "w": "belong to",
+        "vi": "thuộc về"
+      },
+      {
+        "w": "cooperation",
+        "vi": "sự hợp tác"
+      },
+      {
+        "w": "the exception rather than the rule",
+        "vi": "ngoại lệ chứ không phải quy luật"
+      },
+      {
+        "w": "supporter",
+        "vi": "cổ động viên"
+      }
+    ],
+    "notes": "'regardless of' đọc nối /rɪˈɡɑːdləs əv/. Nhấn 'exception' và 'rule' trong cấu trúc 'the exception rather than the rule', đọc 'rather than' nhẹ và nhanh."
+  },
+  {
+    "id": "l19",
+    "title": "Dealing with Stress at Work",
+    "title_vi": "Đối phó với căng thẳng trong công việc",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {
+        "en": "Stress at work has become so common that many people regard it as a normal part of life.",
+        "vi": "Căng thẳng trong công việc đã phổ biến đến mức nhiều người xem đó là một phần bình thường của cuộc sống."
+      },
+      {
+        "en": "Tight deadlines, heavy workloads and unclear expectations are among the main causes.",
+        "vi": "Hạn chót gấp, khối lượng việc nặng và kỳ vọng không rõ ràng là những nguyên nhân chính."
+      },
+      {
+        "en": "If left unchecked, stress can lead to exhaustion and even serious health problems.",
+        "vi": "Nếu không được kiểm soát, căng thẳng có thể dẫn đến kiệt sức và thậm chí các vấn đề sức khoẻ nghiêm trọng."
+      },
+      {
+        "en": "One effective approach is to prioritise tasks, so that the most urgent ones are dealt with first.",
+        "vi": "Một cách hiệu quả là sắp xếp thứ tự ưu tiên công việc để những việc gấp nhất được xử lý trước."
+      },
+      {
+        "en": "It is equally important to take regular breaks, whereas working non-stop only reduces productivity.",
+        "vi": "Việc nghỉ giải lao đều đặn cũng quan trọng không kém, trong khi làm việc liên tục chỉ làm giảm năng suất."
+      },
+      {
+        "en": "Exercise and a proper night's sleep can also help you to cope with pressure.",
+        "vi": "Tập thể dục và một giấc ngủ đủ cũng giúp bạn đối phó với áp lực."
+      },
+      {
+        "en": "Employers, for their part, should create a culture in which staff feel able to ask for help.",
+        "vi": "Về phần mình, nhà tuyển dụng nên tạo ra văn hoá trong đó nhân viên cảm thấy có thể nhờ giúp đỡ."
+      },
+      {
+        "en": "If managers listened more carefully, many problems would be solved before they became serious.",
+        "vi": "Nếu các quản lý lắng nghe cẩn thận hơn, nhiều vấn đề sẽ được giải quyết trước khi trở nên nghiêm trọng."
+      },
+      {
+        "en": "Ultimately, looking after your mental health is not a weakness but a sensible investment.",
+        "vi": "Cuối cùng, chăm sóc sức khoẻ tinh thần không phải là điểm yếu mà là một khoản đầu tư khôn ngoan."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "tight deadline",
+        "vi": "hạn chót sát sao"
+      },
+      {
+        "w": "heavy workload",
+        "vi": "khối lượng công việc nặng"
+      },
+      {
+        "w": "prioritise tasks",
+        "vi": "ưu tiên công việc"
+      },
+      {
+        "w": "take a break",
+        "vi": "nghỉ giải lao"
+      },
+      {
+        "w": "cope with pressure",
+        "vi": "đối phó với áp lực"
+      },
+      {
+        "w": "leave unchecked",
+        "vi": "để mặc không kiểm soát"
+      },
+      {
+        "w": "ask for help",
+        "vi": "nhờ giúp đỡ"
+      }
+    ],
+    "notes": "Các cụm danh từ 'tight deadlines, heavy workloads and unclear expectations' nhấn tính từ và danh từ, giọng lên rồi xuống ở mục cuối. 'prioritise' /praɪˈɒrɪtaɪz/ nhấn âm thứ hai."
+  },
+  {
+    "id": "l20",
+    "title": "Preserving Traditions in a Modern World",
+    "title_vi": "Giữ gìn truyền thống trong thế giới hiện đại",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {
+        "en": "In a world that is changing so rapidly, traditions can seem old-fashioned and unnecessary.",
+        "vi": "Trong một thế giới thay đổi quá nhanh, truyền thống có thể có vẻ lỗi thời và không cần thiết."
+      },
+      {
+        "en": "Yet they give us a sense of identity, linking us to the people who came before us.",
+        "vi": "Tuy nhiên, chúng cho ta ý thức về bản sắc, kết nối ta với những người đi trước."
+      },
+      {
+        "en": "Festivals, crafts and family recipes are passed down from one generation to the next.",
+        "vi": "Lễ hội, nghề thủ công và công thức gia đình được truyền từ thế hệ này sang thế hệ khác."
+      },
+      {
+        "en": "If we allowed these customs to disappear, we would lose an important part of our heritage.",
+        "vi": "Nếu chúng ta để những phong tục này biến mất, ta sẽ mất đi một phần quan trọng của di sản."
+      },
+      {
+        "en": "On the other hand, traditions that are never questioned can hold society back.",
+        "vi": "Mặt khác, những truyền thống không bao giờ bị đặt câu hỏi có thể kìm hãm xã hội."
+      },
+      {
+        "en": "The most sensible approach, in my opinion, is to adapt customs rather than abandon them.",
+        "vi": "Theo tôi, cách tiếp cận hợp lý nhất là điều chỉnh phong tục thay vì từ bỏ chúng."
+      },
+      {
+        "en": "Technology can actually help, as old songs and stories are now being recorded and shared online.",
+        "vi": "Công nghệ thật ra có thể giúp ích, vì các bài hát và câu chuyện xưa nay đang được ghi lại và chia sẻ trực tuyến."
+      },
+      {
+        "en": "As a result, young people who might otherwise have ignored their heritage are becoming curious about it.",
+        "vi": "Kết quả là những người trẻ vốn có thể phớt lờ di sản của mình đang trở nên tò mò về nó."
+      },
+      {
+        "en": "In this way, the past and the present can live side by side.",
+        "vi": "Bằng cách này, quá khứ và hiện tại có thể cùng tồn tại song song."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "sense of identity",
+        "vi": "ý thức về bản sắc"
+      },
+      {
+        "w": "pass down",
+        "vi": "truyền lại"
+      },
+      {
+        "w": "from one generation to the next",
+        "vi": "từ thế hệ này sang thế hệ khác"
+      },
+      {
+        "w": "cultural heritage",
+        "vi": "di sản văn hoá"
+      },
+      {
+        "w": "hold something back",
+        "vi": "kìm hãm điều gì"
+      },
+      {
+        "w": "abandon",
+        "vi": "từ bỏ"
+      },
+      {
+        "w": "side by side",
+        "vi": "song song, cạnh nhau"
+      }
+    ],
+    "notes": "'passed down from one generation' nối âm /pɑːst daʊn/ và 'from one' /frəm wʌn/ với 'from' đọc yếu. 'heritage' /ˈherɪtɪdʒ/ nhấn âm đầu; câu cuối đọc chậm, giọng xuống để kết bài."
+  }
+]

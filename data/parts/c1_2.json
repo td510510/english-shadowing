@@ -1,0 +1,304 @@
+[
+  {
+    "id": "l11",
+    "title": "The Role of Governments in Tackling Climate Change",
+    "title_vi": "Vai trò của chính phủ trong ứng phó biến đổi khí hậu",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "It could be argued that no single institution is better placed to tackle climate change than national governments.", "vi": "Có thể lập luận rằng không thể chế nào có vị thế tốt hơn chính phủ các quốc gia trong việc giải quyết biến đổi khí hậu."},
+      {"en": "Individuals can recycle and cycle to work, but they cannot rebuild an entire energy grid.", "vi": "Cá nhân có thể tái chế và đạp xe đi làm, nhưng không thể xây dựng lại cả một hệ thống lưới điện."},
+      {"en": "Only when policymakers set clear, binding targets do businesses begin to invest with genuine confidence.", "vi": "Chỉ khi các nhà hoạch định chính sách đặt ra những mục tiêu rõ ràng, có tính ràng buộc thì doanh nghiệp mới bắt đầu đầu tư một cách thực sự tự tin."},
+      {"en": "Carbon taxes, for instance, force polluters to bear the cost that they would otherwise pass on to society.", "vi": "Chẳng hạn, thuế carbon buộc các bên gây ô nhiễm phải gánh chi phí mà lẽ ra họ sẽ đẩy sang cho xã hội."},
+      {"en": "That said, ambitious legislation is easier to pass than to enforce, and short electoral cycles rarely reward long-term thinking.", "vi": "Tuy vậy, ban hành luật đầy tham vọng dễ hơn thực thi, và chu kỳ bầu cử ngắn hiếm khi khuyến khích tư duy dài hạn."},
+      {"en": "Nor is the problem confined within borders, which is why international cooperation is indispensable.", "vi": "Vấn đề cũng không bị giới hạn trong biên giới, đó là lý do hợp tác quốc tế là điều không thể thiếu."},
+      {"en": "Wealthy nations, having benefited from centuries of industrial emissions, arguably bear a greater moral responsibility.", "vi": "Các quốc gia giàu có, vốn hưởng lợi từ nhiều thế kỷ phát thải công nghiệp, có thể nói phải chịu trách nhiệm đạo đức lớn hơn."},
+      {"en": "Critics warn that stringent regulation could stifle growth and push jobs overseas.", "vi": "Giới phê bình cảnh báo rằng quy định quá khắt khe có thể kìm hãm tăng trưởng và đẩy việc làm ra nước ngoài."},
+      {"en": "Yet the cost of doing nothing, from flooded cities to failed harvests, is likely to dwarf any short-term expense.", "vi": "Tuy nhiên, cái giá của việc không làm gì, từ các thành phố ngập lụt đến mùa màng thất bát, nhiều khả năng sẽ lấn át mọi chi phí ngắn hạn."},
+      {"en": "In my view, governments should lead by example, while remaining open to scrutiny from citizens.", "vi": "Theo tôi, chính phủ nên làm gương, đồng thời sẵn sàng chịu sự giám sát của người dân."},
+      {"en": "Ultimately, the window for meaningful action is narrowing, and hesitation is a decision in itself.", "vi": "Suy cho cùng, cánh cửa cho hành động có ý nghĩa đang hẹp dần, và sự chần chừ tự nó cũng là một quyết định."}
+    ],
+    "vocab": [
+      {"w": "binding targets", "vi": "mục tiêu có tính ràng buộc"},
+      {"w": "carbon tax", "vi": "thuế carbon"},
+      {"w": "stifle growth", "vi": "kìm hãm tăng trưởng"},
+      {"w": "indispensable", "vi": "không thể thiếu"},
+      {"w": "bear responsibility", "vi": "chịu trách nhiệm"},
+      {"w": "dwarf", "vi": "làm lu mờ, lấn át"},
+      {"w": "scrutiny", "vi": "sự giám sát kỹ lưỡng"},
+      {"w": "lead by example", "vi": "làm gương"}
+    ],
+    "notes": "Nhấn mạnh từ nội dung (policymakers, binding, indispensable) và ngắt nhịp sau các cụm mở đầu như 'That said,' 'In my view,'. Ở câu đảo ngữ 'Only when... do businesses begin', hạ giọng sau dấu phẩy rồi lên giọng ở 'do businesses'."
+  },
+  {
+    "id": "l12",
+    "title": "Healthcare Systems and the Ageing Population",
+    "title_vi": "Hệ thống y tế và dân số già hóa",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Few challenges facing modern societies are as pressing as the steady ageing of their populations.", "vi": "Ít thách thức nào của các xã hội hiện đại cấp bách bằng sự già hóa đều đặn của dân số."},
+      {"en": "As life expectancy rises, healthcare systems find themselves treating more chronic conditions for far longer periods.", "vi": "Khi tuổi thọ tăng lên, các hệ thống y tế phải điều trị nhiều bệnh mãn tính hơn trong những khoảng thời gian dài hơn nhiều."},
+      {"en": "At the same time, a shrinking workforce is expected to fund the pensions and treatment of a growing elderly cohort.", "vi": "Đồng thời, lực lượng lao động ngày một ít đi lại phải chi trả lương hưu và chữa bệnh cho nhóm người cao tuổi ngày càng đông."},
+      {"en": "This imbalance puts enormous strain on public finances, and no easy solution presents itself.", "vi": "Sự mất cân đối này gây áp lực rất lớn lên tài chính công, và không có giải pháp dễ dàng nào hiện ra."},
+      {"en": "One approach is to shift the emphasis from cure to prevention, encouraging healthier lifestyles from an early age.", "vi": "Một hướng tiếp cận là chuyển trọng tâm từ chữa bệnh sang phòng bệnh, khuyến khích lối sống lành mạnh từ sớm."},
+      {"en": "Another is to harness technology, from remote monitoring to artificial intelligence, in order to ease the burden on hospitals.", "vi": "Một hướng khác là tận dụng công nghệ, từ theo dõi từ xa đến trí tuệ nhân tạo, nhằm giảm gánh nặng cho bệnh viện."},
+      {"en": "Yet technology is no panacea, and it must not come at the expense of human contact and dignity in care.", "vi": "Song công nghệ không phải là phương thuốc vạn năng, và không được đánh đổi sự tiếp xúc con người cùng phẩm giá trong chăm sóc."},
+      {"en": "It is worth remembering that older people are not merely a burden; they volunteer, care for grandchildren and share invaluable experience.", "vi": "Cần nhớ rằng người cao tuổi không chỉ là gánh nặng; họ làm tình nguyện, chăm cháu và chia sẻ kinh nghiệm quý giá."},
+      {"en": "Raising the retirement age is politically contentious, but it may prove unavoidable in the long run.", "vi": "Nâng tuổi nghỉ hưu gây tranh cãi về mặt chính trị, nhưng về lâu dài có thể là điều không tránh khỏi."},
+      {"en": "Whatever path is chosen, success will hinge on planning decades ahead rather than reacting to crises.", "vi": "Dù chọn con đường nào, thành công sẽ phụ thuộc vào việc lên kế hoạch trước hàng thập kỷ thay vì ứng phó khi khủng hoảng."}
+    ],
+    "vocab": [
+      {"w": "life expectancy", "vi": "tuổi thọ"},
+      {"w": "chronic condition", "vi": "bệnh mãn tính"},
+      {"w": "cohort", "vi": "nhóm người (cùng đặc điểm)"},
+      {"w": "put strain on", "vi": "gây áp lực lên"},
+      {"w": "harness", "vi": "tận dụng, khai thác"},
+      {"w": "panacea", "vi": "phương thuốc vạn năng"},
+      {"w": "contentious", "vi": "gây tranh cãi"},
+      {"w": "hinge on", "vi": "phụ thuộc vào"}
+    ],
+    "notes": "Các cụm danh từ dài như 'a shrinking workforce' cần nhấn ở từ nội dung và đọc nhanh các từ chức năng. Giọng hạ nhẹ ở cuối mỗi ý, lên nhẹ trước dấu chấm phẩy ở câu 'they volunteer, care for... and share'."
+  },
+  {
+    "id": "l13",
+    "title": "Language, Thought and Communication",
+    "title_vi": "Ngôn ngữ, tư duy và giao tiếp",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "Does the language we speak shape the way we think, or merely reflect it?", "vi": "Ngôn ngữ ta nói định hình cách ta tư duy, hay chỉ phản ánh nó?"},
+      {"en": "This question has divided linguists for decades, and the answer is arguably somewhere in between.", "vi": "Câu hỏi này đã chia rẽ các nhà ngôn ngữ học suốt nhiều thập kỷ, và câu trả lời có lẽ nằm đâu đó ở giữa."},
+      {"en": "Some languages, for example, have no words for left and right, so their speakers navigate entirely by compass points.", "vi": "Chẳng hạn, một số ngôn ngữ không có từ chỉ trái và phải, nên người nói định hướng hoàn toàn bằng các hướng la bàn."},
+      {"en": "Such speakers tend to possess a remarkable sense of direction, which suggests that vocabulary can train the mind.", "vi": "Những người nói như vậy thường có cảm giác phương hướng đáng kinh ngạc, cho thấy từ vựng có thể rèn luyện trí óc."},
+      {"en": "However, one should be wary of drawing sweeping conclusions from a handful of striking examples.", "vi": "Tuy nhiên, ta nên thận trọng khi rút ra kết luận bao quát từ một vài ví dụ nổi bật."},
+      {"en": "Thought is not confined to words; we can picture a melody or a face without any language at all.", "vi": "Tư duy không bị giới hạn trong từ ngữ; ta có thể hình dung một giai điệu hay một gương mặt mà không cần ngôn ngữ."},
+      {"en": "Where language does matter greatly is in communication, since misunderstandings often arise from subtle differences in tone and nuance.", "vi": "Nơi ngôn ngữ thực sự quan trọng là trong giao tiếp, vì hiểu lầm thường nảy sinh từ những khác biệt tinh tế về giọng điệu và sắc thái."},
+      {"en": "A remark intended as a joke in one culture may well be taken as an insult in another.", "vi": "Một lời nói đùa ở nền văn hoá này hoàn toàn có thể bị coi là xúc phạm ở nền văn hoá khác."},
+      {"en": "Learning a foreign language, then, is not simply a matter of memorising words but of stepping into a different worldview.", "vi": "Vậy nên, học ngoại ngữ không đơn thuần là ghi nhớ từ vựng mà là bước vào một thế giới quan khác."},
+      {"en": "It could be said that the more languages we speak, the more flexible our thinking becomes.", "vi": "Có thể nói rằng ta càng nói nhiều ngôn ngữ, tư duy càng trở nên linh hoạt."},
+      {"en": "In the end, language is both a window onto the mind and a tool for reshaping it.", "vi": "Rốt cuộc, ngôn ngữ vừa là cửa sổ nhìn vào tâm trí, vừa là công cụ để định hình lại nó."}
+    ],
+    "vocab": [
+      {"w": "linguist", "vi": "nhà ngôn ngữ học"},
+      {"w": "arguably", "vi": "có thể cho rằng"},
+      {"w": "sense of direction", "vi": "khả năng định hướng"},
+      {"w": "be wary of", "vi": "thận trọng với"},
+      {"w": "sweeping conclusion", "vi": "kết luận bao quát, vội vàng"},
+      {"w": "nuance", "vi": "sắc thái"},
+      {"w": "worldview", "vi": "thế giới quan"},
+      {"w": "may well", "vi": "hoàn toàn có thể"}
+    ],
+    "notes": "Câu hỏi 'Does... or merely reflect it?' lên giọng ở 'think' rồi hạ ở 'reflect it'. Nhấn tương phản ở 'shape' và 'reflect', và ngắt nhịp sau 'Where language does matter greatly'."
+  },
+  {
+    "id": "l14",
+    "title": "Consumerism and Its Psychological Effects",
+    "title_vi": "Chủ nghĩa tiêu dùng và tác động tâm lý",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "We live in an age in which buying things has become almost indistinguishable from expressing who we are.", "vi": "Chúng ta sống trong thời đại mà việc mua sắm gần như không thể tách rời khỏi việc thể hiện bản thân."},
+      {"en": "Advertisers have long understood that we purchase not products but promises of status, belonging and happiness.", "vi": "Các nhà quảng cáo từ lâu đã hiểu rằng ta mua không phải sản phẩm mà là lời hứa về địa vị, sự thuộc về và hạnh phúc."},
+      {"en": "The trouble is that these promises are rarely fulfilled, and the brief thrill of a purchase soon fades.", "vi": "Rắc rối là những lời hứa này hiếm khi được thực hiện, và niềm vui thoáng chốc của việc mua sắm nhanh chóng phai nhạt."},
+      {"en": "Psychologists refer to this as the hedonic treadmill: the more we acquire, the more we seem to need.", "vi": "Các nhà tâm lý học gọi đây là guồng quay khoái lạc: càng sở hữu nhiều, ta dường như càng cần nhiều hơn."},
+      {"en": "Social media only compounds the problem by encouraging constant comparison with other people's curated lives.", "vi": "Mạng xã hội chỉ làm vấn đề thêm trầm trọng bằng cách khuyến khích so sánh liên tục với cuộc sống được dàn dựng của người khác."},
+      {"en": "Hardly surprising, then, that many people report feelings of anxiety, inadequacy and even debt-related depression.", "vi": "Vậy nên không có gì ngạc nhiên khi nhiều người cho biết họ cảm thấy lo âu, kém cỏi và thậm chí trầm cảm vì nợ nần."},
+      {"en": "To be fair, consumer spending drives economic growth and provides millions of livelihoods.", "vi": "Công bằng mà nói, chi tiêu của người tiêu dùng thúc đẩy tăng trưởng kinh tế và tạo sinh kế cho hàng triệu người."},
+      {"en": "The real issue is not consumption itself but the compulsion to consume beyond our needs.", "vi": "Vấn đề thực sự không phải bản thân việc tiêu dùng mà là sự thôi thúc tiêu dùng vượt quá nhu cầu."},
+      {"en": "A growing minimalist movement suggests that some people are beginning to push back against this culture of excess.", "vi": "Phong trào sống tối giản đang lớn mạnh cho thấy một số người bắt đầu phản kháng văn hoá thừa mứa này."},
+      {"en": "Perhaps true wealth lies in having the freedom to say that enough is enough.", "vi": "Có lẽ sự giàu có đích thực nằm ở tự do được nói rằng thế là đủ."}
+    ],
+    "vocab": [
+      {"w": "indistinguishable from", "vi": "không thể phân biệt với"},
+      {"w": "status", "vi": "địa vị xã hội"},
+      {"w": "hedonic treadmill", "vi": "guồng quay khoái lạc"},
+      {"w": "compound the problem", "vi": "làm vấn đề trầm trọng hơn"},
+      {"w": "curated", "vi": "được chọn lọc, dàn dựng"},
+      {"w": "inadequacy", "vi": "cảm giác kém cỏi"},
+      {"w": "livelihood", "vi": "sinh kế"},
+      {"w": "push back against", "vi": "phản kháng lại"}
+    ],
+    "notes": "Chú ý nhấn tương phản 'not products but promises'. Câu đảo ngữ 'Hardly surprising, then, that...' đọc với ngữ điệu hạ nhẹ, ngắt sau 'then' rồi tiếp mạch."
+  },
+  {
+    "id": "l15",
+    "title": "Freedom of Speech and Its Limits",
+    "title_vi": "Tự do ngôn luận và những giới hạn",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "Freedom of speech is widely regarded as the cornerstone of any healthy democracy.", "vi": "Tự do ngôn luận được coi rộng rãi là nền tảng của bất kỳ nền dân chủ lành mạnh nào."},
+      {"en": "Without it, corruption goes unchallenged, minorities go unheard, and ideas never get the chance to be tested.", "vi": "Thiếu nó, tham nhũng không bị chất vấn, các nhóm thiểu số không được lắng nghe, và ý tưởng không bao giờ có cơ hội được kiểm chứng."},
+      {"en": "Nevertheless, few thinkers would argue that this freedom should be entirely unlimited.", "vi": "Tuy nhiên, rất ít nhà tư tưởng cho rằng quyền tự do này nên hoàn toàn không có giới hạn."},
+      {"en": "Incitement to violence and deliberate defamation, for instance, cause real harm to real people.", "vi": "Chẳng hạn, kích động bạo lực và cố ý phỉ báng gây tổn hại thật sự cho những con người thật."},
+      {"en": "The difficulty lies in deciding where to draw the line, since one person's offence is another person's honest opinion.", "vi": "Khó khăn nằm ở chỗ quyết định ranh giới ở đâu, vì điều xúc phạm với người này lại là ý kiến chân thành của người khác."},
+      {"en": "Online platforms have complicated matters further, allowing falsehoods to spread faster than any correction can follow.", "vi": "Các nền tảng trực tuyến làm mọi chuyện phức tạp hơn, khi để thông tin sai lệch lan nhanh hơn bất kỳ lời đính chính nào."},
+      {"en": "Some argue that private companies should not act as judges of acceptable speech, yet leaving them unregulated seems equally unwise.", "vi": "Có ý kiến cho rằng các công ty tư nhân không nên đóng vai trò phán xét lời nói chấp nhận được, nhưng để họ không bị kiểm soát cũng thiếu khôn ngoan không kém."},
+      {"en": "My own view is that the best remedy for harmful speech is usually more speech, not enforced silence.", "vi": "Quan điểm của tôi là phương thuốc tốt nhất cho lời nói có hại thường là nhiều lời nói hơn, chứ không phải sự im lặng cưỡng ép."},
+      {"en": "That principle, however, presupposes an informed public capable of weighing arguments critically.", "vi": "Tuy nhiên, nguyên tắc đó giả định một công chúng có hiểu biết, có khả năng cân nhắc lập luận một cách phản biện."},
+      {"en": "Education in media literacy is therefore not a luxury but a safeguard of liberty itself.", "vi": "Do đó, giáo dục về hiểu biết truyền thông không phải điều xa xỉ mà là sự bảo vệ cho chính tự do."}
+    ],
+    "vocab": [
+      {"w": "cornerstone", "vi": "nền tảng, viên đá tảng"},
+      {"w": "go unchallenged", "vi": "không bị thách thức"},
+      {"w": "incitement", "vi": "sự kích động"},
+      {"w": "defamation", "vi": "sự phỉ báng"},
+      {"w": "draw the line", "vi": "vạch ranh giới"},
+      {"w": "falsehood", "vi": "thông tin sai sự thật"},
+      {"w": "presuppose", "vi": "giả định trước"},
+      {"w": "safeguard", "vi": "biện pháp bảo vệ"}
+    ],
+    "notes": "Cấu trúc song song 'corruption goes unchallenged, minorities go unheard' nên đọc cùng nhịp, nhấn 'un-' ở cả hai. Ngắt nhịp rõ sau 'Nevertheless,' và 'however,' rồi hạ giọng ở cuối câu."
+  },
+  {
+    "id": "l16",
+    "title": "The Ethics of Genetic Engineering",
+    "title_vi": "Đạo đức của kỹ thuật di truyền",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Advances in genetic engineering have opened up possibilities that, only a generation ago, belonged to science fiction.", "vi": "Những tiến bộ trong kỹ thuật di truyền đã mở ra những khả năng mà chỉ một thế hệ trước còn thuộc về khoa học viễn tưởng."},
+      {"en": "We can now edit genes to eliminate hereditary diseases, which is nothing short of a medical revolution.", "vi": "Giờ đây ta có thể chỉnh sửa gen để loại bỏ bệnh di truyền, quả là một cuộc cách mạng y học."},
+      {"en": "But with such power comes a profound responsibility, and not everyone is convinced we are ready for it.", "vi": "Nhưng quyền năng ấy đi kèm trách nhiệm sâu sắc, và không phải ai cũng tin rằng ta đã sẵn sàng."},
+      {"en": "The chief worry is that the line between treating illness and enhancing human traits will gradually blur.", "vi": "Mối lo chính là ranh giới giữa chữa bệnh và nâng cấp đặc điểm con người sẽ dần mờ đi."},
+      {"en": "Should parents be allowed to select for intelligence or height, we risk creating a society divided by genetic privilege.", "vi": "Nếu cha mẹ được phép chọn trí thông minh hay chiều cao, ta có nguy cơ tạo ra một xã hội chia rẽ bởi đặc quyền di truyền."},
+      {"en": "Supporters counter that parents have always sought to give their children the best start in life.", "vi": "Những người ủng hộ phản bác rằng cha mẹ luôn muốn mang lại cho con khởi đầu tốt nhất."},
+      {"en": "That may be true, but surely there is a difference between a good education and an altered genome.", "vi": "Điều đó có thể đúng, nhưng chắc chắn có sự khác biệt giữa một nền giáo dục tốt và một bộ gen bị thay đổi."},
+      {"en": "Moreover, changes made to embryos would be inherited by future generations who had no say in the matter.", "vi": "Hơn nữa, những thay đổi trên phôi sẽ được truyền cho các thế hệ sau, những người không có tiếng nói trong chuyện này."},
+      {"en": "Rigorous regulation and open public debate are therefore essential before the technology outpaces our ethics.", "vi": "Do đó, quy định nghiêm ngặt và tranh luận công khai là thiết yếu trước khi công nghệ vượt xa đạo đức của ta."},
+      {"en": "Science can tell us what is possible; only society can decide what is acceptable.", "vi": "Khoa học có thể cho ta biết điều gì khả thi; chỉ xã hội mới quyết định được điều gì chấp nhận được."}
+    ],
+    "vocab": [
+      {"w": "hereditary", "vi": "di truyền"},
+      {"w": "nothing short of", "vi": "không gì khác hơn là"},
+      {"w": "enhance", "vi": "nâng cao, tăng cường"},
+      {"w": "blur the line", "vi": "làm mờ ranh giới"},
+      {"w": "genetic privilege", "vi": "đặc quyền di truyền"},
+      {"w": "have no say", "vi": "không có tiếng nói"},
+      {"w": "rigorous", "vi": "nghiêm ngặt, chặt chẽ"},
+      {"w": "outpace", "vi": "vượt xa, đi nhanh hơn"}
+    ],
+    "notes": "Câu điều kiện đảo ngữ 'Should parents be allowed...' bắt đầu bằng 'Should' nhấn nhẹ, ngắt rõ sau 'height'. Câu cuối đối lập 'possible' và 'acceptable', nhấn mạnh hai từ này và ngắt ở dấu chấm phẩy."
+  },
+  {
+    "id": "l17",
+    "title": "Innovation, Creativity and the Education System",
+    "title_vi": "Đổi mới, sáng tạo và hệ thống giáo dục",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "Nowadays, employers routinely claim that they want creative, innovative thinkers.", "vi": "Ngày nay, các nhà tuyển dụng thường tuyên bố rằng họ muốn những người tư duy sáng tạo, đổi mới."},
+      {"en": "Yet many education systems still reward the memorisation of facts over the exploration of ideas.", "vi": "Thế nhưng nhiều hệ thống giáo dục vẫn khen thưởng việc ghi nhớ dữ kiện hơn là khám phá ý tưởng."},
+      {"en": "Standardised testing, in particular, tends to favour a single correct answer, leaving little room for imagination.", "vi": "Đặc biệt, thi chuẩn hoá có xu hướng ưu tiên một đáp án đúng duy nhất, để lại ít chỗ cho trí tưởng tượng."},
+      {"en": "Children who fear making mistakes are unlikely to take the risks that genuine innovation demands.", "vi": "Những đứa trẻ sợ mắc lỗi khó có thể chấp nhận những rủi ro mà sự đổi mới thực sự đòi hỏi."},
+      {"en": "That is not to say that knowledge is unimportant; one can hardly think critically about a subject one knows nothing about.", "vi": "Điều đó không có nghĩa kiến thức là không quan trọng; khó ai có thể tư duy phản biện về một chủ đề mà mình chẳng biết gì."},
+      {"en": "The ideal, surely, is a balance in which solid foundations coexist with room to experiment.", "vi": "Chắc chắn, lý tưởng là sự cân bằng trong đó nền tảng vững chắc cùng tồn tại với không gian để thử nghiệm."},
+      {"en": "Project-based learning, where pupils tackle open-ended problems in teams, is one promising way of achieving this.", "vi": "Học tập theo dự án, nơi học sinh giải quyết các vấn đề mở theo nhóm, là một cách đầy hứa hẹn để đạt được điều này."},
+      {"en": "Teachers, too, need the freedom to depart from rigid syllabuses and follow their pupils' curiosity.", "vi": "Giáo viên cũng cần tự do để rời khỏi chương trình cứng nhắc và đi theo sự tò mò của học sinh."},
+      {"en": "Failure, rather than being stigmatised, should be treated as an essential step in the learning process.", "vi": "Thất bại, thay vì bị kỳ thị, nên được coi là bước thiết yếu trong quá trình học."},
+      {"en": "After all, many of history's greatest breakthroughs began as experiments that went spectacularly wrong.", "vi": "Suy cho cùng, nhiều đột phá lớn nhất trong lịch sử bắt đầu từ những thí nghiệm thất bại ngoạn mục."}
+    ],
+    "vocab": [
+      {"w": "memorisation", "vi": "sự học thuộc lòng"},
+      {"w": "standardised testing", "vi": "thi chuẩn hoá"},
+      {"w": "think critically", "vi": "tư duy phản biện"},
+      {"w": "coexist", "vi": "cùng tồn tại"},
+      {"w": "open-ended", "vi": "mở, không có đáp án cố định"},
+      {"w": "rigid syllabus", "vi": "chương trình học cứng nhắc"},
+      {"w": "stigmatise", "vi": "kỳ thị, gán nhãn xấu"},
+      {"w": "breakthrough", "vi": "bước đột phá"}
+    ],
+    "notes": "Cấu trúc 'rather than being stigmatised' nên nhấn 'rather' và 'stigmatised', đọc nhanh 'than being'. Ngữ điệu hạ dứt khoát ở câu cuối sau 'spectacularly wrong' để tạo hiệu ứng kết."
+  },
+  {
+    "id": "l18",
+    "title": "Migration and Its Economic Impact",
+    "title_vi": "Di cư và tác động kinh tế",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Few topics provoke such heated debate as the economic impact of migration.", "vi": "Ít chủ đề nào gây tranh luận gay gắt như tác động kinh tế của di cư."},
+      {"en": "On the one hand, migrants frequently fill labour shortages in sectors that local workers are reluctant to enter.", "vi": "Một mặt, người di cư thường lấp đầy tình trạng thiếu lao động ở những lĩnh vực mà người bản địa ngần ngại bước vào."},
+      {"en": "They also pay taxes, start businesses and, in ageing societies, help sustain the pension system.", "vi": "Họ cũng đóng thuế, khởi nghiệp và, ở các xã hội già hoá, giúp duy trì hệ thống lương hưu."},
+      {"en": "On the other hand, critics maintain that an influx of newcomers can depress wages and strain public services.", "vi": "Mặt khác, giới phê bình cho rằng làn sóng người mới đến có thể kéo giảm lương và gây áp lực lên dịch vụ công."},
+      {"en": "The evidence, however, is far less clear-cut than either side would have us believe.", "vi": "Tuy nhiên, bằng chứng kém rõ ràng hơn nhiều so với điều mà cả hai phía muốn ta tin."},
+      {"en": "Studies suggest that any negative effects on wages are modest and tend to be concentrated among the lowest paid.", "vi": "Các nghiên cứu cho thấy tác động tiêu cực lên lương là nhỏ và thường tập trung ở nhóm thu nhập thấp nhất."},
+      {"en": "Meanwhile, the countries that migrants leave behind face the so-called brain drain, losing doctors, engineers and teachers.", "vi": "Trong khi đó, các quốc gia mà người di cư rời đi phải đối mặt với chảy máu chất xám, mất đi bác sĩ, kỹ sư và giáo viên."},
+      {"en": "Remittances sent home, though, often exceed foreign aid and lift entire families out of poverty.", "vi": "Tuy nhiên, kiều hối gửi về thường vượt quá viện trợ nước ngoài và giúp cả gia đình thoát nghèo."},
+      {"en": "Integration is the crux of the matter, because migrants who learn the language and find suitable work contribute the most.", "vi": "Hội nhập là cốt lõi của vấn đề, vì những người di cư học ngôn ngữ và tìm được việc phù hợp đóng góp nhiều nhất."},
+      {"en": "Policy, therefore, should aim less at closing doors than at managing movement fairly and intelligently.", "vi": "Do đó, chính sách nên hướng ít vào việc đóng cửa hơn là quản lý dòng di chuyển một cách công bằng và thông minh."}
+    ],
+    "vocab": [
+      {"w": "labour shortage", "vi": "tình trạng thiếu lao động"},
+      {"w": "influx", "vi": "làn sóng đổ vào"},
+      {"w": "depress wages", "vi": "kéo giảm tiền lương"},
+      {"w": "clear-cut", "vi": "rõ ràng, dứt khoát"},
+      {"w": "brain drain", "vi": "chảy máu chất xám"},
+      {"w": "remittance", "vi": "kiều hối"},
+      {"w": "integration", "vi": "sự hội nhập"},
+      {"w": "the crux of the matter", "vi": "cốt lõi của vấn đề"}
+    ],
+    "notes": "Cặp 'On the one hand... On the other hand' nên nhấn 'one' và 'other' để làm rõ đối lập. Ở danh sách 'doctors, engineers and teachers', lên giọng nhẹ ở hai mục đầu và hạ giọng ở mục cuối."
+  },
+  {
+    "id": "l19",
+    "title": "The Gig Economy and Job Security",
+    "title_vi": "Kinh tế việc làm tự do và sự ổn định công việc",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "The gig economy, built on short-term contracts and freelance work, has transformed the way many of us earn a living.", "vi": "Nền kinh tế gig, xây dựng trên hợp đồng ngắn hạn và công việc tự do, đã thay đổi cách nhiều người kiếm sống."},
+      {"en": "Its appeal is obvious: flexible hours, no commute to a fixed office and the freedom to be one's own boss.", "vi": "Sức hấp dẫn của nó rất rõ ràng: giờ giấc linh hoạt, không phải đi lại đến văn phòng cố định và tự do làm chủ chính mình."},
+      {"en": "For students and parents juggling other commitments, such flexibility can be a genuine lifeline.", "vi": "Với sinh viên và các bậc cha mẹ phải cân bằng nhiều trách nhiệm khác, sự linh hoạt này có thể là phao cứu sinh thực sự."},
+      {"en": "Beneath the surface, however, lies a far less rosy picture.", "vi": "Tuy nhiên, bên dưới bề mặt là một bức tranh kém màu hồng hơn nhiều."},
+      {"en": "Gig workers rarely enjoy sick pay, paid holiday or a pension, and their income can fluctuate wildly from one month to the next.", "vi": "Lao động gig hiếm khi được hưởng lương ốm, nghỉ phép có lương hay lương hưu, và thu nhập có thể dao động mạnh từ tháng này sang tháng khác."},
+      {"en": "Were an illness or an accident to strike, many would have no safety net whatsoever.", "vi": "Nếu bệnh tật hay tai nạn xảy đến, nhiều người sẽ chẳng có lưới an toàn nào cả."},
+      {"en": "Companies defend the model by insisting that workers are independent contractors rather than employees.", "vi": "Các công ty bảo vệ mô hình này bằng cách khẳng định người lao động là nhà thầu độc lập chứ không phải nhân viên."},
+      {"en": "Courts in several countries, though, have begun to challenge that classification, arguing that it masks genuine dependence.", "vi": "Tuy nhiên, toà án ở một số nước đã bắt đầu thách thức cách phân loại đó, cho rằng nó che giấu sự phụ thuộc thực sự."},
+      {"en": "A sensible compromise might be a set of basic protections that follow the worker rather than the employer.", "vi": "Một sự dung hoà hợp lý có thể là một bộ bảo vệ cơ bản đi theo người lao động chứ không phải theo chủ sử dụng."},
+      {"en": "Flexibility should be a choice, not a euphemism for insecurity.", "vi": "Sự linh hoạt nên là một lựa chọn, chứ không phải cách nói giảm nói tránh cho sự bấp bênh."}
+    ],
+    "vocab": [
+      {"w": "gig economy", "vi": "nền kinh tế việc làm tự do ngắn hạn"},
+      {"w": "earn a living", "vi": "kiếm sống"},
+      {"w": "lifeline", "vi": "phao cứu sinh"},
+      {"w": "fluctuate", "vi": "dao động"},
+      {"w": "safety net", "vi": "lưới an toàn"},
+      {"w": "independent contractor", "vi": "nhà thầu độc lập"},
+      {"w": "mask", "vi": "che giấu"},
+      {"w": "euphemism", "vi": "cách nói giảm nói tránh"}
+    ],
+    "notes": "Câu đảo ngữ điều kiện 'Were an illness... to strike' bắt đầu với 'Were' nhấn nhẹ, ngắt sau 'strike'. Dấu hai chấm sau 'obvious' cần ngắt nhịp ngắn rồi đọc liền ba ý trong danh sách."
+  },
+  {
+    "id": "l20",
+    "title": "Is Happiness Measurable? The Limits of Statistics",
+    "title_vi": "Hạnh phúc có đo lường được không? Giới hạn của thống kê",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Governments increasingly publish happiness indices, as though well-being could be reduced to a single figure.", "vi": "Các chính phủ ngày càng công bố chỉ số hạnh phúc, như thể phúc lợi có thể được rút gọn thành một con số."},
+      {"en": "The appeal of such numbers is easy to understand, since what gets measured tends to get managed.", "vi": "Sức hấp dẫn của những con số này dễ hiểu, vì cái gì được đo lường thường sẽ được quản lý."},
+      {"en": "Surveys typically ask people to rate their satisfaction with life on a scale from naught to ten.", "vi": "Các khảo sát thường yêu cầu người dân chấm mức hài lòng với cuộc sống trên thang điểm từ không đến mười."},
+      {"en": "Yet a score of seven in one culture may mean something quite different from a seven in another.", "vi": "Thế nhưng điểm bảy ở nền văn hoá này có thể mang ý nghĩa khá khác so với điểm bảy ở nền văn hoá khác."},
+      {"en": "Moreover, answers are swayed by mood, weather and even the question that happened to precede them.", "vi": "Hơn nữa, câu trả lời bị chi phối bởi tâm trạng, thời tiết và thậm chí cả câu hỏi đứng trước."},
+      {"en": "Statistics excel at revealing broad patterns, but they are blunt instruments when it comes to individual experience.", "vi": "Thống kê rất giỏi trong việc hé lộ các xu hướng chung, nhưng là công cụ thô khi nói đến trải nghiệm cá nhân."},
+      {"en": "An average can conceal as much as it reveals, hiding deep inequalities behind a reassuring mean.", "vi": "Một con số trung bình có thể che giấu nhiều như nó tiết lộ, giấu những bất bình đẳng sâu sắc sau một mức trung bình trấn an."},
+      {"en": "That is not to dismiss data altogether; without it, policy would rest on little more than hunches and anecdotes.", "vi": "Điều đó không có nghĩa bác bỏ hoàn toàn dữ liệu; thiếu nó, chính sách sẽ chỉ dựa vào linh cảm và giai thoại."},
+      {"en": "The wiser course is to treat figures as a starting point for questions rather than a final verdict.", "vi": "Cách khôn ngoan hơn là coi các con số như điểm khởi đầu cho câu hỏi chứ không phải phán quyết cuối cùng."},
+      {"en": "Happiness, it seems, will always slip somewhat through the net of the spreadsheet.", "vi": "Có vẻ như hạnh phúc sẽ luôn phần nào lọt khỏi tấm lưới của bảng tính."}
+    ],
+    "vocab": [
+      {"w": "well-being", "vi": "phúc lợi, trạng thái khoẻ mạnh hạnh phúc"},
+      {"w": "be reduced to", "vi": "bị rút gọn thành"},
+      {"w": "be swayed by", "vi": "bị chi phối bởi"},
+      {"w": "excel at", "vi": "xuất sắc ở"},
+      {"w": "blunt instrument", "vi": "công cụ thô"},
+      {"w": "conceal", "vi": "che giấu"},
+      {"w": "anecdote", "vi": "giai thoại, chuyện kể"},
+      {"w": "final verdict", "vi": "phán quyết cuối cùng"}
+    ],
+    "notes": "Nhấn tương phản 'conceal' và 'reveal' trong 'as much as it reveals'. Câu cuối đọc chậm, giọng hạ dần và kéo dài nhẹ ở 'spreadsheet' để tạo cảm giác khép bài."
+  }
+]

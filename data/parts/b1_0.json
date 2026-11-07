@@ -1,0 +1,174 @@
+[
+  {
+    "id": "l01",
+    "title": "My Daily Routine",
+    "title_vi": "Thói quen hằng ngày",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {
+        "en": "I usually wake up at half past six.",
+        "vi": "Tôi thường thức dậy lúc sáu giờ rưỡi."
+      },
+      {
+        "en": "After a quick shower, I have breakfast with my family.",
+        "vi": "Sau khi tắm nhanh, tôi ăn sáng cùng gia đình."
+      },
+      {
+        "en": "I normally take the bus to work because it's cheaper than driving.",
+        "vi": "Tôi thường đi xe buýt đi làm vì rẻ hơn lái xe."
+      },
+      {
+        "en": "My job starts at nine, and I finish at five.",
+        "vi": "Công việc của tôi bắt đầu lúc chín giờ và kết thúc lúc năm giờ."
+      },
+      {
+        "en": "During my lunch break, I like to go for a short walk.",
+        "vi": "Trong giờ nghỉ trưa, tôi thích đi dạo một lúc."
+      },
+      {
+        "en": "In the evening, I cook dinner and watch a bit of television.",
+        "vi": "Buổi tối, tôi nấu bữa tối và xem một chút ti vi."
+      },
+      {
+        "en": "I try to go to bed before eleven so I feel fresh in the morning.",
+        "vi": "Tôi cố gắng đi ngủ trước mười một giờ để sáng hôm sau thấy tỉnh táo."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "wake up",
+        "vi": "thức dậy"
+      },
+      {
+        "w": "half past six",
+        "vi": "sáu giờ rưỡi"
+      },
+      {
+        "w": "lunch break",
+        "vi": "giờ nghỉ trưa"
+      },
+      {
+        "w": "go for a walk",
+        "vi": "đi dạo"
+      },
+      {
+        "w": "feel fresh",
+        "vi": "cảm thấy tỉnh táo, sảng khoái"
+      }
+    ],
+    "notes": "Chú ý nối âm: \"wake up\" → /weɪk ʌp/ đọc liền; \"half past\" thường nuốt âm /f/ nhẹ. Nhấn trọng âm vào các từ nội dung (usually, breakfast, bus, cheaper)."
+  },
+  {
+    "id": "l02",
+    "title": "Planning a Weekend Trip",
+    "title_vi": "Lên kế hoạch đi chơi cuối tuần",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {
+        "en": "This weekend, we're planning a short trip to the coast.",
+        "vi": "Cuối tuần này, chúng tôi định đi chơi ngắn ngày ở vùng biển."
+      },
+      {
+        "en": "We've booked a small hotel near the beach for two nights.",
+        "vi": "Chúng tôi đã đặt một khách sạn nhỏ gần bãi biển trong hai đêm."
+      },
+      {
+        "en": "The train leaves at eight, so we need to get to the station early.",
+        "vi": "Tàu khởi hành lúc tám giờ, nên chúng tôi cần đến ga sớm."
+      },
+      {
+        "en": "If the weather is nice, we'll spend the whole day by the sea.",
+        "vi": "Nếu thời tiết đẹp, chúng tôi sẽ ở bên bờ biển cả ngày."
+      },
+      {
+        "en": "I'm hoping to try some fresh seafood at a local restaurant.",
+        "vi": "Tôi hy vọng được thử hải sản tươi ở một nhà hàng địa phương."
+      },
+      {
+        "en": "We'll come back on Sunday evening, tired but happy.",
+        "vi": "Chúng tôi sẽ trở về vào tối Chủ nhật, mệt nhưng vui."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "coast",
+        "vi": "bờ biển, vùng ven biển"
+      },
+      {
+        "w": "book a hotel",
+        "vi": "đặt khách sạn"
+      },
+      {
+        "w": "leave at eight",
+        "vi": "khởi hành lúc tám giờ"
+      },
+      {
+        "w": "local restaurant",
+        "vi": "nhà hàng địa phương"
+      },
+      {
+        "w": "tired but happy",
+        "vi": "mệt nhưng vui"
+      }
+    ],
+    "notes": "\"We've\" /wiːv/ và \"I'm\" /aɪm/ là dạng rút gọn, hãy đọc nhanh và nhẹ. Câu điều kiện loại 1: If + hiện tại đơn, will + động từ."
+  },
+  {
+    "id": "l03",
+    "title": "Staying Healthy",
+    "title_vi": "Giữ gìn sức khỏe",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {
+        "en": "Staying healthy doesn't have to be difficult.",
+        "vi": "Giữ gìn sức khỏe không nhất thiết phải khó."
+      },
+      {
+        "en": "I try to eat plenty of fruit and vegetables every day.",
+        "vi": "Tôi cố gắng ăn nhiều trái cây và rau mỗi ngày."
+      },
+      {
+        "en": "It's also important to drink enough water and get eight hours of sleep.",
+        "vi": "Việc uống đủ nước và ngủ tám tiếng cũng rất quan trọng."
+      },
+      {
+        "en": "I go jogging twice a week, usually in the park near my house.",
+        "vi": "Tôi chạy bộ hai lần một tuần, thường là ở công viên gần nhà."
+      },
+      {
+        "en": "When I'm stressed, I listen to music or talk to a friend.",
+        "vi": "Khi bị căng thẳng, tôi nghe nhạc hoặc nói chuyện với bạn bè."
+      },
+      {
+        "en": "Small habits can make a big difference over time.",
+        "vi": "Những thói quen nhỏ có thể tạo nên khác biệt lớn theo thời gian."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "plenty of",
+        "vi": "nhiều, dồi dào"
+      },
+      {
+        "w": "go jogging",
+        "vi": "đi chạy bộ"
+      },
+      {
+        "w": "twice a week",
+        "vi": "hai lần một tuần"
+      },
+      {
+        "w": "stressed",
+        "vi": "căng thẳng"
+      },
+      {
+        "w": "make a difference",
+        "vi": "tạo ra sự khác biệt"
+      }
+    ],
+    "notes": "\"doesn't have to\" đọc /ˈdʌznt hæf tə/. \"plenty of\" nối âm thành /ˈplenti əv/. Ngữ điệu câu cuối đi xuống để kết bài."
+  }
+]

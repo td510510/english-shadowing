@@ -1,0 +1,870 @@
+[
+  {
+    "id": "l41",
+    "title": "Expertise in the Age of Misinformation",
+    "title_vi": "Chuyên môn trong thời đại thông tin sai lệch",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {
+        "en": "It is often claimed that we have entered a post-truth era, in which expertise counts for little.",
+        "vi": "Người ta thường cho rằng chúng ta đã bước vào kỷ nguyên hậu sự thật, nơi chuyên môn chẳng còn mấy giá trị."
+      },
+      {
+        "en": "Yet the real problem is not that experts have vanished, but that their voices are drowned out by sheer volume.",
+        "vi": "Tuy nhiên, vấn đề thật sự không phải là các chuyên gia đã biến mất, mà là tiếng nói của họ bị nhấn chìm bởi khối lượng thông tin khổng lồ."
+      },
+      {
+        "en": "Never before has so much information been available, and never has it been so difficult to separate signal from noise.",
+        "vi": "Chưa bao giờ có nhiều thông tin đến thế, và cũng chưa bao giờ việc tách thông tin giá trị khỏi nhiễu loạn lại khó đến vậy."
+      },
+      {
+        "en": "Social media algorithms, which reward outrage rather than accuracy, have arguably done more damage than any deliberate propaganda campaign.",
+        "vi": "Có thể nói các thuật toán mạng xã hội, vốn thưởng cho sự phẫn nộ hơn là sự chính xác, đã gây hại nhiều hơn bất kỳ chiến dịch tuyên truyền cố ý nào."
+      },
+      {
+        "en": "Experts themselves are not entirely blameless, since they have occasionally overstated their certainty and then been caught out.",
+        "vi": "Bản thân các chuyên gia cũng không hoàn toàn vô can, bởi đôi khi họ đã khẳng định quá chắc chắn rồi bị bắt bài."
+      },
+      {
+        "en": "Nevertheless, to dismiss all authority because of a few high-profile failures would be to throw the baby out with the bathwater.",
+        "vi": "Dù vậy, bác bỏ mọi thẩm quyền chỉ vì vài thất bại nổi tiếng thì chẳng khác nào đổ cả em bé đi cùng nước tắm."
+      },
+      {
+        "en": "Science, after all, progresses precisely because it is self-correcting, and revising a conclusion is a strength, not a weakness.",
+        "vi": "Suy cho cùng, khoa học tiến bộ chính vì nó tự điều chỉnh, và việc sửa lại một kết luận là điểm mạnh chứ không phải điểm yếu."
+      },
+      {
+        "en": "What we need, therefore, is not blind deference but a more discerning kind of trust.",
+        "vi": "Vì vậy, điều chúng ta cần không phải là sự tuân phục mù quáng mà là một kiểu tin tưởng có chọn lọc hơn."
+      },
+      {
+        "en": "Schools should teach students to interrogate sources, to weigh competing claims, and to recognise the limits of their own knowledge.",
+        "vi": "Nhà trường nên dạy học sinh biết chất vấn nguồn tin, cân nhắc các luận điểm đối lập và nhận ra giới hạn hiểu biết của chính mình."
+      },
+      {
+        "en": "Only when citizens can tell a genuine specialist from a confident charlatan will public debate regain its footing.",
+        "vi": "Chỉ khi người dân phân biệt được một chuyên gia thực thụ với một kẻ lừa đảo đầy tự tin thì tranh luận công chúng mới lấy lại được thế đứng."
+      },
+      {
+        "en": "Scepticism is healthy, but cynicism, which assumes that everyone is lying, quietly corrodes the foundations of democracy.",
+        "vi": "Hoài nghi là lành mạnh, nhưng thói yếm thế, vốn cho rằng ai cũng nói dối, lặng lẽ ăn mòn nền tảng của nền dân chủ."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "post-truth",
+        "vi": "hậu sự thật"
+      },
+      {
+        "w": "drowned out",
+        "vi": "bị át đi, nhấn chìm"
+      },
+      {
+        "w": "separate signal from noise",
+        "vi": "tách thông tin giá trị khỏi nhiễu"
+      },
+      {
+        "w": "blameless",
+        "vi": "vô can, không có lỗi"
+      },
+      {
+        "w": "throw the baby out with the bathwater",
+        "vi": "gạt bỏ cả cái tốt lẫn cái xấu"
+      },
+      {
+        "w": "deference",
+        "vi": "sự tuân phục, kính trọng"
+      },
+      {
+        "w": "discerning",
+        "vi": "có óc phán đoán, tinh tường"
+      },
+      {
+        "w": "charlatan",
+        "vi": "kẻ lừa đảo, thầy lang băm"
+      }
+    ],
+    "notes": "Các câu bắt đầu bằng 'Never before has...' đảo ngữ nên nhấn mạnh 'never' và hạ giọng ở cuối. Chú ý ngắt nhịp tại dấu phẩy trước mệnh đề 'but' và 'which' để câu dài không bị đứt hơi."
+  },
+  {
+    "id": "l42",
+    "title": "Universal Basic Income",
+    "title_vi": "Thu nhập cơ bản phổ quát",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {
+        "en": "The idea of giving every citizen a regular, unconditional payment strikes many people as either utopian or downright reckless.",
+        "vi": "Ý tưởng trao cho mọi công dân một khoản tiền đều đặn, vô điều kiện khiến nhiều người cho là viển vông hoặc hoàn toàn liều lĩnh."
+      },
+      {
+        "en": "Proponents argue that a guaranteed income would provide a safety net that is simpler and less stigmatising than means-tested benefits.",
+        "vi": "Những người ủng hộ lập luận rằng thu nhập đảm bảo sẽ tạo ra một tấm lưới an toàn đơn giản hơn và ít gây kỳ thị hơn các khoản trợ cấp xét theo thu nhập."
+      },
+      {
+        "en": "Moreover, as automation threatens to hollow out entire industries, such a cushion may soon become a necessity rather than a luxury.",
+        "vi": "Hơn nữa, khi tự động hóa đe dọa làm rỗng cả những ngành công nghiệp, một tấm đệm như vậy có thể sớm trở thành nhu cầu thiết yếu thay vì xa xỉ."
+      },
+      {
+        "en": "Critics, however, contend that it would be prohibitively expensive and would discourage people from seeking employment.",
+        "vi": "Tuy nhiên, các nhà phê bình cho rằng nó sẽ quá tốn kém và làm người ta nản lòng, không muốn tìm việc."
+      },
+      {
+        "en": "The evidence from pilot schemes, though far from conclusive, suggests that recipients rarely abandon work altogether.",
+        "vi": "Bằng chứng từ các chương trình thí điểm, tuy còn xa mới thuyết phục hoàn toàn, cho thấy người nhận hiếm khi bỏ việc hẳn."
+      },
+      {
+        "en": "If anything, the financial breathing space tends to enable them to retrain, start a business or care for relatives.",
+        "vi": "Nếu có gì thay đổi, thì khoảng thở về tài chính thường giúp họ học nghề mới, khởi nghiệp hoặc chăm sóc người thân."
+      },
+      {
+        "en": "Funding remains the thorniest question, since any serious scheme would require either higher taxes or the dismantling of existing welfare programmes.",
+        "vi": "Nguồn tài chính vẫn là câu hỏi nan giải nhất, vì bất kỳ chương trình nghiêm túc nào cũng đòi hỏi tăng thuế hoặc dỡ bỏ các chương trình phúc lợi hiện có."
+      },
+      {
+        "en": "Were the payment set too low, it would fail to lift anyone out of poverty; set too high, it would be politically unsustainable.",
+        "vi": "Nếu mức chi trả quá thấp, nó sẽ không giúp ai thoát nghèo; nếu quá cao, nó sẽ không bền vững về mặt chính trị."
+      },
+      {
+        "en": "There is also a moral dimension, because the policy challenges the assumption that a person's worth is measured by paid labour.",
+        "vi": "Chính sách này còn có chiều kích đạo đức, bởi nó thách thức giả định rằng giá trị của một con người được đo bằng lao động có lương."
+      },
+      {
+        "en": "Whether or not it ever becomes law, the debate forces us to ask what we owe one another in a changing economy.",
+        "vi": "Dù có trở thành luật hay không, cuộc tranh luận buộc chúng ta tự hỏi mình nợ nhau điều gì trong một nền kinh tế đang thay đổi."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "unconditional",
+        "vi": "vô điều kiện"
+      },
+      {
+        "w": "means-tested",
+        "vi": "xét theo thu nhập"
+      },
+      {
+        "w": "hollow out",
+        "vi": "làm rỗng, bào mòn"
+      },
+      {
+        "w": "prohibitively expensive",
+        "vi": "đắt đến mức không thể chi trả"
+      },
+      {
+        "w": "breathing space",
+        "vi": "khoảng thở, thời gian xoay xở"
+      },
+      {
+        "w": "thorny",
+        "vi": "nan giải, hóc búa"
+      },
+      {
+        "w": "dismantle",
+        "vi": "dỡ bỏ, tháo dỡ"
+      },
+      {
+        "w": "stigmatising",
+        "vi": "gây kỳ thị"
+      }
+    ],
+    "notes": "Trong 'Were the payment set too low' (đảo ngữ điều kiện), nhấn 'Were' và 'low' rồi ngắt rõ ở dấu chấm phẩy. Các cụm đối lập 'too low' / 'too high' nên đọc với ngữ điệu lên rồi xuống để thể hiện sự tương phản."
+  },
+  {
+    "id": "l43",
+    "title": "Cultural Appropriation",
+    "title_vi": "Chiếm dụng văn hóa",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {
+        "en": "Few topics provoke such heated disagreement as cultural appropriation, a term that means different things to different people.",
+        "vi": "Hiếm chủ đề nào gây ra bất đồng gay gắt như chiếm dụng văn hóa, một thuật ngữ mang nhiều nghĩa với nhiều người."
+      },
+      {
+        "en": "At its core, the concept describes the adoption of elements of a minority culture by a dominant group, often without credit or understanding.",
+        "vi": "Về cốt lõi, khái niệm này mô tả việc một nhóm thống trị vay mượn các yếu tố của văn hóa thiểu số, thường mà không ghi nhận hay thấu hiểu."
+      },
+      {
+        "en": "What makes it contentious is the power imbalance, since a sacred garment can become a fashion accessory overnight.",
+        "vi": "Điều khiến nó gây tranh cãi là sự chênh lệch quyền lực, bởi một trang phục thiêng liêng có thể thành phụ kiện thời trang chỉ sau một đêm."
+      },
+      {
+        "en": "Defenders of cultural exchange point out that cuisine, music and language have always evolved through borrowing.",
+        "vi": "Những người bảo vệ giao lưu văn hóa chỉ ra rằng ẩm thực, âm nhạc và ngôn ngữ vốn luôn phát triển nhờ sự vay mượn."
+      },
+      {
+        "en": "Indeed, a world in which cultures were forbidden to learn from one another would be impoverished and, frankly, unworkable.",
+        "vi": "Thật vậy, một thế giới cấm các nền văn hóa học hỏi lẫn nhau sẽ nghèo nàn và thẳng thắn mà nói là bất khả thi."
+      },
+      {
+        "en": "The distinction, it could be argued, lies between appreciation, which is respectful and informed, and exploitation, which profits from someone else's heritage.",
+        "vi": "Có thể lập luận rằng ranh giới nằm giữa sự trân trọng, vốn tôn kính và hiểu biết, với sự khai thác, vốn trục lợi từ di sản của người khác."
+      },
+      {
+        "en": "Not only do communities lose income when their designs are copied, but they also see their traditions trivialised.",
+        "vi": "Không chỉ mất thu nhập khi thiết kế bị sao chép, các cộng đồng còn thấy truyền thống của mình bị xem nhẹ."
+      },
+      {
+        "en": "That said, policing every cross-cultural gesture risks fostering suspicion and discouraging the very curiosity that builds mutual understanding.",
+        "vi": "Tuy vậy, canh chừng mọi cử chỉ giao thoa văn hóa có nguy cơ nuôi dưỡng nghi kỵ và làm nản lòng chính sự tò mò vốn xây dựng sự thấu hiểu lẫn nhau."
+      },
+      {
+        "en": "A more constructive approach would be to listen to the people concerned, credit sources, and share the rewards fairly.",
+        "vi": "Một cách tiếp cận mang tính xây dựng hơn là lắng nghe những người liên quan, ghi nhận nguồn gốc và chia sẻ lợi ích một cách công bằng."
+      },
+      {
+        "en": "Whatever our view, the conversation itself is valuable, provided it is conducted with humility rather than point-scoring.",
+        "vi": "Dù quan điểm của ta thế nào, bản thân cuộc trò chuyện vẫn có giá trị, miễn là được tiến hành với sự khiêm tốn thay vì ghi điểm."
+      },
+      {
+        "en": "Ultimately, respect is rarely a matter of rules; it is a habit of attention that cannot be legislated.",
+        "vi": "Suy cho cùng, sự tôn trọng hiếm khi là vấn đề của quy tắc; đó là thói quen chú tâm mà luật pháp không thể áp đặt."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "appropriation",
+        "vi": "sự chiếm dụng"
+      },
+      {
+        "w": "contentious",
+        "vi": "gây tranh cãi"
+      },
+      {
+        "w": "power imbalance",
+        "vi": "sự mất cân bằng quyền lực"
+      },
+      {
+        "w": "impoverished",
+        "vi": "nghèo nàn đi"
+      },
+      {
+        "w": "trivialise",
+        "vi": "xem nhẹ, làm tầm thường hóa"
+      },
+      {
+        "w": "police (verb)",
+        "vi": "giám sát, kiểm soát chặt"
+      },
+      {
+        "w": "constructive",
+        "vi": "mang tính xây dựng"
+      },
+      {
+        "w": "legislate",
+        "vi": "lập pháp, quy định bằng luật"
+      }
+    ],
+    "notes": "Trong 'Not only do communities lose income...' đảo ngữ, nhấn 'Not only' rồi tạm ngắt trước 'but'. Với câu 'it could be argued', hạ giọng và đọc nhanh như phần chèn, sau đó nhấn mạnh 'appreciation' và 'exploitation'."
+  },
+  {
+    "id": "l44",
+    "title": "The Changing Meaning of Work",
+    "title_vi": "Ý nghĩa thay đổi của công việc",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {
+        "en": "For generations, work meant a steady job, a fixed workplace and a pension waiting at the end of a long career.",
+        "vi": "Qua nhiều thế hệ, làm việc nghĩa là một công việc ổn định, một nơi làm cố định và khoản lương hưu chờ sẵn ở cuối sự nghiệp dài."
+      },
+      {
+        "en": "That bargain has been steadily eroded by the gig economy, remote collaboration and the relentless pace of technological change.",
+        "vi": "Thỏa thuận ấy đã bị bào mòn dần bởi nền kinh tế việc làm tự do, cộng tác từ xa và nhịp thay đổi công nghệ không ngừng nghỉ."
+      },
+      {
+        "en": "On the one hand, flexibility has liberated many people from the tyranny of the nine-to-five commute.",
+        "vi": "Một mặt, sự linh hoạt đã giải phóng nhiều người khỏi sự chuyên chế của việc đi làm từ chín giờ đến năm giờ."
+      },
+      {
+        "en": "On the other, it has blurred the boundary between professional and private life, leaving some workers permanently on call.",
+        "vi": "Mặt khác, nó làm mờ ranh giới giữa đời sống nghề nghiệp và riêng tư, khiến một số người lúc nào cũng phải sẵn sàng."
+      },
+      {
+        "en": "Younger employees, in particular, now expect their job to offer purpose and autonomy, not merely a salary.",
+        "vi": "Đặc biệt, những nhân viên trẻ giờ đây kỳ vọng công việc mang lại ý nghĩa và quyền tự chủ chứ không chỉ một mức lương."
+      },
+      {
+        "en": "Employers who fail to grasp this shift are finding that talented staff vote with their feet.",
+        "vi": "Những nhà tuyển dụng không nắm bắt được sự chuyển dịch này nhận thấy nhân viên giỏi sẽ dùng chính đôi chân để bỏ phiếu, tức là ra đi."
+      },
+      {
+        "en": "Meanwhile, the sense of security that once came with a single career has given way to a perpetual need to reskill.",
+        "vi": "Trong khi đó, cảm giác an toàn từng đến từ một nghề duy nhất đã nhường chỗ cho nhu cầu liên tục học kỹ năng mới."
+      },
+      {
+        "en": "It is tempting to see this as either liberation or precarity, but the truth is that it is frequently both at once.",
+        "vi": "Thật dễ bị cám dỗ khi coi đây hoặc là giải phóng hoặc là bấp bênh, nhưng sự thật là nó thường là cả hai cùng lúc."
+      },
+      {
+        "en": "Whether the new arrangements prove empowering depends largely on who holds the bargaining power, and on whether protections keep pace.",
+        "vi": "Các thỏa thuận mới có trao quyền hay không phụ thuộc phần lớn vào việc ai nắm quyền thương lượng, và liệu các biện pháp bảo vệ có theo kịp hay không."
+      },
+      {
+        "en": "If we want work to remain a source of dignity, we must redefine success beyond income and job titles.",
+        "vi": "Nếu muốn công việc tiếp tục là nguồn phẩm giá, chúng ta phải định nghĩa lại thành công vượt ra ngoài thu nhập và chức danh."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "erode",
+        "vi": "bào mòn, xói mòn"
+      },
+      {
+        "w": "gig economy",
+        "vi": "nền kinh tế việc làm tự do ngắn hạn"
+      },
+      {
+        "w": "on call",
+        "vi": "luôn sẵn sàng khi được gọi"
+      },
+      {
+        "w": "autonomy",
+        "vi": "quyền tự chủ"
+      },
+      {
+        "w": "vote with their feet",
+        "vi": "thể hiện thái độ bằng cách bỏ đi"
+      },
+      {
+        "w": "give way to",
+        "vi": "nhường chỗ cho"
+      },
+      {
+        "w": "precarity",
+        "vi": "tình trạng bấp bênh"
+      },
+      {
+        "w": "bargaining power",
+        "vi": "quyền thương lượng"
+      }
+    ],
+    "notes": "Cặp 'On the one hand / On the other' đọc với ngữ điệu lên ở cuối vế đầu và xuống ở vế sau. Nhấn mạnh 'both' trong 'both at once' và nối âm 'at once' thành một nhịp."
+  },
+  {
+    "id": "l45",
+    "title": "Rewilding and Conservation",
+    "title_vi": "Phục hồi thiên nhiên hoang dã và bảo tồn",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {
+        "en": "Rewilding, the practice of restoring ecosystems by reintroducing lost species, has captured the public imagination in recent years.",
+        "vi": "Phục hồi hoang dã, tức việc khôi phục hệ sinh thái bằng cách đưa trở lại các loài đã mất, đã thu hút trí tưởng tượng của công chúng những năm gần đây."
+      },
+      {
+        "en": "Unlike traditional conservation, which tends to preserve landscapes as they are, it aims to let nature manage itself.",
+        "vi": "Khác với bảo tồn truyền thống vốn có xu hướng giữ nguyên cảnh quan, phương pháp này muốn để thiên nhiên tự vận hành."
+      },
+      {
+        "en": "The return of wolves to certain regions, for instance, has altered the behaviour of deer and allowed riverside vegetation to recover.",
+        "vi": "Chẳng hạn, việc chó sói trở lại một số vùng đã thay đổi hành vi của hươu và giúp thảm thực vật ven sông phục hồi."
+      },
+      {
+        "en": "Such cascading effects illustrate how a single predator can reshape an entire food web.",
+        "vi": "Những tác động dây chuyền như vậy cho thấy chỉ một loài săn mồi cũng có thể định hình lại cả mạng lưới thức ăn."
+      },
+      {
+        "en": "Nevertheless, rewilding is far from uncontroversial, particularly among farmers who fear for their livestock and their livelihoods.",
+        "vi": "Tuy nhiên, phục hồi hoang dã còn lâu mới hết tranh cãi, nhất là với nông dân, những người lo cho vật nuôi và kế sinh nhai của mình."
+      },
+      {
+        "en": "Rural communities rightly object when decisions are imposed from afar by people who will never bear the consequences.",
+        "vi": "Cộng đồng nông thôn phản đối là có lý khi các quyết định bị áp đặt từ xa bởi những người sẽ không bao giờ gánh hậu quả."
+      },
+      {
+        "en": "There is also the uncomfortable question of what baseline we are restoring, given that no landscape is truly untouched.",
+        "vi": "Cũng có câu hỏi khó chịu về việc chúng ta đang khôi phục theo mốc nào, khi chẳng cảnh quan nào thực sự nguyên sơ."
+      },
+      {
+        "en": "Compensation schemes and genuine consultation could go a long way towards easing these tensions.",
+        "vi": "Các chương trình bồi thường và tham vấn thực chất có thể góp phần lớn trong việc xoa dịu những căng thẳng này."
+      },
+      {
+        "en": "Properly managed, rewilding might even create jobs, as nature tourism brings fresh income to struggling areas.",
+        "vi": "Nếu được quản lý đúng cách, phục hồi hoang dã thậm chí có thể tạo việc làm, khi du lịch thiên nhiên mang nguồn thu mới đến những vùng khó khăn."
+      },
+      {
+        "en": "Ultimately, the success of any project will hinge on patience, since ecosystems recover on their own timescale, not ours, and rarely follow a predictable script.",
+        "vi": "Cuối cùng, thành công của mọi dự án sẽ tùy vào sự kiên nhẫn, vì hệ sinh thái hồi phục theo nhịp riêng chứ không theo nhịp của ta, và hiếm khi đi theo kịch bản đoán trước được."
+      },
+      {
+        "en": "In an age of mass extinction, we can scarcely afford to treat the natural world as a museum piece.",
+        "vi": "Trong thời đại tuyệt chủng hàng loạt, chúng ta khó có thể coi thế giới tự nhiên như một món đồ trưng bày bảo tàng."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "rewilding",
+        "vi": "phục hồi hoang dã"
+      },
+      {
+        "w": "reintroduce",
+        "vi": "đưa trở lại (loài vật)"
+      },
+      {
+        "w": "cascading effects",
+        "vi": "tác động dây chuyền"
+      },
+      {
+        "w": "food web",
+        "vi": "mạng lưới thức ăn"
+      },
+      {
+        "w": "livelihood",
+        "vi": "kế sinh nhai"
+      },
+      {
+        "w": "baseline",
+        "vi": "mốc cơ sở, điểm tham chiếu"
+      },
+      {
+        "w": "go a long way towards",
+        "vi": "góp phần đáng kể vào"
+      },
+      {
+        "w": "mass extinction",
+        "vi": "tuyệt chủng hàng loạt"
+      }
+    ],
+    "notes": "Chú ý các cụm danh từ dài như 'restoring ecosystems by reintroducing lost species': nhấn 'restoring' và 'lost', ngắt nhịp sau dấu phẩy. Câu cuối hạ giọng dứt khoát ở 'museum piece'."
+  },
+  {
+    "id": "l46",
+    "title": "The Limits of Economic Growth",
+    "title_vi": "Giới hạn của tăng trưởng kinh tế",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {
+        "en": "For decades, politicians of every persuasion have treated economic growth as the surest measure of national success.",
+        "vi": "Trong nhiều thập kỷ, các chính trị gia thuộc mọi khuynh hướng đều coi tăng trưởng kinh tế là thước đo chắc chắn nhất của thành công quốc gia."
+      },
+      {
+        "en": "Yet a growing number of economists question whether endless expansion is either possible or desirable on a finite planet.",
+        "vi": "Tuy nhiên, ngày càng nhiều nhà kinh tế đặt câu hỏi liệu mở rộng vô tận có khả thi hoặc đáng mong muốn trên một hành tinh hữu hạn hay không."
+      },
+      {
+        "en": "Gross domestic product, after all, counts an oil spill's clean-up as a gain while ignoring the damage that made it necessary.",
+        "vi": "Suy cho cùng, tổng sản phẩm quốc nội tính việc dọn dẹp một vụ tràn dầu là lợi ích, trong khi bỏ qua thiệt hại khiến việc đó trở nên cần thiết."
+      },
+      {
+        "en": "Advocates of degrowth contend that wealthy nations should deliberately scale back consumption to reduce their environmental footprint.",
+        "vi": "Những người ủng hộ giảm tăng trưởng cho rằng các nước giàu nên chủ động cắt giảm tiêu dùng để giảm dấu chân môi trường."
+      },
+      {
+        "en": "Their opponents respond that growth has lifted billions out of poverty and funds the very research needed to tackle climate change.",
+        "vi": "Phe đối lập đáp lại rằng tăng trưởng đã đưa hàng tỷ người thoát nghèo và tài trợ cho chính những nghiên cứu cần thiết để chống biến đổi khí hậu."
+      },
+      {
+        "en": "There is force in both arguments, and neither side can claim a monopoly on common sense.",
+        "vi": "Cả hai lập luận đều có sức nặng, và không bên nào có thể độc quyền lẽ thường."
+      },
+      {
+        "en": "A middle path might involve decoupling prosperity from resource use, though the evidence that this can happen quickly enough is thin.",
+        "vi": "Một con đường trung dung có thể là tách sự thịnh vượng khỏi việc sử dụng tài nguyên, dù bằng chứng cho thấy điều này đủ nhanh còn mỏng."
+      },
+      {
+        "en": "Alternative indicators, such as wellbeing and environmental health, would give policymakers a fuller picture of how societies are faring.",
+        "vi": "Các chỉ số thay thế, chẳng hạn phúc lợi và sức khỏe môi trường, sẽ cho các nhà hoạch định chính sách bức tranh đầy đủ hơn về tình hình xã hội."
+      },
+      {
+        "en": "Should we continue to chase growth at any cost, we may find that the bill arrives long after we can afford to pay it.",
+        "vi": "Nếu cứ theo đuổi tăng trưởng bằng mọi giá, chúng ta có thể thấy hóa đơn đến rất lâu sau khi không còn khả năng thanh toán."
+      },
+      {
+        "en": "The question, then, is not whether to grow, but what exactly we want to grow, and for whose benefit.",
+        "vi": "Vậy câu hỏi không phải là có nên tăng trưởng hay không, mà là chúng ta muốn tăng trưởng điều gì, và vì lợi ích của ai."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "of every persuasion",
+        "vi": "thuộc mọi khuynh hướng"
+      },
+      {
+        "w": "finite",
+        "vi": "hữu hạn"
+      },
+      {
+        "w": "degrowth",
+        "vi": "giảm tăng trưởng"
+      },
+      {
+        "w": "scale back",
+        "vi": "cắt giảm quy mô"
+      },
+      {
+        "w": "footprint",
+        "vi": "dấu chân (môi trường)"
+      },
+      {
+        "w": "decouple",
+        "vi": "tách rời, làm cho không còn gắn liền"
+      },
+      {
+        "w": "claim a monopoly on",
+        "vi": "tự cho là độc quyền về"
+      },
+      {
+        "w": "at any cost",
+        "vi": "bằng mọi giá"
+      }
+    ],
+    "notes": "Ở câu 'Should we continue...' (đảo ngữ điều kiện), nhấn 'Should' và 'any cost'. Câu cuối dùng cấu trúc 'not whether..., but what...': nhấn mạnh 'whether' và 'what' để làm nổi bật sự đối lập."
+  },
+  {
+    "id": "l47",
+    "title": "Nuclear Energy: Solution or Hazard?",
+    "title_vi": "Năng lượng hạt nhân: giải pháp hay hiểm họa?",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {
+        "en": "Few energy sources divide opinion as sharply as nuclear power, which is hailed by some as salvation and condemned by others as folly.",
+        "vi": "Ít nguồn năng lượng nào chia rẽ ý kiến gay gắt như điện hạt nhân, thứ được một số người tung hô là cứu tinh còn người khác lên án là điên rồ."
+      },
+      {
+        "en": "Its chief virtue is that it generates vast quantities of electricity with remarkably low carbon emissions.",
+        "vi": "Ưu điểm chính của nó là tạo ra lượng điện khổng lồ với lượng phát thải carbon thấp đáng kể."
+      },
+      {
+        "en": "Unlike wind and solar, nuclear plants run continuously, providing the reliable baseload that modern grids demand.",
+        "vi": "Không như gió và mặt trời, các nhà máy hạt nhân vận hành liên tục, cung cấp nguồn điện nền ổn định mà lưới điện hiện đại đòi hỏi."
+      },
+      {
+        "en": "Against this, opponents point to the spectre of accidents such as Chernobyl and Fukushima, whose consequences lingered for decades.",
+        "vi": "Ngược lại, những người phản đối viện dẫn bóng ma của các tai nạn như Chernobyl và Fukushima, với hậu quả kéo dài hàng thập kỷ."
+      },
+      {
+        "en": "Statistically, nuclear power has caused far fewer deaths per unit of energy than coal, yet fear is rarely governed by statistics.",
+        "vi": "Về mặt thống kê, điện hạt nhân gây ra ít cái chết hơn nhiều trên mỗi đơn vị năng lượng so với than, nhưng nỗi sợ hiếm khi tuân theo thống kê."
+      },
+      {
+        "en": "More intractable is the problem of radioactive waste, which must be stored safely for thousands of years.",
+        "vi": "Nan giải hơn là vấn đề chất thải phóng xạ, thứ phải được lưu trữ an toàn hàng nghìn năm."
+      },
+      {
+        "en": "No country has yet devised a permanent solution that commands universal public confidence.",
+        "vi": "Chưa quốc gia nào nghĩ ra giải pháp lâu dài nhận được niềm tin rộng khắp của công chúng."
+      },
+      {
+        "en": "Cost is another stumbling block, as new reactors are notorious for running over budget and behind schedule.",
+        "vi": "Chi phí là một trở ngại khác, vì các lò phản ứng mới nổi tiếng là vượt ngân sách và chậm tiến độ."
+      },
+      {
+        "en": "Smaller modular reactors may eventually alleviate these concerns, though they remain largely unproven at scale.",
+        "vi": "Các lò phản ứng mô-đun nhỏ hơn cuối cùng có thể xoa dịu những lo ngại này, dù phần lớn chúng chưa được kiểm chứng ở quy mô lớn."
+      },
+      {
+        "en": "Whatever one concludes, the decision deserves honest, evidence-based debate rather than slogans from either camp, because the stakes could hardly be higher.",
+        "vi": "Dù kết luận thế nào, quyết định này xứng đáng được tranh luận trung thực dựa trên bằng chứng thay vì khẩu hiệu của bất kỳ phe nào, vì cái giá phải trả không thể cao hơn."
+      },
+      {
+        "en": "Given the urgency of the climate crisis, it would be unwise to rule nuclear energy out, but equally unwise to treat it as a cure-all.",
+        "vi": "Với tính cấp bách của khủng hoảng khí hậu, loại bỏ năng lượng hạt nhân là thiếu khôn ngoan, nhưng coi nó là thuốc chữa bách bệnh cũng thiếu khôn ngoan không kém."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "hailed as",
+        "vi": "được tung hô là"
+      },
+      {
+        "w": "folly",
+        "vi": "sự điên rồ, dại dột"
+      },
+      {
+        "w": "baseload",
+        "vi": "nguồn điện nền"
+      },
+      {
+        "w": "spectre",
+        "vi": "bóng ma, mối đe dọa ám ảnh"
+      },
+      {
+        "w": "intractable",
+        "vi": "nan giải, khó xử lý"
+      },
+      {
+        "w": "stumbling block",
+        "vi": "trở ngại"
+      },
+      {
+        "w": "alleviate",
+        "vi": "làm dịu, giảm bớt"
+      },
+      {
+        "w": "cure-all",
+        "vi": "thần dược, thuốc chữa bách bệnh"
+      }
+    ],
+    "notes": "Câu 'Unlike wind and solar...' có mệnh đề đối lập ngắn đứng đầu: nhấn 'Unlike' rồi ngắt trước chủ ngữ. Câu cuối cân bằng 'unwise... equally unwise', nhấn hai lần 'unwise' với cùng cao độ để tạo nhịp song song."
+  },
+  {
+    "id": "l48",
+    "title": "Bilingual Education and National Identity",
+    "title_vi": "Giáo dục song ngữ và bản sắc dân tộc",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {
+        "en": "Language is never merely a tool for communication; it is also a vessel for memory, humour and a shared sense of belonging.",
+        "vi": "Ngôn ngữ chưa bao giờ chỉ là công cụ giao tiếp; nó còn là chiếc bình chứa ký ức, sự hài hước và cảm giác thuộc về chung."
+      },
+      {
+        "en": "For that reason, the choice of language in schools is inseparable from questions of national identity.",
+        "vi": "Vì lẽ đó, việc chọn ngôn ngữ trong trường học không thể tách rời các câu hỏi về bản sắc dân tộc."
+      },
+      {
+        "en": "Research consistently suggests that bilingual children enjoy cognitive advantages, including sharper attention and greater mental flexibility.",
+        "vi": "Nghiên cứu liên tục cho thấy trẻ song ngữ có lợi thế về nhận thức, gồm sự chú ý nhạy bén hơn và tư duy linh hoạt hơn."
+      },
+      {
+        "en": "Moreover, teaching in a minority tongue alongside a global language can prevent the former from slipping into extinction.",
+        "vi": "Hơn nữa, dạy bằng một ngôn ngữ thiểu số song song với ngôn ngữ toàn cầu có thể ngăn ngôn ngữ thiểu số rơi vào diệt vong."
+      },
+      {
+        "en": "Wales offers an instructive example, where decades of bilingual schooling have helped reverse a steep decline in Welsh speakers.",
+        "vi": "Xứ Wales là một ví dụ đáng học hỏi, nơi nhiều thập kỷ giáo dục song ngữ đã giúp đảo ngược sự sụt giảm mạnh số người nói tiếng Wales."
+      },
+      {
+        "en": "Sceptics fear, however, that dividing classroom time between two languages may compromise proficiency in both.",
+        "vi": "Tuy nhiên, những người hoài nghi lo rằng chia thời gian trên lớp cho hai ngôn ngữ có thể làm giảm trình độ ở cả hai."
+      },
+      {
+        "en": "Others worry that promoting a single national language, however well intentioned, risks marginalising immigrant and indigenous communities.",
+        "vi": "Những người khác lo rằng thúc đẩy một ngôn ngữ quốc gia duy nhất, dù thiện chí đến đâu, có nguy cơ gạt cộng đồng nhập cư và bản địa ra bên lề."
+      },
+      {
+        "en": "The most persuasive models treat identity as layered rather than singular, allowing a child to be proudly local and genuinely global.",
+        "vi": "Những mô hình thuyết phục nhất xem bản sắc là nhiều tầng chứ không đơn nhất, cho phép một đứa trẻ vừa tự hào là người địa phương vừa thực sự là công dân toàn cầu."
+      },
+      {
+        "en": "Success depends on well-trained teachers, adequate resources and, above all, a willingness to see diversity as an asset.",
+        "vi": "Thành công phụ thuộc vào giáo viên được đào tạo tốt, nguồn lực đầy đủ và trên hết là sự sẵn lòng coi đa dạng là tài sản."
+      },
+      {
+        "en": "Ultimately, a child who moves comfortably between two languages learns not only vocabulary but also empathy, since every language carries its own way of seeing the world.",
+        "vi": "Cuối cùng, một đứa trẻ chuyển đổi thoải mái giữa hai ngôn ngữ học được không chỉ từ vựng mà cả sự đồng cảm, vì mỗi ngôn ngữ mang một cách nhìn thế giới riêng."
+      },
+      {
+        "en": "A nation confident in its identity has no need to fear a second language.",
+        "vi": "Một quốc gia tự tin vào bản sắc của mình không có gì phải sợ một ngôn ngữ thứ hai."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "vessel",
+        "vi": "vật chứa, phương tiện chuyên chở"
+      },
+      {
+        "w": "sense of belonging",
+        "vi": "cảm giác thuộc về"
+      },
+      {
+        "w": "inseparable from",
+        "vi": "không thể tách rời khỏi"
+      },
+      {
+        "w": "cognitive",
+        "vi": "thuộc nhận thức"
+      },
+      {
+        "w": "instructive",
+        "vi": "mang tính chỉ dẫn, bổ ích"
+      },
+      {
+        "w": "compromise",
+        "vi": "làm tổn hại, ảnh hưởng xấu đến"
+      },
+      {
+        "w": "marginalise",
+        "vi": "gạt ra bên lề"
+      },
+      {
+        "w": "proficiency",
+        "vi": "sự thành thạo"
+      }
+    ],
+    "notes": "Câu mở đầu dùng cấu trúc 'never merely... it is also': nhấn 'never merely' và 'also'. Mệnh đề chèn 'however well intentioned' đọc nhanh, thấp giọng, giữa hai dấu phẩy."
+  },
+  {
+    "id": "l49",
+    "title": "Mass Tourism and Heritage Sites",
+    "title_vi": "Du lịch đại trà và bảo vệ di sản",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {
+        "en": "Tourism is a double-edged sword for heritage sites, bringing both vital revenue and the threat of irreversible damage.",
+        "vi": "Du lịch là con dao hai lưỡi đối với các di sản, vừa mang lại nguồn thu thiết yếu vừa đe dọa những tổn hại không thể đảo ngược."
+      },
+      {
+        "en": "Cities such as Venice and Dubrovnik have become so crowded that residents feel like strangers in their own streets.",
+        "vi": "Những thành phố như Venice và Dubrovnik đã đông đúc đến mức cư dân cảm thấy như người lạ ngay trên phố của mình."
+      },
+      {
+        "en": "Ancient monuments, never designed to withstand millions of footsteps, are eroding under the sheer weight of numbers.",
+        "vi": "Các công trình cổ, vốn không được thiết kế để chịu hàng triệu bước chân, đang mòn dần dưới sức nặng của lượng khách."
+      },
+      {
+        "en": "Paradoxically, the very qualities that attract visitors, authenticity and tranquillity, are the first casualties of their arrival.",
+        "vi": "Nghịch lý thay, chính những phẩm chất thu hút du khách, sự nguyên bản và yên tĩnh, lại là nạn nhân đầu tiên khi họ đến."
+      },
+      {
+        "en": "Yet local economies often depend so heavily on visitors that a sudden restriction could spell disaster for thousands of families.",
+        "vi": "Tuy nhiên, kinh tế địa phương thường phụ thuộc nặng vào du khách đến mức một hạn chế đột ngột có thể là thảm họa cho hàng nghìn gia đình."
+      },
+      {
+        "en": "Various remedies have been tried, including timed tickets, entry fees and caps on daily numbers.",
+        "vi": "Nhiều giải pháp đã được thử, gồm vé theo khung giờ, phí vào cửa và hạn mức số lượng mỗi ngày."
+      },
+      {
+        "en": "Critics warn that pricing out ordinary people would turn cultural treasures into the preserve of the wealthy.",
+        "vi": "Các nhà phê bình cảnh báo rằng việc đẩy giá lên cao sẽ biến báu vật văn hóa thành đặc quyền của người giàu."
+      },
+      {
+        "en": "A more promising strategy might be to disperse crowds by promoting lesser-known destinations and encouraging travel outside peak season.",
+        "vi": "Một chiến lược triển vọng hơn có thể là phân tán đám đông bằng cách quảng bá các điểm đến ít tên tuổi và khuyến khích đi ngoài mùa cao điểm."
+      },
+      {
+        "en": "Visitors, too, bear a responsibility to behave as guests rather than consumers of an experience.",
+        "vi": "Du khách cũng có trách nhiệm cư xử như khách mời chứ không phải người tiêu thụ một trải nghiệm."
+      },
+      {
+        "en": "In the end, protecting heritage is a collective responsibility, shared by governments, businesses, local residents and the travellers who pass through.",
+        "vi": "Rốt cuộc, bảo vệ di sản là trách nhiệm tập thể, được chia sẻ giữa chính phủ, doanh nghiệp, cư dân địa phương và những du khách đi ngang qua."
+      },
+      {
+        "en": "If we love these places, we must be prepared to love them a little less intensively, so that they survive for those who follow.",
+        "vi": "Nếu yêu những nơi này, chúng ta phải sẵn sàng yêu chúng bớt dồn dập hơn một chút, để chúng còn tồn tại cho những người đến sau."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "double-edged sword",
+        "vi": "con dao hai lưỡi"
+      },
+      {
+        "w": "irreversible",
+        "vi": "không thể đảo ngược"
+      },
+      {
+        "w": "withstand",
+        "vi": "chịu đựng được"
+      },
+      {
+        "w": "authenticity",
+        "vi": "tính nguyên bản, chân thực"
+      },
+      {
+        "w": "casualty",
+        "vi": "nạn nhân, thứ bị thiệt hại"
+      },
+      {
+        "w": "spell disaster",
+        "vi": "báo hiệu thảm họa"
+      },
+      {
+        "w": "price out",
+        "vi": "đẩy giá khiến không đủ khả năng chi trả"
+      },
+      {
+        "w": "disperse",
+        "vi": "phân tán"
+      }
+    ],
+    "notes": "Ở 'authenticity and tranquillity' giữa hai dấu phẩy, đọc như phần giải thích: giọng thấp và chậm hơn. Câu cuối nhấn 'less' và 'survive', ngắt nhịp rõ trước 'so that'."
+  },
+  {
+    "id": "l50",
+    "title": "The Future of Democracy",
+    "title_vi": "Tương lai của nền dân chủ",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {
+        "en": "Democracy, as Churchill famously quipped, is the worst form of government except for all the others that have been tried.",
+        "vi": "Dân chủ, như Churchill từng đùa nổi tiếng, là hình thức chính phủ tệ nhất, ngoại trừ tất cả những hình thức khác đã được thử."
+      },
+      {
+        "en": "Yet that wry endorsement no longer seems sufficient, as trust in elected institutions has declined across much of the world.",
+        "vi": "Tuy nhiên, lời ủng hộ nửa vời ấy dường như không còn đủ, khi niềm tin vào các thể chế dân cử suy giảm ở phần lớn thế giới."
+      },
+      {
+        "en": "Polarisation, fuelled by echo chambers and sensational media, has made compromise look like betrayal rather than statecraft.",
+        "vi": "Sự phân cực, bị châm ngòi bởi các buồng vang và truyền thông giật gân, khiến thỏa hiệp trông như phản bội thay vì nghệ thuật cai trị."
+      },
+      {
+        "en": "Voters, feeling ignored, increasingly turn to populists who promise simple answers to profoundly complex problems.",
+        "vi": "Cử tri, cảm thấy bị phớt lờ, ngày càng quay sang những kẻ dân túy hứa hẹn câu trả lời đơn giản cho những vấn đề cực kỳ phức tạp."
+      },
+      {
+        "en": "Nor is the danger confined to fragile states; even long-established democracies have seen norms of restraint quietly erode.",
+        "vi": "Mối nguy cũng không chỉ giới hạn ở các quốc gia mong manh; ngay cả những nền dân chủ lâu đời cũng chứng kiến các chuẩn mực tự kiềm chế âm thầm mòn đi."
+      },
+      {
+        "en": "Some thinkers propose citizens' assemblies, in which randomly selected people deliberate on contentious issues, as a remedy.",
+        "vi": "Một số nhà tư tưởng đề xuất các hội đồng công dân, nơi những người được chọn ngẫu nhiên cân nhắc các vấn đề gây tranh cãi, như một phương thuốc."
+      },
+      {
+        "en": "Early experiments suggest that, given time and information, ordinary people can reach surprisingly thoughtful conclusions.",
+        "vi": "Các thử nghiệm ban đầu cho thấy khi được cho thời gian và thông tin, người bình thường có thể đi đến những kết luận chín chắn đến bất ngờ."
+      },
+      {
+        "en": "Technology, too, could widen participation, although it also opens the door to manipulation and surveillance.",
+        "vi": "Công nghệ cũng có thể mở rộng sự tham gia, dù nó đồng thời mở đường cho thao túng và giám sát."
+      },
+      {
+        "en": "Ultimately, no mechanism can substitute for a culture in which citizens accept losing gracefully and respect the rights of opponents.",
+        "vi": "Suy cho cùng, không cơ chế nào thay thế được một nền văn hóa nơi công dân chấp nhận thua một cách phong nhã và tôn trọng quyền của đối thủ."
+      },
+      {
+        "en": "Whether it flourishes or falters will depend less on grand constitutional design than on the everyday conduct of ordinary people, who hold the ultimate power to renew it.",
+        "vi": "Việc nó nở rộ hay chững lại sẽ phụ thuộc ít vào thiết kế hiến pháp lớn lao hơn là vào hành xử hằng ngày của người dân bình thường, những người nắm quyền tối thượng để làm mới nó."
+      },
+      {
+        "en": "Democracy is not a finished product but a habit, and habits survive only through constant, deliberate practice.",
+        "vi": "Dân chủ không phải sản phẩm hoàn chỉnh mà là một thói quen, và thói quen chỉ tồn tại nhờ thực hành đều đặn, có chủ đích."
+      }
+    ],
+    "vocab": [
+      {
+        "w": "quip",
+        "vi": "nói đùa dí dỏm"
+      },
+      {
+        "w": "wry",
+        "vi": "mỉa mai nhẹ nhàng"
+      },
+      {
+        "w": "polarisation",
+        "vi": "sự phân cực"
+      },
+      {
+        "w": "echo chamber",
+        "vi": "buồng vang (môi trường chỉ nghe ý kiến giống mình)"
+      },
+      {
+        "w": "statecraft",
+        "vi": "nghệ thuật quản lý nhà nước"
+      },
+      {
+        "w": "populist",
+        "vi": "người theo chủ nghĩa dân túy"
+      },
+      {
+        "w": "deliberate",
+        "vi": "cân nhắc, thảo luận kỹ lưỡng"
+      },
+      {
+        "w": "surveillance",
+        "vi": "sự giám sát"
+      }
+    ],
+    "notes": "Câu 'Nor is the danger confined...' là đảo ngữ phủ định: nhấn 'Nor' và hạ giọng sau dấu chấm phẩy. Câu cuối cân đối 'not a finished product but a habit', nhấn 'product' và 'habit' để đối lập rõ."
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "l41",
+    "title": "Learning to Play an Instrument",
+    "title_vi": "Học chơi một nhạc cụ",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "Last year, I decided to learn the guitar.", "vi": "Năm ngoái, tôi quyết định học chơi guitar."},
+      {"en": "At first, my fingers hurt a lot when I pressed the strings.", "vi": "Lúc đầu, ngón tay tôi rất đau khi bấm dây đàn."},
+      {"en": "I have practised for thirty minutes every day since then.", "vi": "Từ đó đến nay tôi luyện tập ba mươi phút mỗi ngày."},
+      {"en": "My teacher says I'm getting better, which makes me really happy.", "vi": "Thầy giáo nói tôi đang tiến bộ, điều đó làm tôi rất vui."},
+      {"en": "I can already play three simple songs without any mistakes.", "vi": "Tôi đã có thể chơi ba bài hát đơn giản mà không sai."},
+      {"en": "If I keep practising, I'll be able to join a small band.", "vi": "Nếu tiếp tục luyện tập, tôi sẽ có thể tham gia một ban nhạc nhỏ."},
+      {"en": "Learning an instrument takes patience, but it's very rewarding.", "vi": "Học một nhạc cụ cần kiên nhẫn, nhưng rất đáng giá."},
+      {"en": "I would recommend it to anyone who loves music and wants a new hobby.", "vi": "Tôi khuyên bất cứ ai yêu âm nhạc và muốn có sở thích mới nên thử."}
+    ],
+    "vocab": [
+      {"w": "strings", "vi": "dây đàn"},
+      {"w": "practise", "vi": "luyện tập"},
+      {"w": "make mistakes", "vi": "mắc lỗi"},
+      {"w": "band", "vi": "ban nhạc"},
+      {"w": "patience", "vi": "sự kiên nhẫn"},
+      {"w": "rewarding", "vi": "đáng giá, bõ công"}
+    ],
+    "notes": "Trong \"practised for thirty minutes\", âm /t/ cuối \"practised\" nối nhẹ với \"for\". Nhấn mạnh các từ nội dung như \"practised\", \"thirty\", \"minutes\"."
+  },
+  {
+    "id": "l42",
+    "title": "Going to a Music Concert",
+    "title_vi": "Đi xem hòa nhạc",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Last Saturday, I went to a concert with my best friend.", "vi": "Thứ Bảy tuần trước, tôi đi xem hòa nhạc với bạn thân."},
+      {"en": "We bought the tickets two months ago because they sold out quickly.", "vi": "Chúng tôi mua vé hai tháng trước vì vé bán hết rất nhanh."},
+      {"en": "The hall was full of people who were singing along.", "vi": "Khán phòng đầy người đang hát theo."},
+      {"en": "When the band came on stage, everyone started to cheer.", "vi": "Khi ban nhạc bước lên sân khấu, mọi người bắt đầu reo hò."},
+      {"en": "The lights were bright, and the music was incredibly loud.", "vi": "Ánh đèn rất sáng, và âm nhạc cực kỳ to."},
+      {"en": "My favourite song was the last one, and I sang every word.", "vi": "Bài tôi thích nhất là bài cuối, và tôi hát từng lời."},
+      {"en": "We got home very late, but we were still full of energy.", "vi": "Chúng tôi về nhà rất muộn, nhưng vẫn tràn đầy năng lượng."},
+      {"en": "If they come again next year, I'll definitely go back.", "vi": "Nếu họ quay lại năm sau, chắc chắn tôi sẽ đi nữa."}
+    ],
+    "vocab": [
+      {"w": "sell out", "vi": "bán hết sạch"},
+      {"w": "sing along", "vi": "hát theo"},
+      {"w": "on stage", "vi": "trên sân khấu"},
+      {"w": "cheer", "vi": "reo hò, cổ vũ"},
+      {"w": "full of energy", "vi": "tràn đầy năng lượng"},
+      {"w": "definitely", "vi": "chắc chắn"}
+    ],
+    "notes": "Chú ý nối âm \"sold out\" /səʊld aʊt/ và \"came on\". Ngữ điệu lên ở cuối mệnh đề \"When the band came on stage,\" rồi xuống ở mệnh đề chính."
+  },
+  {
+    "id": "l43",
+    "title": "Playing Sport at School",
+    "title_vi": "Chơi thể thao ở trường",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "At my school, we have sports lessons twice a week.", "vi": "Ở trường tôi, chúng tôi có giờ thể thao hai lần một tuần."},
+      {"en": "I'm in the football team, and we train after class on Wednesdays.", "vi": "Tôi ở trong đội bóng đá, và chúng tôi tập sau giờ học vào thứ Tư."},
+      {"en": "Our coach is strict, but he always encourages us to try harder.", "vi": "Huấn luyện viên của chúng tôi nghiêm khắc, nhưng luôn khích lệ chúng tôi cố gắng hơn."},
+      {"en": "Last month, we played against another school and won two to one.", "vi": "Tháng trước, chúng tôi đấu với một trường khác và thắng hai một."},
+      {"en": "I didn't score, but I helped my friend with a good pass.", "vi": "Tôi không ghi bàn, nhưng tôi đã kiến tạo bằng một đường chuyền đẹp."},
+      {"en": "Sport teaches us how to work together as a team.", "vi": "Thể thao dạy chúng tôi cách làm việc cùng nhau như một đội."},
+      {"en": "It also keeps me healthy and helps me relax after exams.", "vi": "Nó cũng giúp tôi khỏe mạnh và thư giãn sau các kỳ thi."},
+      {"en": "If we win the next match, we'll reach the final.", "vi": "Nếu thắng trận tới, chúng tôi sẽ vào chung kết."}
+    ],
+    "vocab": [
+      {"w": "train", "vi": "tập luyện"},
+      {"w": "coach", "vi": "huấn luyện viên"},
+      {"w": "strict", "vi": "nghiêm khắc"},
+      {"w": "score", "vi": "ghi bàn"},
+      {"w": "pass", "vi": "đường chuyền"},
+      {"w": "work as a team", "vi": "làm việc theo đội"}
+    ],
+    "notes": "\"Twice a week\" được đọc liền, \"a\" yếu /ə/. Trong \"didn't score\", nhấn vào \"score\" để tạo đối lập với \"but I helped\"."
+  },
+  {
+    "id": "l44",
+    "title": "Recycling at Home",
+    "title_vi": "Tái chế tại nhà",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "In my house, we separate our rubbish into different bins.", "vi": "Ở nhà tôi, chúng tôi phân loại rác vào các thùng khác nhau."},
+      {"en": "One bin is for paper, and another is for plastic and glass.", "vi": "Một thùng cho giấy, thùng khác cho nhựa và thủy tinh."},
+      {"en": "We also put food waste in a small box and use it for compost.", "vi": "Chúng tôi cũng bỏ thức ăn thừa vào một hộp nhỏ và dùng làm phân hữu cơ."},
+      {"en": "My mother taught me to reuse bottles instead of throwing them away.", "vi": "Mẹ dạy tôi tái sử dụng chai lọ thay vì vứt đi."},
+      {"en": "I always take a cloth bag when I go shopping.", "vi": "Tôi luôn mang túi vải khi đi mua sắm."},
+      {"en": "It takes a little time, but it's good for the environment.", "vi": "Việc này mất chút thời gian, nhưng tốt cho môi trường."},
+      {"en": "If everyone recycled more, our cities would be much cleaner.", "vi": "Nếu mọi người tái chế nhiều hơn, thành phố của chúng ta sẽ sạch hơn nhiều."},
+      {"en": "Small changes at home can make a big difference.", "vi": "Những thay đổi nhỏ ở nhà có thể tạo ra khác biệt lớn."}
+    ],
+    "vocab": [
+      {"w": "separate", "vi": "phân loại, tách ra"},
+      {"w": "rubbish", "vi": "rác"},
+      {"w": "compost", "vi": "phân hữu cơ"},
+      {"w": "reuse", "vi": "tái sử dụng"},
+      {"w": "environment", "vi": "môi trường"},
+      {"w": "make a difference", "vi": "tạo ra sự khác biệt"}
+    ],
+    "notes": "\"Paper\" /ˈpeɪpə/ và \"another\" /əˈnʌðə/: âm cuối -er đọc /ə/ (Anh-Anh không đọc r). Nhấn \"big\" trong \"make a big difference\"."
+  },
+  {
+    "id": "l45",
+    "title": "Visiting Relatives in the Countryside",
+    "title_vi": "Về quê thăm họ hàng",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "Every summer, we visit my grandparents in the countryside.", "vi": "Mỗi mùa hè, chúng tôi về quê thăm ông bà."},
+      {"en": "Their house is surrounded by green fields and tall trees.", "vi": "Ngôi nhà của ông bà được bao quanh bởi những cánh đồng xanh và hàng cây cao."},
+      {"en": "In the morning, I help my grandfather feed the chickens.", "vi": "Buổi sáng, tôi giúp ông cho gà ăn."},
+      {"en": "My grandmother cooks delicious meals with vegetables from the garden.", "vi": "Bà nấu những bữa ăn ngon với rau từ vườn."},
+      {"en": "In the afternoon, my cousins and I play outside until dinner.", "vi": "Buổi chiều, tôi và các anh chị em họ chơi ngoài trời đến giờ ăn tối."},
+      {"en": "The air is fresh, and everything feels peaceful and slow.", "vi": "Không khí trong lành, và mọi thứ có cảm giác yên bình và chậm rãi."},
+      {"en": "I haven't seen them since August, so I miss them a lot.", "vi": "Tôi chưa gặp họ từ tháng Tám, nên tôi rất nhớ họ."},
+      {"en": "So I'm really looking forward to the next visit, because it's always special.", "vi": "Tôi rất mong chờ chuyến thăm tiếp theo, vì lần nào cũng đặc biệt."}
+    ],
+    "vocab": [
+      {"w": "countryside", "vi": "vùng quê"},
+      {"w": "surrounded by", "vi": "được bao quanh bởi"},
+      {"w": "feed", "vi": "cho ăn"},
+      {"w": "cousin", "vi": "anh chị em họ"},
+      {"w": "peaceful", "vi": "yên bình"},
+      {"w": "look forward to", "vi": "mong chờ"}
+    ],
+    "notes": "\"Haven't seen\" thường nối thành /ˈhævnt siːn/. Với \"look forward to\", \"to\" đọc yếu /tə/ và nhấn vào \"forward\"."
+  },
+  {
+    "id": "l46",
+    "title": "Getting Lost in a New Place",
+    "title_vi": "Bị lạc ở nơi lạ",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Last month, I got lost in a city I didn't know.", "vi": "Tháng trước, tôi bị lạc ở một thành phố mà tôi không biết."},
+      {"en": "My phone had no battery, so I couldn't use the map.", "vi": "Điện thoại của tôi hết pin, nên tôi không thể dùng bản đồ."},
+      {"en": "I walked around for twenty minutes, and every street looked the same.", "vi": "Tôi đi loanh quanh hai mươi phút, và con phố nào trông cũng giống nhau."},
+      {"en": "In the end, I asked a friendly woman for directions.", "vi": "Cuối cùng, tôi hỏi đường một người phụ nữ thân thiện."},
+      {"en": "She told me to turn left at the bank and go straight on.", "vi": "Cô ấy bảo tôi rẽ trái ở ngân hàng rồi đi thẳng."},
+      {"en": "Finally, I found my hotel, and I felt very relieved.", "vi": "Cuối cùng, tôi tìm thấy khách sạn và cảm thấy rất nhẹ nhõm."},
+      {"en": "Now I always carry a paper map with me.", "vi": "Bây giờ tôi luôn mang theo một tấm bản đồ giấy."},
+      {"en": "If you ever get lost, don't panic, just ask someone.", "vi": "Nếu bạn bị lạc, đừng hoảng, cứ hỏi ai đó."}
+    ],
+    "vocab": [
+      {"w": "get lost", "vi": "bị lạc"},
+      {"w": "directions", "vi": "chỉ đường"},
+      {"w": "turn left", "vi": "rẽ trái"},
+      {"w": "go straight on", "vi": "đi thẳng"},
+      {"w": "relieved", "vi": "nhẹ nhõm"},
+      {"w": "panic", "vi": "hoảng sợ"}
+    ],
+    "notes": "\"Couldn't use\" đọc rút gọn /ˈkʊdnt juːz/. Các hướng dẫn \"turn left\" và \"go straight on\" nên nhấn rõ \"left\" và \"straight\"."
+  },
+  {
+    "id": "l47",
+    "title": "My Dream Job",
+    "title_vi": "Công việc mơ ước của tôi",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "My dream job is to become a primary school teacher.", "vi": "Công việc mơ ước của tôi là trở thành giáo viên tiểu học."},
+      {"en": "I've always enjoyed working with children because they are curious.", "vi": "Tôi luôn thích làm việc với trẻ em vì các em rất tò mò."},
+      {"en": "When I was young, my teacher inspired me a lot.", "vi": "Khi còn nhỏ, cô giáo đã truyền cảm hứng cho tôi rất nhiều."},
+      {"en": "I would like to do the same for my students.", "vi": "Tôi muốn làm điều tương tự cho học sinh của mình."},
+      {"en": "To reach this goal, I need to finish university first.", "vi": "Để đạt mục tiêu này, trước tiên tôi cần học xong đại học."},
+      {"en": "I'm also volunteering at a local school at weekends.", "vi": "Tôi cũng đang làm tình nguyện ở một trường địa phương vào cuối tuần."},
+      {"en": "It isn't an easy job, but it is very meaningful, and I'm ready to learn.", "vi": "Đây không phải công việc dễ, nhưng rất có ý nghĩa, và tôi sẵn sàng học hỏi."},
+      {"en": "If I work hard, I believe my dream will come true.", "vi": "Nếu tôi chăm chỉ, tôi tin ước mơ sẽ thành sự thật."}
+    ],
+    "vocab": [
+      {"w": "primary school", "vi": "trường tiểu học"},
+      {"w": "curious", "vi": "tò mò"},
+      {"w": "inspire", "vi": "truyền cảm hứng"},
+      {"w": "volunteer", "vi": "làm tình nguyện"},
+      {"w": "meaningful", "vi": "có ý nghĩa"},
+      {"w": "come true", "vi": "trở thành sự thật"}
+    ],
+    "notes": "\"Would like to\" thường đọc nhanh /wʊd ˈlaɪk tə/. \"Dream\" và \"job\" trong câu đầu là hai từ được nhấn mạnh."
+  },
+  {
+    "id": "l48",
+    "title": "A Traditional Festival in My Country",
+    "title_vi": "Một lễ hội truyền thống ở nước tôi",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "The biggest festival in my country is the Lunar New Year.", "vi": "Lễ hội lớn nhất ở nước tôi là Tết Nguyên đán."},
+      {"en": "It usually happens in January or February, and lasts about a week.", "vi": "Lễ thường diễn ra vào tháng Một hoặc tháng Hai và kéo dài khoảng một tuần."},
+      {"en": "Before the festival, families clean their houses and buy fresh flowers.", "vi": "Trước lễ hội, các gia đình dọn dẹp nhà cửa và mua hoa tươi."},
+      {"en": "On the first day, we wear new clothes and visit our relatives.", "vi": "Vào ngày đầu tiên, chúng tôi mặc quần áo mới và đi thăm họ hàng."},
+      {"en": "Children receive red envelopes with lucky money inside.", "vi": "Trẻ em nhận được bao lì xì có tiền may mắn bên trong."},
+      {"en": "We also prepare special food that we only eat at this time.", "vi": "Chúng tôi cũng chuẩn bị những món đặc biệt mà chỉ ăn vào dịp này."},
+      {"en": "The streets are full of colour, lights and happy faces.", "vi": "Đường phố đầy màu sắc, ánh đèn và những gương mặt hạnh phúc."},
+      {"en": "For me, it's the best time to be with my family.", "vi": "Với tôi, đó là thời gian tuyệt nhất để ở bên gia đình."}
+    ],
+    "vocab": [
+      {"w": "festival", "vi": "lễ hội"},
+      {"w": "last (a week)", "vi": "kéo dài"},
+      {"w": "relatives", "vi": "họ hàng"},
+      {"w": "envelope", "vi": "phong bì"},
+      {"w": "lucky", "vi": "may mắn"},
+      {"w": "prepare", "vi": "chuẩn bị"}
+    ],
+    "notes": "\"Colour\" /ˈkʌlə/ là chính tả Anh-Anh. \"January or February\" nối âm /ˈdʒænjuəri ɔː ˈfebruəri/, ngữ điệu hơi lên ở \"January\", xuống ở \"February\"."
+  },
+  {
+    "id": "l49",
+    "title": "Shopping Online",
+    "title_vi": "Mua sắm trực tuyến",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "These days, I buy most of my clothes online.", "vi": "Dạo này, tôi mua hầu hết quần áo qua mạng."},
+      {"en": "It's convenient because I can shop at any time of the day.", "vi": "Điều đó tiện lợi vì tôi có thể mua sắm bất cứ lúc nào trong ngày."},
+      {"en": "I usually compare prices on different websites before I decide.", "vi": "Tôi thường so sánh giá trên nhiều trang web trước khi quyết định."},
+      {"en": "Reading reviews from other customers helps me choose a good product.", "vi": "Đọc đánh giá của khách hàng khác giúp tôi chọn được sản phẩm tốt."},
+      {"en": "Last week, I ordered a jacket, and it arrived in two days.", "vi": "Tuần trước, tôi đặt một chiếc áo khoác và nó đến sau hai ngày."},
+      {"en": "However, it was too small, so I had to send it back.", "vi": "Tuy nhiên, nó quá nhỏ nên tôi phải gửi trả lại."},
+      {"en": "That's the problem with shopping online, because you can't try things on.", "vi": "Đó là vấn đề khi mua sắm trực tuyến, vì bạn không thể thử đồ."},
+      {"en": "If the size is right, I'll definitely buy from that shop again.", "vi": "Nếu đúng cỡ, chắc chắn tôi sẽ mua lại ở cửa hàng đó."}
+    ],
+    "vocab": [
+      {"w": "convenient", "vi": "tiện lợi"},
+      {"w": "compare prices", "vi": "so sánh giá"},
+      {"w": "review", "vi": "đánh giá"},
+      {"w": "order", "vi": "đặt hàng"},
+      {"w": "send back", "vi": "gửi trả lại"},
+      {"w": "try on", "vi": "thử (quần áo)"}
+    ],
+    "notes": "\"Convenient\" nhấn âm thứ hai /kənˈviːniənt/. Cụm \"try things on\" nối âm \"things on\" /θɪŋz ɒn/ và nhấn \"try\"."
+  },
+  {
+    "id": "l50",
+    "title": "Starting a Small Garden",
+    "title_vi": "Bắt đầu một khu vườn nhỏ",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Last spring, I started a small garden behind my house.", "vi": "Mùa xuân năm ngoái, tôi bắt đầu một khu vườn nhỏ sau nhà."},
+      {"en": "First, I cleared the ground and added some fresh soil.", "vi": "Đầu tiên, tôi dọn đất và thêm một ít đất mới."},
+      {"en": "Then I planted tomatoes, carrots and a few herbs.", "vi": "Sau đó tôi trồng cà chua, cà rốt và một ít rau thơm."},
+      {"en": "I water the plants every morning before I go to work.", "vi": "Tôi tưới cây mỗi sáng trước khi đi làm."},
+      {"en": "At first, some of the seeds didn't grow, which was disappointing.", "vi": "Lúc đầu, một số hạt không mọc, điều đó thật đáng thất vọng."},
+      {"en": "But now my garden is full of green leaves and bright flowers.", "vi": "Nhưng giờ vườn của tôi đầy lá xanh và hoa rực rỡ."},
+      {"en": "I've already picked my first tomatoes, and they taste wonderful.", "vi": "Tôi đã hái những quả cà chua đầu tiên, và chúng ngon tuyệt."},
+      {"en": "If you have a little space, you should try it too, because it's so relaxing.", "vi": "Nếu bạn có một chút không gian, bạn cũng nên thử, vì nó rất thư giãn."}
+    ],
+    "vocab": [
+      {"w": "soil", "vi": "đất trồng"},
+      {"w": "plant", "vi": "trồng (cây)"},
+      {"w": "herbs", "vi": "rau thơm, thảo mộc"},
+      {"w": "water", "vi": "tưới nước"},
+      {"w": "seeds", "vi": "hạt giống"},
+      {"w": "disappointing", "vi": "đáng thất vọng"}
+    ],
+    "notes": "\"Tomatoes\" Anh-Anh đọc /təˈmɑːtəʊz/. \"Picked my first\" có /t/ cuối \"picked\" gần như được nuốt trước \"my\"."
+  }
+]

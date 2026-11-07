@@ -1,0 +1,227 @@
+[
+  {
+    "id": "l04",
+    "title": "Shopping for Clothes",
+    "title_vi": "Mua quần áo",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Last Saturday, I went shopping for a new jacket.", "vi": "Thứ Bảy tuần trước, tôi đi mua một chiếc áo khoác mới."},
+      {"en": "I looked around for an hour before I found one I liked.", "vi": "Tôi đi xem một tiếng đồng hồ rồi mới tìm được chiếc ưng ý."},
+      {"en": "It was dark blue, and the colour really suited me.", "vi": "Nó màu xanh đậm, và màu đó rất hợp với tôi."},
+      {"en": "I tried it on, but it was a little too big.", "vi": "Tôi mặc thử, nhưng nó hơi rộng một chút."},
+      {"en": "The shop assistant brought me a smaller size, and it fitted perfectly.", "vi": "Nhân viên cửa hàng mang cho tôi cỡ nhỏ hơn, và nó vừa vặn hoàn hảo."},
+      {"en": "It was on sale, so I paid only half the normal price.", "vi": "Nó đang giảm giá, nên tôi chỉ trả một nửa giá thường."},
+      {"en": "If I find another bargain like that, I'll buy it straight away.", "vi": "Nếu tìm được món hời nào như vậy nữa, tôi sẽ mua ngay."}
+    ],
+    "vocab": [
+      {"w": "try on", "vi": "mặc thử"},
+      {"w": "suit", "vi": "hợp với"},
+      {"w": "fit", "vi": "vừa vặn"},
+      {"w": "on sale", "vi": "đang giảm giá"},
+      {"w": "bargain", "vi": "món hời"},
+      {"w": "shop assistant", "vi": "nhân viên bán hàng"}
+    ],
+    "notes": "Nối âm trong \"tried it on\" /traɪd ɪt ɒn/ nghe như \"tri-di-ton\". Nhấn mạnh từ nội dung như \"dark BLUE\", \"perFECTly\"."
+  },
+  {
+    "id": "l05",
+    "title": "Ordering Food in a Restaurant",
+    "title_vi": "Gọi món ở nhà hàng",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "We booked a table at our favourite restaurant for seven o'clock.", "vi": "Chúng tôi đặt bàn ở nhà hàng yêu thích lúc bảy giờ."},
+      {"en": "The waiter gave us the menu and asked what we would like to drink.", "vi": "Người phục vụ đưa thực đơn và hỏi chúng tôi muốn uống gì."},
+      {"en": "I ordered a tomato soup as a starter.", "vi": "Tôi gọi một món súp cà chua để khai vị."},
+      {"en": "For the main course, I'd like the grilled chicken with vegetables, please.", "vi": "Món chính, tôi muốn gà nướng với rau, làm ơn."},
+      {"en": "My friend isn't very hungry, so she just had a salad.", "vi": "Bạn tôi không đói lắm nên chỉ ăn một đĩa salad."},
+      {"en": "The food was delicious, and the service was very friendly.", "vi": "Đồ ăn rất ngon và phục vụ rất thân thiện."},
+      {"en": "When we finished, I asked for the bill and left a small tip.", "vi": "Khi ăn xong, tôi xin hóa đơn và để lại một ít tiền boa."}
+    ],
+    "vocab": [
+      {"w": "book a table", "vi": "đặt bàn"},
+      {"w": "starter", "vi": "món khai vị"},
+      {"w": "main course", "vi": "món chính"},
+      {"w": "grilled", "vi": "nướng"},
+      {"w": "bill", "vi": "hóa đơn"},
+      {"w": "tip", "vi": "tiền boa"}
+    ],
+    "notes": "\"I'd like\" rút gọn /aɪd laɪk/. \"asked for\" nối thành /ɑːskt fɔː/; lên giọng nhẹ ở lời đề nghị lịch sự \"please\"."
+  },
+  {
+    "id": "l06",
+    "title": "Describing My Hometown",
+    "title_vi": "Mô tả quê hương tôi",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "I come from a small town near the coast.", "vi": "Tôi đến từ một thị trấn nhỏ gần bờ biển."},
+      {"en": "It's quiet and friendly, and everybody knows each other.", "vi": "Nơi đó yên tĩnh và thân thiện, ai cũng biết nhau."},
+      {"en": "There's a lovely old market in the centre where you can buy fresh fish.", "vi": "Có một khu chợ cũ xinh xắn ở trung tâm, nơi bạn có thể mua cá tươi."},
+      {"en": "In summer, lots of tourists visit because the beaches are so beautiful.", "vi": "Vào mùa hè, rất nhiều khách du lịch đến vì các bãi biển rất đẹp."},
+      {"en": "The only problem is that there aren't many jobs for young people.", "vi": "Vấn đề duy nhất là không có nhiều việc làm cho người trẻ."},
+      {"en": "That's why I moved to the city after I finished school.", "vi": "Đó là lý do tôi chuyển lên thành phố sau khi học xong."},
+      {"en": "Even so, I still miss my hometown, and I visit whenever I can.", "vi": "Dù vậy, tôi vẫn nhớ quê và về thăm bất cứ khi nào có thể."}
+    ],
+    "vocab": [
+      {"w": "coast", "vi": "bờ biển"},
+      {"w": "tourist", "vi": "khách du lịch"},
+      {"w": "market", "vi": "chợ"},
+      {"w": "quiet", "vi": "yên tĩnh"},
+      {"w": "move to", "vi": "chuyển đến"},
+      {"w": "miss", "vi": "nhớ"}
+    ],
+    "notes": "\"There's a\" nối thành /ðeəz ə/. Trong \"a lot of\" (lots of) âm /əv/ yếu; nhấn vào \"BEAUtiful\" /ˈbjuːtɪfl/."
+  },
+  {
+    "id": "l07",
+    "title": "Learning a New Language",
+    "title_vi": "Học một ngôn ngữ mới",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "I've been learning Spanish for about six months.", "vi": "Tôi đã học tiếng Tây Ban Nha được khoảng sáu tháng."},
+      {"en": "At first, it was difficult to remember all the new words.", "vi": "Lúc đầu, rất khó để nhớ hết các từ mới."},
+      {"en": "Now I practise every day, even if it's only for ten minutes.", "vi": "Giờ tôi luyện tập mỗi ngày, dù chỉ mười phút."},
+      {"en": "I listen to songs and watch short videos to improve my listening.", "vi": "Tôi nghe nhạc và xem video ngắn để cải thiện kỹ năng nghe."},
+      {"en": "Speaking is the hardest part because I'm afraid of making mistakes.", "vi": "Nói là phần khó nhất vì tôi sợ mắc lỗi."},
+      {"en": "My teacher says that mistakes are a normal part of learning.", "vi": "Giáo viên của tôi nói lỗi sai là một phần bình thường của việc học."},
+      {"en": "If I keep working hard, I'll be able to chat with people next summer.", "vi": "Nếu tiếp tục chăm chỉ, hè sang năm tôi sẽ có thể trò chuyện với mọi người."}
+    ],
+    "vocab": [
+      {"w": "practise", "vi": "luyện tập"},
+      {"w": "improve", "vi": "cải thiện"},
+      {"w": "make a mistake", "vi": "mắc lỗi"},
+      {"w": "at first", "vi": "lúc đầu"},
+      {"w": "be afraid of", "vi": "sợ"},
+      {"w": "keep working hard", "vi": "tiếp tục chăm chỉ"}
+    ],
+    "notes": "\"I've been\" rút gọn /aɪv biːn/ với \"been\" yếu /bɪn/. \"Mistakes are a\" nối âm: /mɪˈsteɪks ər ə/."
+  },
+  {
+    "id": "l08",
+    "title": "My Best Friend",
+    "title_vi": "Người bạn thân nhất của tôi",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "My best friend is called Daniel, and I've known him since primary school.", "vi": "Bạn thân nhất của tôi tên là Daniel, và tôi quen cậu ấy từ hồi tiểu học."},
+      {"en": "He's tall, with short dark hair and a big smile.", "vi": "Cậu ấy cao, tóc đen ngắn và nụ cười tươi."},
+      {"en": "He's very funny, and he always makes me laugh.", "vi": "Cậu ấy rất hài hước và luôn làm tôi cười."},
+      {"en": "When I have a problem, he listens carefully and gives me good advice.", "vi": "Khi tôi có vấn đề, cậu ấy lắng nghe cẩn thận và cho tôi lời khuyên hay."},
+      {"en": "We both love football, so we often go to matches together.", "vi": "Cả hai đều thích bóng đá nên chúng tôi thường cùng đi xem trận đấu."},
+      {"en": "Even though he lives in another city now, we talk every weekend.", "vi": "Dù giờ cậu ấy sống ở thành phố khác, chúng tôi vẫn nói chuyện mỗi cuối tuần."},
+      {"en": "I feel lucky to have a friend like him.", "vi": "Tôi thấy may mắn khi có một người bạn như cậu ấy."}
+    ],
+    "vocab": [
+      {"w": "primary school", "vi": "trường tiểu học"},
+      {"w": "make someone laugh", "vi": "làm ai đó cười"},
+      {"w": "advice", "vi": "lời khuyên"},
+      {"w": "even though", "vi": "mặc dù"},
+      {"w": "match", "vi": "trận đấu"},
+      {"w": "lucky", "vi": "may mắn"}
+    ],
+    "notes": "\"known him\" thường nghe như /nəʊn ɪm/ vì âm /h/ bị nuốt. \"Advice\" /ədˈvaɪs/ nhấn âm thứ hai."
+  },
+  {
+    "id": "l09",
+    "title": "Using Public Transport",
+    "title_vi": "Đi phương tiện công cộng",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "I don't own a car, so I use public transport every day.", "vi": "Tôi không có xe hơi nên ngày nào cũng đi phương tiện công cộng."},
+      {"en": "I walk to the station and catch the train at eight fifteen.", "vi": "Tôi đi bộ đến ga và bắt chuyến tàu lúc tám giờ mười lăm."},
+      {"en": "The journey takes about thirty minutes, and I usually read a book.", "vi": "Chuyến đi mất khoảng ba mươi phút, và tôi thường đọc sách."},
+      {"en": "Sometimes the train is late, which can be really annoying.", "vi": "Đôi khi tàu đến trễ, điều đó có thể rất khó chịu."},
+      {"en": "In rush hour, it's so crowded that I have to stand.", "vi": "Vào giờ cao điểm, tàu đông đến mức tôi phải đứng."},
+      {"en": "Even so, it's cheaper and better for the environment than driving.", "vi": "Dù vậy, nó rẻ hơn và tốt cho môi trường hơn so với lái xe."},
+      {"en": "If the price goes up again, I'll buy a bicycle instead.", "vi": "Nếu giá lại tăng, tôi sẽ mua một chiếc xe đạp thay thế."}
+    ],
+    "vocab": [
+      {"w": "public transport", "vi": "phương tiện công cộng"},
+      {"w": "catch a train", "vi": "bắt tàu"},
+      {"w": "journey", "vi": "chuyến đi"},
+      {"w": "rush hour", "vi": "giờ cao điểm"},
+      {"w": "crowded", "vi": "đông đúc"},
+      {"w": "environment", "vi": "môi trường"}
+    ],
+    "notes": "\"catch the\" nối /kætʃ ðə/. \"environment\" /ɪnˈvaɪrənmənt/ thường đọc nhanh, âm /n/ trước \"m\" nhẹ."
+  },
+  {
+    "id": "l10",
+    "title": "A Day at University",
+    "title_vi": "Một ngày ở trường đại học",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "I'm a first-year student, and my day usually starts with a lecture.", "vi": "Tôi là sinh viên năm nhất, và ngày của tôi thường bắt đầu bằng một buổi giảng."},
+      {"en": "The lecture is about business, and I take lots of notes.", "vi": "Bài giảng về kinh doanh, và tôi ghi chép rất nhiều."},
+      {"en": "After that, I meet my classmates in the canteen for lunch.", "vi": "Sau đó, tôi gặp các bạn cùng lớp ở căng tin để ăn trưa."},
+      {"en": "In the afternoon, we have a small group discussion with our tutor.", "vi": "Buổi chiều, chúng tôi có buổi thảo luận nhóm nhỏ với giảng viên hướng dẫn."},
+      {"en": "I've got an essay to finish by Friday, so I'll study in the library tonight.", "vi": "Tôi có một bài luận phải nộp trước thứ Sáu, nên tối nay tôi sẽ học ở thư viện."},
+      {"en": "It's a busy life, but I'm enjoying every moment.", "vi": "Cuộc sống bận rộn, nhưng tôi tận hưởng từng khoảnh khắc."},
+      {"en": "I've already made some great friends here.", "vi": "Tôi đã có được vài người bạn tuyệt vời ở đây."}
+    ],
+    "vocab": [
+      {"w": "lecture", "vi": "bài giảng"},
+      {"w": "take notes", "vi": "ghi chép"},
+      {"w": "canteen", "vi": "căng tin"},
+      {"w": "tutor", "vi": "giảng viên hướng dẫn"},
+      {"w": "essay", "vi": "bài luận"},
+      {"w": "classmate", "vi": "bạn cùng lớp"}
+    ],
+    "notes": "\"I've got an\" nối thành /aɪv gɒt ən/. \"lecture\" /ˈlektʃə/ nhấn âm đầu, âm cuối /ə/ nhẹ (Anh-Anh không đọc r)."
+  },
+  {
+    "id": "l11",
+    "title": "Hobbies and Free Time",
+    "title_vi": "Sở thích và thời gian rảnh",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "In my free time, I enjoy painting and going for long walks.", "vi": "Trong thời gian rảnh, tôi thích vẽ tranh và đi bộ đường dài."},
+      {"en": "I started painting two years ago, and I've improved a lot since then.", "vi": "Tôi bắt đầu vẽ cách đây hai năm, và đã tiến bộ nhiều kể từ đó."},
+      {"en": "At the weekend, I usually take my sketchbook to the park.", "vi": "Cuối tuần, tôi thường mang sổ phác thảo ra công viên."},
+      {"en": "Painting helps me relax after a stressful week at work.", "vi": "Vẽ giúp tôi thư giãn sau một tuần làm việc căng thẳng."},
+      {"en": "I also like cooking, especially when friends come round for dinner.", "vi": "Tôi cũng thích nấu ăn, nhất là khi bạn bè ghé chơi ăn tối."},
+      {"en": "If the weather is nice tomorrow, I'll go hiking in the hills.", "vi": "Nếu mai thời tiết đẹp, tôi sẽ đi leo đồi."},
+      {"en": "I think everyone needs a hobby to keep their mind healthy.", "vi": "Tôi nghĩ ai cũng cần một sở thích để giữ tinh thần khỏe mạnh."}
+    ],
+    "vocab": [
+      {"w": "free time", "vi": "thời gian rảnh"},
+      {"w": "sketchbook", "vi": "sổ phác thảo"},
+      {"w": "relax", "vi": "thư giãn"},
+      {"w": "stressful", "vi": "căng thẳng"},
+      {"w": "come round", "vi": "ghé chơi"},
+      {"w": "go hiking", "vi": "đi leo núi, đi bộ đường dài"}
+    ],
+    "notes": "\"I've improved\" rút gọn /aɪv ɪmˈpruːvd/. Nhấn trọng âm \"PAINTing\" /ˈpeɪntɪŋ/ và \"reLAX\" /rɪˈlæks/."
+  },
+  {
+    "id": "l12",
+    "title": "Celebrating a Family Birthday",
+    "title_vi": "Mừng sinh nhật trong gia đình",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Yesterday was my mother's fiftieth birthday, so we organised a surprise party.", "vi": "Hôm qua là sinh nhật lần thứ năm mươi của mẹ tôi, nên chúng tôi tổ chức một bữa tiệc bất ngờ."},
+      {"en": "My sister baked a chocolate cake, and I decorated the living room.", "vi": "Chị tôi nướng một chiếc bánh sô cô la, còn tôi trang trí phòng khách."},
+      {"en": "When Mum walked in, everybody shouted, \"Happy birthday!\"", "vi": "Khi mẹ bước vào, mọi người đồng thanh hô: \"Chúc mừng sinh nhật!\""},
+      {"en": "She was so surprised that she nearly cried.", "vi": "Mẹ ngạc nhiên đến mức suýt khóc."},
+      {"en": "We sang a song, and she blew out the candles and made a wish.", "vi": "Chúng tôi hát một bài, và mẹ thổi nến rồi ước một điều."},
+      {"en": "Then we ate cake, played some games and chatted until late.", "vi": "Sau đó chúng tôi ăn bánh, chơi vài trò chơi và trò chuyện đến khuya."},
+      {"en": "It was a wonderful evening that none of us will forget.", "vi": "Đó là một buổi tối tuyệt vời mà không ai trong chúng tôi sẽ quên."}
+    ],
+    "vocab": [
+      {"w": "surprise party", "vi": "tiệc bất ngờ"},
+      {"w": "organise", "vi": "tổ chức"},
+      {"w": "decorate", "vi": "trang trí"},
+      {"w": "blow out", "vi": "thổi tắt"},
+      {"w": "make a wish", "vi": "ước một điều"},
+      {"w": "candle", "vi": "ngọn nến"}
+    ],
+    "notes": "\"blew out\" nối thành /bluː aʊt/ gần như một từ. Nhấn mạnh \"so SURprised\" và hạ giọng ở cuối câu kể."
+  }
+]

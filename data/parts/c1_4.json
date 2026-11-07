@@ -1,0 +1,311 @@
+[
+  {
+    "id": "l31",
+    "title": "Nationalism versus internationalism",
+    "title_vi": "Chủ nghĩa dân tộc và chủ nghĩa quốc tế",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Few debates divide modern societies as sharply as the tension between nationalism and internationalism.", "vi": "Hiếm cuộc tranh luận nào chia rẽ các xã hội hiện đại sâu sắc như sự giằng co giữa chủ nghĩa dân tộc và chủ nghĩa quốc tế."},
+      {"en": "Nationalists contend that a shared identity, rooted in language, history and custom, is what binds strangers into a community willing to make sacrifices for one another.", "vi": "Những người theo chủ nghĩa dân tộc cho rằng một bản sắc chung, bắt nguồn từ ngôn ngữ, lịch sử và phong tục, chính là thứ gắn kết những người xa lạ thành một cộng đồng sẵn sàng hy sinh vì nhau."},
+      {"en": "Internationalists, by contrast, argue that the problems we face, from pandemics to climate change, pay no heed to borders whatsoever.", "vi": "Ngược lại, những người theo chủ nghĩa quốc tế lập luận rằng các vấn đề chúng ta đối mặt, từ đại dịch đến biến đổi khí hậu, hoàn toàn không màng đến biên giới."},
+      {"en": "Were any single country to tackle such crises alone, it would almost certainly find its efforts undermined by its neighbours' inaction.", "vi": "Nếu một quốc gia đơn lẻ tự mình giải quyết những khủng hoảng như vậy, nỗ lực của họ gần như chắc chắn sẽ bị làm suy yếu bởi sự thờ ơ của các nước láng giềng."},
+      {"en": "Nor is the distinction as clear-cut as the slogans would have us believe, since many people hold both loyalties at once.", "vi": "Ranh giới ấy cũng không rạch ròi như các khẩu hiệu muốn ta tin, bởi nhiều người cùng lúc mang cả hai lòng trung thành."},
+      {"en": "One can cherish one's homeland and still recognise that prosperity depends on trade, cooperation and the free movement of ideas.", "vi": "Người ta có thể yêu quý quê hương mà vẫn nhận ra rằng sự thịnh vượng phụ thuộc vào thương mại, hợp tác và sự lưu chuyển tự do của ý tưởng."},
+      {"en": "The danger arises when patriotism curdles into hostility towards outsiders, scapegoating minorities for difficulties that have far deeper structural causes.", "vi": "Nguy hiểm nảy sinh khi lòng yêu nước biến chất thành thù địch với người ngoài, đổ lỗi cho các nhóm thiểu số về những khó khăn vốn có nguyên nhân cơ cấu sâu xa hơn nhiều."},
+      {"en": "Equally, an unthinking enthusiasm for global institutions can alienate citizens who feel that remote bureaucrats have taken the decisions that shape their lives.", "vi": "Tương tự, sự hăng hái thiếu suy xét với các thể chế toàn cầu có thể làm xa lánh những công dân cảm thấy các quan chức xa vời đã quyết định thay họ những điều định hình cuộc sống của chính họ."},
+      {"en": "Perhaps the wisest course is to accept that legitimacy must be built from the ground up, rather than imposed from above.", "vi": "Có lẽ hướng đi khôn ngoan nhất là chấp nhận rằng tính chính danh phải được xây dựng từ cơ sở, chứ không phải áp đặt từ trên xuống."},
+      {"en": "Only by reconciling local attachment with global responsibility can we hope to navigate an interdependent world without losing our sense of home.", "vi": "Chỉ bằng cách dung hòa sự gắn bó địa phương với trách nhiệm toàn cầu, ta mới có thể hy vọng định hướng trong một thế giới phụ thuộc lẫn nhau mà không đánh mất cảm giác về quê nhà."}
+    ],
+    "vocab": [
+      {"w": "contend that", "vi": "cho rằng, khẳng định"},
+      {"w": "pay no heed to", "vi": "không để ý, bỏ ngoài tai"},
+      {"w": "clear-cut", "vi": "rạch ròi, rõ ràng"},
+      {"w": "curdle into", "vi": "biến chất thành"},
+      {"w": "scapegoat", "vi": "đổ lỗi (cho ai) một cách bất công"},
+      {"w": "alienate", "vi": "làm xa lánh, tách biệt"},
+      {"w": "legitimacy", "vi": "tính chính danh, tính hợp pháp"},
+      {"w": "interdependent", "vi": "phụ thuộc lẫn nhau"}
+    ],
+    "notes": "Nhấn mạnh các từ đối lập như 'Nationalists' và 'Internationalists, by contrast' rồi ngắt nhịp sau cụm 'by contrast'. Ở câu đảo ngữ 'Were any single country...' và 'Only by reconciling...', lên giọng ở vế điều kiện rồi hạ giọng dứt khoát ở vế kết quả."
+  },
+  {
+    "id": "l32",
+    "title": "The ethics of animal rights",
+    "title_vi": "Đạo đức về quyền động vật",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "The question of whether animals possess rights has moved from the philosophical fringe to the centre of public debate.", "vi": "Câu hỏi liệu động vật có quyền hay không đã đi từ rìa của triết học vào trung tâm của tranh luận công chúng."},
+      {"en": "Utilitarians such as Peter Singer maintain that what matters morally is not intelligence but the capacity to suffer.", "vi": "Những người theo chủ nghĩa vị lợi như Peter Singer khẳng định rằng điều quan trọng về mặt đạo đức không phải là trí thông minh mà là khả năng chịu đau khổ."},
+      {"en": "If that is so, inflicting needless pain on a pig is no more defensible than inflicting it on a human infant.", "vi": "Nếu đúng như vậy, gây đau đớn không cần thiết cho một con lợn cũng chẳng thể bào chữa hơn việc làm điều đó với một đứa trẻ sơ sinh."},
+      {"en": "Critics retort that rights are inseparable from duties, and that animals, being incapable of moral reasoning, cannot sensibly be said to hold them.", "vi": "Giới phê bình đáp lại rằng quyền không thể tách rời nghĩa vụ, và động vật, vì không có khả năng suy xét đạo đức, thì khó có thể nói là sở hữu quyền."},
+      {"en": "Yet this argument sits uneasily with our treatment of infants and the severely disabled, whom we rightly protect regardless.", "vi": "Tuy nhiên, lập luận này khó dung hòa với cách ta đối xử với trẻ sơ sinh và người khuyết tật nặng, những người mà ta bảo vệ một cách đúng đắn bất kể điều đó."},
+      {"en": "Intensive farming, in which millions of creatures are confined in cramped conditions, is arguably the starkest test of our principles.", "vi": "Chăn nuôi công nghiệp, nơi hàng triệu sinh vật bị nhốt trong điều kiện chật chội, có lẽ là phép thử khắc nghiệt nhất đối với các nguyên tắc của chúng ta."},
+      {"en": "Few of us would tolerate such practices if we were obliged to witness them first-hand every day.", "vi": "Ít ai trong chúng ta chấp nhận những việc làm đó nếu buộc phải tận mắt chứng kiến mỗi ngày."},
+      {"en": "Nevertheless, a blanket ban on animal research would deprive patients of treatments that have saved countless lives.", "vi": "Tuy vậy, một lệnh cấm toàn diện đối với nghiên cứu trên động vật sẽ tước đi của bệnh nhân những phương pháp điều trị đã cứu sống vô số người."},
+      {"en": "The honest position, then, may be one of reluctant compromise, in which suffering is minimised rather than eliminated altogether.", "vi": "Vậy lập trường trung thực có lẽ là một sự thỏa hiệp miễn cưỡng, trong đó đau khổ được giảm thiểu chứ không bị loại bỏ hoàn toàn."},
+      {"en": "Whatever conclusion we reach, we should at least refuse to look away, for indifference is itself a moral choice.", "vi": "Dù đi đến kết luận nào, ít nhất ta cũng không nên ngoảnh mặt làm ngơ, bởi sự thờ ơ tự nó cũng là một lựa chọn đạo đức."},
+      {"en": "Progress has seldom come from the comfortable; it has come from those prepared to question what everyone took for granted.", "vi": "Tiến bộ hiếm khi đến từ những người an nhàn; nó đến từ những ai dám đặt nghi vấn về điều mà mọi người cho là hiển nhiên."}
+    ],
+    "vocab": [
+      {"w": "utilitarian", "vi": "người theo chủ nghĩa vị lợi"},
+      {"w": "inflict (pain) on", "vi": "gây (đau đớn) cho"},
+      {"w": "retort", "vi": "đáp trả, vặn lại"},
+      {"w": "sit uneasily with", "vi": "khó dung hòa với"},
+      {"w": "stark", "vi": "khắc nghiệt, trần trụi"},
+      {"w": "blanket ban", "vi": "lệnh cấm toàn diện"},
+      {"w": "look away", "vi": "ngoảnh mặt làm ngơ"},
+      {"w": "take for granted", "vi": "coi là hiển nhiên"}
+    ],
+    "notes": "Nhấn vào từ nội dung như 'suffer', 'needless pain', 'indifference' và ngắt nhịp ở dấu phẩy để các mệnh đề phụ không bị dồn lại. Câu 'Whatever conclusion we reach,' lên giọng nhẹ ở dấu phẩy rồi hạ giọng ở 'moral choice'."
+  },
+  {
+    "id": "l33",
+    "title": "Digital surveillance and civil liberties",
+    "title_vi": "Giám sát kỹ thuật số và quyền tự do công dân",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Never before have governments and corporations possessed such an intimate record of ordinary people's lives.", "vi": "Chưa bao giờ chính phủ và các tập đoàn nắm giữ một bản ghi chép thân mật đến vậy về cuộc sống của người dân bình thường."},
+      {"en": "Every search, purchase and journey leaves a digital trail that can be gathered, analysed and, quite possibly, exploited.", "vi": "Mỗi lượt tìm kiếm, giao dịch và chuyến đi đều để lại dấu vết số có thể bị thu thập, phân tích và rất có thể bị lợi dụng."},
+      {"en": "Proponents of surveillance insist that it keeps us safe, enabling the authorities to disrupt terrorist plots before they come to fruition.", "vi": "Những người ủng hộ giám sát khẳng định nó giữ cho ta an toàn, giúp nhà chức trách phá vỡ các âm mưu khủng bố trước khi chúng thành hiện thực."},
+      {"en": "Their argument runs that those with nothing to hide have nothing whatsoever to fear, and should therefore welcome scrutiny.", "vi": "Lập luận của họ là những ai không có gì phải giấu thì chẳng có gì phải sợ, và do đó nên hoan nghênh sự soi xét."},
+      {"en": "That reasoning, however, rests on the dubious assumption that those in power will always act in good faith.", "vi": "Tuy nhiên, cách lập luận ấy dựa trên giả định đáng ngờ rằng những người nắm quyền sẽ luôn hành động với thiện chí."},
+      {"en": "History suggests otherwise: information gathered for one purpose has a habit of being repurposed to silence dissent.", "vi": "Lịch sử cho thấy điều ngược lại: thông tin thu thập cho một mục đích thường bị chuyển sang dùng để dập tắt bất đồng chính kiến."},
+      {"en": "Moreover, the mere knowledge of being watched can have a chilling effect, discouraging people from expressing unpopular opinions.", "vi": "Hơn nữa, chỉ riêng việc biết mình bị theo dõi cũng có thể gây hiệu ứng kìm hãm, khiến người ta ngại bày tỏ những quan điểm không được ưa chuộng."},
+      {"en": "Privacy, in this light, is not a luxury but a precondition for free thought and genuine democracy.", "vi": "Nhìn theo cách này, quyền riêng tư không phải là thứ xa xỉ mà là điều kiện tiên quyết cho tư duy tự do và nền dân chủ đích thực."},
+      {"en": "Admittedly, some intrusion may be justified, provided it is proportionate, time-limited and subject to independent judicial oversight.", "vi": "Phải thừa nhận rằng một mức độ xâm phạm nào đó có thể chính đáng, miễn là nó tương xứng, có thời hạn và chịu sự giám sát độc lập của tư pháp."},
+      {"en": "What troubles me most is how readily we have surrendered our data in exchange for mere convenience.", "vi": "Điều khiến tôi lo ngại nhất là ta đã dễ dàng giao nộp dữ liệu của mình đến thế chỉ để đổi lấy sự tiện lợi."},
+      {"en": "Unless citizens demand transparency and meaningful safeguards, the erosion of liberty will proceed quietly, one reasonable-sounding measure at a time.", "vi": "Nếu công dân không đòi hỏi sự minh bạch và những biện pháp bảo vệ có ý nghĩa, sự xói mòn tự do sẽ diễn ra lặng lẽ, từng biện pháp nghe có vẻ hợp lý một."}
+    ],
+    "vocab": [
+      {"w": "intimate record", "vi": "bản ghi chép riêng tư, chi tiết"},
+      {"w": "come to fruition", "vi": "thành hiện thực, đạt kết quả"},
+      {"w": "scrutiny", "vi": "sự soi xét kỹ lưỡng"},
+      {"w": "act in good faith", "vi": "hành động với thiện chí"},
+      {"w": "dissent", "vi": "sự bất đồng chính kiến"},
+      {"w": "chilling effect", "vi": "hiệu ứng kìm hãm (khiến người ta e ngại)"},
+      {"w": "precondition", "vi": "điều kiện tiên quyết"},
+      {"w": "judicial oversight", "vi": "sự giám sát của tư pháp"}
+    ],
+    "notes": "Câu mở đầu đảo ngữ 'Never before have...' nhấn mạnh vào 'Never' rồi giữ nhịp đều đến hết câu. Ở các liệt kê như 'gathered, analysed and, quite possibly, exploited', giọng lên nhẹ ở từng mục và hạ xuống ở mục cuối."
+  },
+  {
+    "id": "l34",
+    "title": "The role of literature in society",
+    "title_vi": "Vai trò của văn học trong xã hội",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "It is tempting to dismiss literature as a pleasant diversion, yet its influence on society runs far deeper.", "vi": "Thật dễ để gạt văn học sang một bên như một thú tiêu khiển dễ chịu, nhưng ảnh hưởng của nó đối với xã hội sâu xa hơn nhiều."},
+      {"en": "A great novel allows us to inhabit another consciousness, and in doing so cultivates the empathy on which civilised life depends.", "vi": "Một cuốn tiểu thuyết lớn cho phép ta sống trong ý thức của người khác, và nhờ đó vun đắp sự đồng cảm mà đời sống văn minh phụ thuộc vào."},
+      {"en": "Studies have suggested that avid readers tend to be more sensitive to the feelings of others.", "vi": "Các nghiên cứu cho thấy những người ham đọc thường nhạy cảm hơn với cảm xúc của người khác."},
+      {"en": "Literature has also served as a powerful instrument of dissent, giving voice to those whom official histories conveniently overlooked.", "vi": "Văn học cũng từng là công cụ mạnh mẽ của sự phản biện, cất tiếng nói cho những người mà các bộ sử chính thống tiện thể bỏ qua."},
+      {"en": "Think of the way Dickens exposed the squalor of Victorian slums, shaming a complacent public into demanding reform.", "vi": "Hãy nghĩ đến cách Dickens phơi bày cảnh nhếch nhác của các khu ổ chuột thời Victoria, khiến công chúng tự mãn phải xấu hổ mà đòi hỏi cải cách."},
+      {"en": "Admittedly, books rarely topple governments, and it would be naïve to exaggerate their direct political effect.", "vi": "Phải thừa nhận rằng sách hiếm khi lật đổ chính quyền, và sẽ là ngây thơ nếu phóng đại tác động chính trị trực tiếp của chúng."},
+      {"en": "Their impact is subtler, shaping the stories a culture tells about itself and the questions it dares to ask.", "vi": "Tác động của chúng tinh tế hơn, định hình những câu chuyện một nền văn hóa kể về chính mình và những câu hỏi nó dám đặt ra."},
+      {"en": "Nor should we overlook the sheer pleasure of language, which in the hands of a skilled writer becomes an art form in its own right.", "vi": "Ta cũng không nên bỏ qua niềm vui thuần túy của ngôn ngữ, thứ mà trong tay một nhà văn tài hoa tự nó trở thành một loại hình nghệ thuật."},
+      {"en": "In an age of fleeting headlines and hurried scrolling, sustained reading offers something increasingly rare: the discipline of deep attention.", "vi": "Trong thời đại của những dòng tiêu đề thoáng qua và việc lướt vội vã, đọc sách bền bỉ mang lại một thứ ngày càng hiếm: kỷ luật của sự tập trung sâu."},
+      {"en": "Were we to lose that habit, we would be poorer, not merely culturally but intellectually and morally.", "vi": "Nếu đánh mất thói quen ấy, ta sẽ nghèo đi, không chỉ về văn hóa mà cả về trí tuệ và đạo đức."},
+      {"en": "Literature, in short, does not simply reflect society; it quietly rewrites the terms on which we understand ourselves.", "vi": "Nói tóm lại, văn học không chỉ phản ánh xã hội; nó lặng lẽ viết lại những điều kiện để ta hiểu chính mình."}
+    ],
+    "vocab": [
+      {"w": "diversion", "vi": "thú tiêu khiển, sự giải trí"},
+      {"w": "cultivate empathy", "vi": "vun đắp sự đồng cảm"},
+      {"w": "avid reader", "vi": "người ham đọc sách"},
+      {"w": "give voice to", "vi": "cất tiếng nói thay cho"},
+      {"w": "squalor", "vi": "cảnh nhếch nhác, bẩn thỉu"},
+      {"w": "complacent", "vi": "tự mãn, thỏa mãn thái quá"},
+      {"w": "topple", "vi": "lật đổ"},
+      {"w": "in its own right", "vi": "tự thân, đứng độc lập"}
+    ],
+    "notes": "Chú ý cấu trúc 'It is tempting to..., yet...' với ngắt nhịp rõ ở dấu phẩy và nhấn mạnh 'yet'. Câu 'Nor should we overlook...' và 'Were we to lose...' có đảo ngữ, nên đọc chậm hơn một chút và hạ giọng ở cuối câu."
+  },
+  {
+    "id": "l35",
+    "title": "Corporate social responsibility",
+    "title_vi": "Trách nhiệm xã hội của doanh nghiệp",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "For decades, the received wisdom was that a company's sole responsibility was to maximise returns for its shareholders.", "vi": "Suốt nhiều thập kỷ, quan niệm phổ biến là trách nhiệm duy nhất của một công ty là tối đa hóa lợi nhuận cho cổ đông."},
+      {"en": "That view has since been challenged by those who argue that businesses owe obligations to employees, communities and the environment.", "vi": "Quan điểm đó từ đó đã bị thách thức bởi những người cho rằng doanh nghiệp có nghĩa vụ với người lao động, cộng đồng và môi trường."},
+      {"en": "Corporate social responsibility, at its best, means integrating ethical considerations into the very core of a company's strategy.", "vi": "Trách nhiệm xã hội doanh nghiệp, ở mức tốt nhất, có nghĩa là lồng ghép các cân nhắc đạo đức vào chính cốt lõi chiến lược của công ty."},
+      {"en": "At its worst, however, it amounts to little more than greenwashing, a glossy campaign designed to deflect scrutiny.", "vi": "Tuy nhiên, ở mức tệ nhất, nó chẳng khác gì chiêu trò tẩy xanh, một chiến dịch bóng bẩy nhằm đánh lạc hướng sự soi xét."},
+      {"en": "Consumers have grown increasingly adept at spotting the difference between genuine commitment and cynical public relations.", "vi": "Người tiêu dùng ngày càng thành thạo trong việc phân biệt cam kết thực sự với màn quan hệ công chúng đầy toan tính."},
+      {"en": "Not only do ethical firms attract loyal customers, but they also find it easier to recruit and retain talented staff.", "vi": "Các công ty có đạo đức không chỉ thu hút khách hàng trung thành mà còn dễ tuyển dụng và giữ chân nhân tài hơn."},
+      {"en": "Sceptics maintain that voluntary pledges are insufficient, and that only robust regulation can compel firms to internalise the costs they impose on others.", "vi": "Những người hoài nghi cho rằng các cam kết tự nguyện là chưa đủ, và chỉ quy định chặt chẽ mới buộc được doanh nghiệp tự gánh chi phí mà họ gây ra cho người khác."},
+      {"en": "There is merit in this view, given that competitive pressure often rewards the company that cuts corners.", "vi": "Quan điểm này có lý, vì áp lực cạnh tranh thường thưởng cho công ty làm ẩu, cắt xén."},
+      {"en": "Yet legislation alone cannot instil a culture of integrity, which must ultimately be nurtured from the boardroom downwards.", "vi": "Tuy nhiên, riêng luật pháp không thể khắc sâu văn hóa liêm chính, thứ rốt cuộc phải được nuôi dưỡng từ phòng họp hội đồng quản trị trở xuống."},
+      {"en": "Seen in this light, responsibility and profitability are not adversaries but, over the long term, mutually reinforcing.", "vi": "Nhìn theo cách này, trách nhiệm và lợi nhuận không phải là đối thủ mà về lâu dài còn củng cố lẫn nhau."},
+      {"en": "The firms that thrive in future will be those that treat accountability not as a burden but as a strategic advantage.", "vi": "Những công ty phát triển mạnh trong tương lai sẽ là những công ty coi trách nhiệm giải trình không phải gánh nặng mà là lợi thế chiến lược."}
+    ],
+    "vocab": [
+      {"w": "received wisdom", "vi": "quan niệm phổ biến, được chấp nhận rộng rãi"},
+      {"w": "greenwashing", "vi": "tẩy xanh (quảng bá giả tạo là thân thiện môi trường)"},
+      {"w": "deflect scrutiny", "vi": "đánh lạc hướng sự soi xét"},
+      {"w": "adept at", "vi": "thành thạo, khéo léo"},
+      {"w": "internalise the costs", "vi": "tự gánh chịu chi phí"},
+      {"w": "cut corners", "vi": "làm ẩu, cắt xén cho nhanh rẻ"},
+      {"w": "instil", "vi": "khắc sâu, truyền dần vào"},
+      {"w": "mutually reinforcing", "vi": "củng cố lẫn nhau"}
+    ],
+    "notes": "Các cặp đối lập 'at its best' và 'At its worst', 'not as a burden but as a strategic advantage' cần nhấn mạnh hai vế và ngắt nhịp ở giữa. Câu đảo ngữ 'Not only do ethical firms...' nhấn 'Not only' rồi lên giọng, hạ giọng ở 'talented staff'."
+  },
+  {
+    "id": "l36",
+    "title": "Meritocracy: myth or reality?",
+    "title_vi": "Chế độ trọng dụng nhân tài: huyền thoại hay hiện thực?",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "The idea that talent and effort, rather than birth, determine success is among the most cherished ideals of modern democracies.", "vi": "Ý tưởng rằng tài năng và nỗ lực, chứ không phải xuất thân, quyết định thành công là một trong những lý tưởng được trân trọng nhất của các nền dân chủ hiện đại."},
+      {"en": "In theory, meritocracy rewards the deserving and gives everyone a fair chance to rise.", "vi": "Về lý thuyết, chế độ trọng dụng nhân tài thưởng cho người xứng đáng và cho mọi người cơ hội vươn lên công bằng."},
+      {"en": "In practice, however, the playing field is far from level, tilted by wealth, connections and accidents of geography.", "vi": "Tuy nhiên trên thực tế, sân chơi còn lâu mới bằng phẳng, nghiêng về phía tiền bạc, các mối quan hệ và những ngẫu nhiên về địa lý."},
+      {"en": "Children from affluent families benefit from private tuition, cultural capital and networks that quietly open doors long before any application is submitted.", "vi": "Trẻ em từ các gia đình khá giả được hưởng lợi từ việc học thêm riêng, vốn văn hóa và các mối quan hệ lặng lẽ mở cửa từ rất lâu trước khi hồ sơ nào được nộp."},
+      {"en": "It is therefore hard to maintain that outcomes reflect ability alone, rather than a head start that was never earned.", "vi": "Vì vậy khó mà khẳng định rằng kết quả chỉ phản ánh năng lực, chứ không phải một lợi thế xuất phát chưa từng do mình giành được."},
+      {"en": "Worse still, meritocracy can breed a corrosive arrogance among winners, who attribute their success entirely to their own efforts.", "vi": "Tệ hơn nữa, chế độ này có thể nuôi dưỡng thói kiêu ngạo ăn mòn ở những người chiến thắng, vốn quy toàn bộ thành công cho nỗ lực của bản thân."},
+      {"en": "Those who fall behind, meanwhile, are left to conclude that they have only themselves to blame.", "vi": "Trong khi đó, những người tụt lại phía sau bị buộc phải kết luận rằng họ chỉ có thể tự trách mình."},
+      {"en": "Defenders reply that, for all its flaws, no better principle exists for allocating opportunity than rewarding competence.", "vi": "Những người bênh vực đáp rằng, dù có nhiều khiếm khuyết, không có nguyên tắc nào tốt hơn việc thưởng cho năng lực để phân bổ cơ hội."},
+      {"en": "I would not disagree, but a principle that is never realised risks becoming a convenient myth.", "vi": "Tôi không phản đối, nhưng một nguyên tắc không bao giờ được hiện thực hóa có nguy cơ trở thành một huyền thoại tiện lợi."},
+      {"en": "Genuine progress would require investment in early education, transparent hiring practices and a willingness to acknowledge the role of luck.", "vi": "Tiến bộ thực sự đòi hỏi đầu tư vào giáo dục sớm, quy trình tuyển dụng minh bạch và sự sẵn lòng thừa nhận vai trò của may mắn."},
+      {"en": "Only then might we speak, with a clear conscience, of a society in which merit truly matters.", "vi": "Chỉ khi đó ta mới có thể nói, với lương tâm thanh thản, về một xã hội mà năng lực thực sự có giá trị."}
+    ],
+    "vocab": [
+      {"w": "cherished ideal", "vi": "lý tưởng được trân trọng"},
+      {"w": "level playing field", "vi": "sân chơi bình đẳng"},
+      {"w": "affluent", "vi": "giàu có, khá giả"},
+      {"w": "cultural capital", "vi": "vốn văn hóa"},
+      {"w": "head start", "vi": "lợi thế xuất phát"},
+      {"w": "corrosive", "vi": "ăn mòn, có tác hại dần dần"},
+      {"w": "attribute A to B", "vi": "quy A cho B"},
+      {"w": "for all its flaws", "vi": "dù có nhiều khiếm khuyết"}
+    ],
+    "notes": "Hai câu 'In theory...' và 'In practice, however...' tạo đối lập: nhấn mạnh 'theory' và 'practice', giọng 'however' hạ thấp rồi nâng lên ở 'far from level'. Câu cuối 'Only then might we speak,...' ngắt nhịp hai bên cụm chen giữa 'with a clear conscience'."
+  },
+  {
+    "id": "l37",
+    "title": "Cryptocurrency and the future of money",
+    "title_vi": "Tiền mã hóa và tương lai của tiền tệ",
+    "voice": "en-GB-RyanNeural",
+    "voice_label": "Anh-Anh · Ryan (nam)",
+    "sentences": [
+      {"en": "Cryptocurrencies were born out of distrust, a reaction against banks that had gambled recklessly and then been rescued at public expense.", "vi": "Tiền mã hóa ra đời từ sự mất niềm tin, một phản ứng chống lại các ngân hàng từng đánh cược liều lĩnh rồi được cứu bằng tiền công."},
+      {"en": "Their promise was a form of money that no central authority could debase, censor or confiscate.", "vi": "Lời hứa của chúng là một dạng tiền mà không cơ quan trung ương nào có thể làm mất giá, kiểm duyệt hay tịch thu."},
+      {"en": "More than a decade on, that promise remains, by any honest reckoning, only partially fulfilled.", "vi": "Hơn một thập kỷ sau, lời hứa ấy, xét một cách thẳng thắn, vẫn chỉ được thực hiện một phần."},
+      {"en": "On the one hand, blockchain technology has demonstrated that transactions can be verified without any trusted intermediary.", "vi": "Một mặt, công nghệ chuỗi khối đã chứng minh rằng giao dịch có thể được xác minh mà không cần bất kỳ trung gian đáng tin cậy nào."},
+      {"en": "On the other, the extreme volatility of most digital coins makes them better suited to speculation than to everyday commerce.", "vi": "Mặt khác, sự biến động cực đoan của phần lớn đồng tiền số khiến chúng phù hợp với đầu cơ hơn là thương mại hằng ngày."},
+      {"en": "Fortunes have been made and lost overnight, and unscrupulous operators have exploited the hype to defraud inexperienced investors.", "vi": "Những gia tài đã được tạo ra và mất đi chỉ sau một đêm, và những kẻ thiếu đạo đức đã lợi dụng cơn sốt để lừa các nhà đầu tư thiếu kinh nghiệm."},
+      {"en": "Nor can we ignore the colossal energy consumption of certain mining operations, which sits awkwardly with climate commitments.", "vi": "Ta cũng không thể bỏ qua mức tiêu thụ năng lượng khổng lồ của một số hoạt động đào tiền, điều mâu thuẫn khó xử với các cam kết khí hậu."},
+      {"en": "Central banks, wary of losing control over monetary policy, are meanwhile developing digital currencies of their own.", "vi": "Trong khi đó, các ngân hàng trung ương, e ngại mất quyền kiểm soát chính sách tiền tệ, đang phát triển các loại tiền số của riêng mình."},
+      {"en": "Should these prove popular, they could render private alternatives largely redundant, or at least tightly regulated.", "vi": "Nếu chúng được ưa chuộng, chúng có thể khiến các lựa chọn tư nhân phần lớn trở nên thừa thãi, hoặc ít nhất bị quản lý chặt chẽ."},
+      {"en": "My own suspicion is that the underlying technology will endure, even if many of today's most celebrated coins quietly vanish without trace.", "vi": "Tôi ngờ rằng công nghệ nền tảng sẽ trường tồn, dù nhiều đồng tiền được ca ngợi nhất hôm nay có thể lặng lẽ biến mất không dấu vết."},
+      {"en": "Money, after all, has always depended on collective confidence, and confidence is precisely what remains in short supply.", "vi": "Suy cho cùng, tiền luôn dựa vào niềm tin tập thể, và niềm tin chính là thứ vẫn còn khan hiếm."}
+    ],
+    "vocab": [
+      {"w": "at public expense", "vi": "bằng tiền của công chúng"},
+      {"w": "debase", "vi": "làm giảm giá trị"},
+      {"w": "by any honest reckoning", "vi": "xét một cách thẳng thắn"},
+      {"w": "volatility", "vi": "tính biến động mạnh"},
+      {"w": "unscrupulous", "vi": "vô đạo đức, không từ thủ đoạn"},
+      {"w": "defraud", "vi": "lừa đảo, chiếm đoạt bằng gian dối"},
+      {"w": "redundant", "vi": "thừa, không còn cần thiết"},
+      {"w": "in short supply", "vi": "khan hiếm"}
+    ],
+    "notes": "Cặp 'On the one hand' và 'On the other' nên nhấn 'one' và 'other', ngắt nhịp rõ ở dấu phẩy. Câu 'Should these prove popular,...' là đảo ngữ điều kiện: lên giọng ở cuối vế đầu rồi hạ giọng ở vế kết quả."
+  },
+  {
+    "id": "l38",
+    "title": "The psychology of social media",
+    "title_vi": "Tâm lý học của mạng xã hội",
+    "voice": "en-GB-SoniaNeural",
+    "voice_label": "Anh-Anh · Sonia (nữ)",
+    "sentences": [
+      {"en": "Social media platforms are engineered, with remarkable sophistication, to capture and hold our attention for as long as possible.", "vi": "Các nền tảng mạng xã hội được thiết kế, với độ tinh vi đáng kinh ngạc, để thu hút và giữ chân sự chú ý của ta càng lâu càng tốt."},
+      {"en": "Every notification and endless scroll exploits a quirk of human psychology: our craving for novelty and social approval.", "vi": "Mỗi thông báo và thao tác cuộn vô tận đều khai thác một nét kỳ lạ của tâm lý con người: cơn khao khát điều mới mẻ và sự tán thưởng của xã hội."},
+      {"en": "Each 'like' delivers a small dose of validation, which, much like a slot machine, keeps us returning for more.", "vi": "Mỗi lượt thích mang lại một liều nhỏ sự công nhận, và giống như máy đánh bạc, khiến ta cứ quay lại để đòi thêm."},
+      {"en": "Over time, this can distort our sense of self-worth, tethering it to metrics that bear little relation to real merit.", "vi": "Theo thời gian, điều này có thể bóp méo cảm giác về giá trị bản thân, buộc nó vào những con số ít liên quan đến năng lực thực sự."},
+      {"en": "Young people are particularly susceptible, comparing their unvarnished lives with the polished highlights curated by their peers.", "vi": "Người trẻ đặc biệt dễ bị tác động, khi so sánh cuộc sống mộc mạc của mình với những khoảnh khắc bóng bẩy được bạn bè chọn lọc."},
+      {"en": "Hardly surprising, then, that researchers have linked heavy use to anxiety, poor sleep and a pervasive feeling of inadequacy.", "vi": "Vì vậy chẳng có gì ngạc nhiên khi các nhà nghiên cứu liên hệ việc dùng nhiều với lo âu, ngủ kém và cảm giác bất tài lan tỏa."},
+      {"en": "That said, it would be simplistic to cast these platforms as wholly malign, or to blame them for every modern ill.", "vi": "Dẫu vậy, sẽ là giản đơn nếu coi các nền tảng này hoàn toàn độc hại, hay đổ lỗi cho chúng về mọi tệ nạn hiện đại."},
+      {"en": "They enable isolated individuals to find communities, and allow marginalised voices to reach audiences that were once unimaginable.", "vi": "Chúng giúp những cá nhân cô lập tìm thấy cộng đồng, và cho phép những tiếng nói bị gạt ra lề tiếp cận lượng khán giả từng không thể tưởng tượng."},
+      {"en": "The crux of the matter is not whether we use them, but how consciously we do so.", "vi": "Mấu chốt của vấn đề không phải là ta có dùng chúng hay không, mà là ta dùng một cách có ý thức đến mức nào."},
+      {"en": "Setting boundaries, muting corrosive accounts and prioritising face-to-face contact can restore a measure of balance.", "vi": "Đặt ra ranh giới, tắt tiếng các tài khoản độc hại và ưu tiên tiếp xúc trực tiếp có thể khôi phục phần nào sự cân bằng."},
+      {"en": "Ultimately, technology is a tool, and its effect on our wellbeing depends largely on who is holding it.", "vi": "Suy cho cùng, công nghệ là một công cụ, và tác động của nó lên sức khỏe tinh thần phần lớn tùy thuộc vào người cầm nó."}
+    ],
+    "vocab": [
+      {"w": "quirk", "vi": "nét kỳ quặc, đặc điểm lạ"},
+      {"w": "validation", "vi": "sự công nhận, xác nhận giá trị"},
+      {"w": "tether to", "vi": "buộc chặt vào"},
+      {"w": "susceptible", "vi": "dễ bị tác động"},
+      {"w": "unvarnished", "vi": "mộc mạc, không tô vẽ"},
+      {"w": "curate", "vi": "chọn lọc và sắp xếp"},
+      {"w": "malign", "vi": "độc hại, có hại"},
+      {"w": "the crux of the matter", "vi": "mấu chốt của vấn đề"}
+    ],
+    "notes": "Nhấn vào các từ then chốt như 'engineered', 'craving', 'consciously', và hạ giọng sau dấu hai chấm ở câu thứ hai. Cụm 'That said,' đọc với giọng lên nhẹ rồi dừng ngắn để chuyển ý."
+  },
+  {
+    "id": "l39",
+    "title": "Intergenerational fairness",
+    "title_vi": "Công bằng giữa các thế hệ",
+    "voice": "en-GB-ThomasNeural",
+    "voice_label": "Anh-Anh · Thomas (nam)",
+    "sentences": [
+      {"en": "Younger generations increasingly feel that they have inherited a world arranged largely for the benefit of their elders.", "vi": "Các thế hệ trẻ ngày càng cảm thấy họ thừa hưởng một thế giới được sắp đặt phần lớn vì lợi ích của người lớn tuổi."},
+      {"en": "House prices have soared beyond the reach of many, while secure employment and generous pensions are fast becoming relics.", "vi": "Giá nhà đã tăng vọt vượt tầm với của nhiều người, trong khi việc làm ổn định và lương hưu hậu hĩnh đang nhanh chóng trở thành di vật."},
+      {"en": "Meanwhile, the baby boomers, who enjoyed free education and cheap property, are now accused of pulling up the ladder behind them.", "vi": "Trong khi đó, thế hệ baby boomer, từng được hưởng giáo dục miễn phí và bất động sản rẻ, nay bị cáo buộc là rút cái thang lại sau lưng mình."},
+      {"en": "Such resentment is understandable, but it risks oversimplifying a far more complex picture.", "vi": "Sự oán giận ấy có thể hiểu được, nhưng nó có nguy cơ đơn giản hóa một bức tranh phức tạp hơn nhiều."},
+      {"en": "Plenty of older people struggle with poverty and loneliness, and many are supporting their children and grandchildren financially.", "vi": "Rất nhiều người cao tuổi vật lộn với nghèo đói và cô đơn, và nhiều người đang hỗ trợ tài chính cho con cháu."},
+      {"en": "The real divide, arguably, runs less between generations than between those who own assets and those who do not.", "vi": "Có thể nói, ranh giới thực sự nằm ít giữa các thế hệ hơn là giữa những người sở hữu tài sản và những người không."},
+      {"en": "Nevertheless, there is a genuine question of justice in how we distribute burdens across time.", "vi": "Tuy nhiên, vẫn có một câu hỏi thực sự về công lý trong cách ta phân bổ gánh nặng qua thời gian."},
+      {"en": "Climate change is the starkest example, since today's emissions will be paid for by people who had no say in the matter.", "vi": "Biến đổi khí hậu là ví dụ rõ rệt nhất, vì lượng khí thải hôm nay sẽ do những người không có tiếng nói trong chuyện này phải trả giá."},
+      {"en": "A fair settlement would require governments to think beyond the electoral cycle and invest in housing, education and sustainability.", "vi": "Một thỏa thuận công bằng sẽ đòi hỏi chính phủ nghĩ vượt ra ngoài chu kỳ bầu cử và đầu tư vào nhà ở, giáo dục và tính bền vững."},
+      {"en": "It would also demand a measure of solidarity, with the old acknowledging their advantages and the young recognising their shared interests.", "vi": "Nó cũng đòi hỏi một mức độ đoàn kết, khi người già thừa nhận lợi thế của mình và người trẻ nhận ra lợi ích chung."},
+      {"en": "A society that mortgages its future to subsidise its present can hardly claim to be acting responsibly.", "vi": "Một xã hội đem thế chấp tương lai để trợ cấp cho hiện tại khó có thể tự nhận là đang hành xử có trách nhiệm."}
+    ],
+    "vocab": [
+      {"w": "beyond the reach of", "vi": "vượt tầm với của"},
+      {"w": "relic", "vi": "di vật, thứ lỗi thời"},
+      {"w": "pull up the ladder", "vi": "rút thang (chặn đường người đến sau)"},
+      {"w": "resentment", "vi": "sự oán giận"},
+      {"w": "oversimplify", "vi": "đơn giản hóa quá mức"},
+      {"w": "have no say in", "vi": "không có tiếng nói trong"},
+      {"w": "solidarity", "vi": "sự đoàn kết"},
+      {"w": "mortgage the future", "vi": "đem tương lai ra thế chấp"}
+    ],
+    "notes": "Chú ý cấu trúc song hành 'with the old acknowledging... and the young recognising...' nhấn 'old' và 'young'. Câu 'The real divide, arguably, runs...' đọc nhanh ở cụm chen giữa 'arguably', rồi nhấn mạnh vào 'generations' và 'assets'."
+  },
+  {
+    "id": "l40",
+    "title": "Space colonisation: ambition or escapism?",
+    "title_vi": "Chinh phục không gian: tham vọng hay trốn chạy?",
+    "voice": "en-GB-LibbyNeural",
+    "voice_label": "Anh-Anh · Libby (nữ)",
+    "sentences": [
+      {"en": "The prospect of settling other worlds has long captured the imagination, but is it a noble ambition or a convenient escape?", "vi": "Viễn cảnh định cư trên những thế giới khác từ lâu đã chinh phục trí tưởng tượng, nhưng đó là một tham vọng cao quý hay một lối thoát tiện lợi?"},
+      {"en": "Advocates, including several prominent billionaires, argue that humanity must become a multi-planetary species to insure against extinction.", "vi": "Những người ủng hộ, trong đó có vài tỷ phú nổi tiếng, cho rằng nhân loại phải trở thành loài đa hành tinh để phòng ngừa tuyệt chủng."},
+      {"en": "A single asteroid, pandemic or nuclear catastrophe could, in principle, extinguish our civilisation on its only home.", "vi": "Về nguyên tắc, chỉ một tiểu hành tinh, đại dịch hay thảm họa hạt nhân cũng có thể xóa sổ nền văn minh của ta trên mái nhà duy nhất."},
+      {"en": "There is undeniable logic in this, and the technologies developed along the way have often benefited life on Earth.", "vi": "Điều này có logic không thể phủ nhận, và những công nghệ phát triển trên đường đi thường mang lại lợi ích cho đời sống trên Trái Đất."},
+      {"en": "Critics, however, contend that the money would be better spent repairing the planet we already inhabit.", "vi": "Tuy nhiên, giới phê bình cho rằng số tiền ấy nên dùng để hàn gắn hành tinh mà ta đang sống thì hơn."},
+      {"en": "Mars, after all, is a frozen, irradiated desert; it would be far easier to make Earth sustainable than Mars habitable.", "vi": "Suy cho cùng, sao Hỏa là một sa mạc băng giá, đầy bức xạ; làm cho Trái Đất bền vững dễ hơn nhiều so với làm cho sao Hỏa có thể ở được."},
+      {"en": "There is also something faintly troubling about the notion that we might simply abandon a world we have ruined.", "vi": "Cũng có điều gì đó hơi đáng lo trong ý nghĩ rằng ta có thể đơn giản bỏ rơi một thế giới mà chính mình đã phá hỏng."},
+      {"en": "Furthermore, who would decide who goes, and under whose laws would the first settlements be governed?", "vi": "Hơn nữa, ai sẽ quyết định ai được đi, và các khu định cư đầu tiên sẽ được cai quản theo luật của ai?"},
+      {"en": "These questions are rarely addressed with the seriousness they deserve, amid the excitement of rocket launches.", "vi": "Những câu hỏi này hiếm khi được xem xét nghiêm túc như chúng xứng đáng, giữa sự hào hứng của các vụ phóng tên lửa."},
+      {"en": "I would suggest that exploration and stewardship need not be mutually exclusive, provided we keep our priorities firmly in order.", "vi": "Tôi cho rằng thám hiểm và quản lý có trách nhiệm không nhất thiết loại trừ nhau, miễn là ta giữ các ưu tiên của mình thật rõ ràng."},
+      {"en": "The stars may well be our destiny, but only if we first prove capable of looking after the ground beneath our feet.", "vi": "Các vì sao rất có thể là định mệnh của ta, nhưng chỉ khi trước hết ta chứng tỏ được mình biết chăm sóc mảnh đất dưới chân."}
+    ],
+    "vocab": [
+      {"w": "capture the imagination", "vi": "chinh phục trí tưởng tượng"},
+      {"w": "insure against", "vi": "phòng ngừa, đề phòng"},
+      {"w": "extinguish", "vi": "dập tắt, xóa sổ"},
+      {"w": "irradiated", "vi": "bị chiếu xạ, đầy bức xạ"},
+      {"w": "habitable", "vi": "có thể ở được"},
+      {"w": "faintly troubling", "vi": "hơi đáng lo ngại"},
+      {"w": "stewardship", "vi": "sự quản lý có trách nhiệm"},
+      {"w": "mutually exclusive", "vi": "loại trừ lẫn nhau"}
+    ],
+    "notes": "Câu hỏi 'noble ambition or a convenient escape?' lên giọng ở 'ambition' rồi xuống ở 'escape'. Câu cuối dùng hedging 'may well be', nhấn nhẹ 'may well' và nhấn mạnh 'only if' để làm rõ điều kiện."
+  }
+]

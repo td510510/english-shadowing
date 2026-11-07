@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shadowing B1–C1</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <h1>🎧 Shadowing English</h1>
+  <nav id="levels"></nav>
+  <div id="streak"></div>
+</header>
+
+<main>
+  <section id="list-view">
+    <h2 id="list-title"></h2>
+    <ul id="lesson-list"></ul>
+  </section>
+
+  <section id="lesson-view" hidden>
+    <button id="back" class="link">← Danh sách bài</button>
+    <h2 id="lesson-title"></h2>
+    <p id="lesson-sub" class="muted"></p>
+
+    <div class="toolbar">
+      <button id="play-all">▶ Nghe cả bài</button>
+      <button id="shadow">🗣 Shadowing</button>
+      <button id="stop">⏹ Dừng</button>
+      <label>Tốc độ
+        <select id="speed">
+          <option value="slow">Chậm</option>
+          <option value="normal" selected>Chuẩn</option>
+          <option value="fast">Nhanh (1.15x)</option>
+        </select>
+      </label>
+      <label>🔊 Âm lượng
+        <input type="range" id="volume" min="0" max="1" step="0.05" value="1">
+      </label>
+      <label>🔁 Lặp mỗi câu
+        <select id="repeat">
+          <option value="1" selected>1 lần</option>
+          <option value="2">2 lần</option>
+          <option value="3">3 lần</option>
+          <option value="5">5 lần</option>
+        </select>
+      </label>
+      <label><input type="checkbox" id="loop"> Lặp cả bài</label>
+      <label><input type="checkbox" id="show-vi" checked> Dịch tiếng Việt</label>
+      <label><input type="checkbox" id="show-en" checked> Transcript</label>
+    </div>
+
+    <ol id="sentences"></ol>
+
+    <div class="recorder">
+      <button id="rec">⏺ Ghi âm</button>
+      <audio id="rec-audio" controls hidden></audio>
+      <span id="rec-msg" class="muted"></span>
+    </div>
+
+    <h3>Từ khóa</h3>
+    <ul id="vocab"></ul>
+    <h3>Ghi chú phát âm</h3>
+    <p id="notes"></p>
+
+    <button id="done" class="primary">✓ Đánh dấu đã hoàn thành</button>
+  </section>
+</main>
+
+<script src="data/b1.js"></script>
+<script src="data/b2.js"></script>
+<script src="data/c1.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
